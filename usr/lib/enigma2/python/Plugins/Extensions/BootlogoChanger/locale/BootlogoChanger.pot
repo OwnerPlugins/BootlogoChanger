@@ -1,5 +1,204 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# BootlogoChanger translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
 #
+msgid ""
+msgstr ""
+"Project-Id-Version: BootlogoChanger\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: ekekaz@gmail.com [lululla]\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+msgid "Activate the debug-output on console"
+msgstr ""
+
+msgid "Bootlogo is excluded from random selection"
+msgstr ""
+
+msgid "Bootlogo is included in random selection"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Choose random bootlogo at the start of the box"
+msgstr ""
+
+msgid "Copy logofiles failed"
+msgstr ""
+
+msgid "Current bootlogo"
+msgstr ""
+
+msgid "Debugmode"
+msgstr ""
+
+msgid "Deinstallation of FFmpeg failed"
+msgstr ""
+
+msgid "Delete current mvi-files before changing bootlogo"
+msgstr ""
+
+msgid "Directory with bootlogo folders"
+msgstr ""
+
+msgid "Display duration of the status messages (sec)"
+msgstr ""
+
+msgid "Easily switch between different bootlogos"
+msgstr ""
+
+msgid "Exclude"
+msgstr ""
+
+msgid "Exit plugin without saving"
+msgstr ""
+
+msgid "FFmpeg is needed to generate thumbnails from the mvi files"
+msgstr ""
+
+msgid "FFmpeg ist missing, no preview pictures available - there is an option to install it in the stettings"
+msgstr ""
+
+msgid "FFmpeg removed successfully"
+msgstr ""
+
+msgid "FFmpeg successfully installed"
+msgstr ""
+
+msgid "First delete the mvi-files of the current bootlogo then copy the files of the new one"
+msgstr ""
+
+msgid "Found bootlogos"
+msgstr ""
+
+msgid "Full screen view the selected bootlogo"
+msgstr ""
+
+msgid "Hide directories without 'mvi'-files"
+msgstr ""
+
+msgid "Hide empty directories"
+msgstr ""
+
+msgid "How many seconds should status messages be displayed (1-60 sec)"
+msgstr ""
+
+msgid "Include"
+msgstr ""
+
+msgid "Include or exlude logo in random choice"
+msgstr ""
+
+msgid "Included Screens"
+msgstr ""
+
+msgid "Install/deinstall ffmpeg"
+msgstr ""
+
+msgid "Installation of FFmpeg failed"
+msgstr ""
+
+msgid "No bootlogos found in directory"
+msgstr ""
+
+msgid "OK"
+msgstr ""
+
+msgid "Open settings"
+msgstr ""
+
+msgid "Preview Logo"
+msgstr ""
+
+msgid "Preview picture"
+msgstr ""
+
+msgid "Random mode"
+msgstr ""
+
+msgid "Random selection at startup disabled"
+msgstr ""
+
+msgid "Random selection at startup enabled"
+msgstr ""
+
+msgid "Save Changes and exit plugin"
+msgstr ""
+
+msgid "Search for folders with boot logos in this directory"
+msgstr ""
+
+msgid "Which bootlogos should be displayed?"
+msgstr ""
+
+msgid "Which logo should be displayed as a preview picture?"
+msgstr ""
+
+msgid "[BootlogoChanger] activated new bootlogo"
+msgstr ""
+
+msgid "[BootlogoChanger] activating new bootlogo failed"
+msgstr ""
+
+msgid "[BootlogoChanger] copy failed"
+msgstr ""
+
+msgid "[BootlogoChanger] deleting old bootlogo files"
+msgstr ""
+
+msgid "[BootlogoChanger] deleting previewPicture"
+msgstr ""
+
+msgid "[BootlogoChanger] ffmpeg not found"
+msgstr ""
+
+msgid "[BootlogoChanger] found Bootlogos"
+msgstr ""
+
+msgid "[BootlogoChanger] found ffmpeg"
+msgstr ""
+
+msgid "[BootlogoChanger] no bootlogos for randomization selected"
+msgstr ""
+
+msgid "[BootlogoChanger] previewPicture changed"
+msgstr ""
+
+msgid "[BootlogoChanger] randomization of bootlogos activated"
+msgstr ""
+
+msgid "[BootlogoChanger] randomization of bootlogos deactivated"
+msgstr ""
+
+msgid "[BootlogoChanger] randomization: bootlogo found"
+msgstr ""
+
+msgid "[BootlogoChanger] selected bootlogos"
+msgstr ""
+
+msgid "deinstall"
+msgstr ""
+
+msgid "found"
+msgstr ""
+
+msgid "install"
+msgstr ""
+
+msgid "missing"
+msgstr ""
+
+msgid "off"
+msgstr ""
+
+msgid "on"
+msgstr ""
