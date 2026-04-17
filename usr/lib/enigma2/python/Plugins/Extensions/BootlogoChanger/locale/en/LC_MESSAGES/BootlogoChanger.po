@@ -1,0 +1,202 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma 2\n"
+"PO-Revision-Date: 2026-04-17 20:30+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: English\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# BootlogoChanger translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid "Activate the debug-output on console"
+msgstr "Activate the debug-output on console"
+
+msgid "Bootlogo is excluded from random selection"
+msgstr "Bootlogo is excluded from random selection"
+
+msgid "Bootlogo is included in random selection"
+msgstr "Bootlogo is included in random selection"
+
+msgid "Cancel"
+msgstr "Cancel"
+
+msgid "Choose random bootlogo at the start of the box"
+msgstr "Choose random bootlogo at the start of the box"
+
+msgid "Copy logofiles failed"
+msgstr "Copy logofiles failed"
+
+msgid "Current bootlogo"
+msgstr "Current bootlogo"
+
+msgid "Debugmode"
+msgstr "Debugmode"
+
+msgid "Deinstallation of FFmpeg failed"
+msgstr "Deinstallation of FFmpeg failed"
+
+msgid "Delete current mvi-files before changing bootlogo"
+msgstr "Delete current mvi-files before changing bootlogo"
+
+msgid "Directory with bootlogo folders"
+msgstr "Directory with bootlogo folders"
+
+msgid "Display duration of the status messages (sec)"
+msgstr "Display duration of the status messages (sec)"
+
+msgid "Easily switch between different bootlogos"
+msgstr "Easily switch between different bootlogos"
+
+msgid "Exclude"
+msgstr "Exclude"
+
+msgid "Exit plugin without saving"
+msgstr "Exit plugin without saving"
+
+msgid "FFmpeg is needed to generate thumbnails from the mvi files"
+msgstr "FFmpeg is needed to generate thumbnails from the mvi files"
+
+msgid "FFmpeg ist missing, no preview pictures available - there is an option to install it in the stettings"
+msgstr "FFmpeg ist missing, no preview pictures available - there is an option to install it in the stettings"
+
+msgid "FFmpeg removed successfully"
+msgstr "FFmpeg removed successfully"
+
+msgid "FFmpeg successfully installed"
+msgstr "FFmpeg successfully installed"
+
+msgid "First delete the mvi-files of the current bootlogo then copy the files of the new one"
+msgstr "First delete the mvi-files of the current bootlogo then copy the files of the new one"
+
+msgid "Found bootlogos"
+msgstr "Found bootlogos"
+
+msgid "Full screen view the selected bootlogo"
+msgstr "Full screen view the selected bootlogo"
+
+msgid "Hide directories without 'mvi'-files"
+msgstr "Hide directories without 'mvi'-files"
+
+msgid "Hide empty directories"
+msgstr "Hide empty directories"
+
+msgid "How many seconds should status messages be displayed (1-60 sec)"
+msgstr "How many seconds should status messages be displayed (1-60 sec)"
+
+msgid "Include"
+msgstr "Include"
+
+msgid "Include or exlude logo in random choice"
+msgstr "Include or exlude logo in random choice"
+
+msgid "Included Screens"
+msgstr "Included Screens"
+
+msgid "Install/deinstall ffmpeg"
+msgstr "Install/deinstall ffmpeg"
+
+msgid "Installation of FFmpeg failed"
+msgstr "Installation of FFmpeg failed"
+
+msgid "No bootlogos found in directory"
+msgstr "No bootlogos found in directory"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Open settings"
+msgstr "Open settings"
+
+msgid "Preview Logo"
+msgstr "Preview Logo"
+
+msgid "Preview picture"
+msgstr "Preview picture"
+
+msgid "Random mode"
+msgstr "Random mode"
+
+msgid "Random selection at startup disabled"
+msgstr "Random selection at startup disabled"
+
+msgid "Random selection at startup enabled"
+msgstr "Random selection at startup enabled"
+
+msgid "Save Changes and exit plugin"
+msgstr "Save Changes and exit plugin"
+
+msgid "Search for folders with boot logos in this directory"
+msgstr "Search for folders with boot logos in this directory"
+
+msgid "Which bootlogos should be displayed?"
+msgstr "Which bootlogos should be displayed?"
+
+msgid "Which logo should be displayed as a preview picture?"
+msgstr "Which logo should be displayed as a preview picture?"
+
+msgid "[BootlogoChanger] activated new bootlogo"
+msgstr "[BootlogoChanger] activated new bootlogo"
+
+msgid "[BootlogoChanger] activating new bootlogo failed"
+msgstr "[BootlogoChanger] activating new bootlogo failed"
+
+msgid "[BootlogoChanger] copy failed"
+msgstr "[BootlogoChanger] copy failed"
+
+msgid "[BootlogoChanger] deleting old bootlogo files"
+msgstr "[BootlogoChanger] deleting old bootlogo files"
+
+msgid "[BootlogoChanger] deleting previewPicture"
+msgstr "[BootlogoChanger] deleting previewPicture"
+
+msgid "[BootlogoChanger] ffmpeg not found"
+msgstr "[BootlogoChanger] ffmpeg not found"
+
+msgid "[BootlogoChanger] found Bootlogos"
+msgstr "[BootlogoChanger] found Bootlogos"
+
+msgid "[BootlogoChanger] found ffmpeg"
+msgstr "[BootlogoChanger] found ffmpeg"
+
+msgid "[BootlogoChanger] no bootlogos for randomization selected"
+msgstr "[BootlogoChanger] no bootlogos for randomization selected"
+
+msgid "[BootlogoChanger] previewPicture changed"
+msgstr "[BootlogoChanger] previewPicture changed"
+
+msgid "[BootlogoChanger] randomization of bootlogos activated"
+msgstr "[BootlogoChanger] randomization of bootlogos activated"
+
+msgid "[BootlogoChanger] randomization of bootlogos deactivated"
+msgstr "[BootlogoChanger] randomization of bootlogos deactivated"
+
+msgid "[BootlogoChanger] randomization: bootlogo found"
+msgstr "[BootlogoChanger] randomization: bootlogo found"
+
+msgid "[BootlogoChanger] selected bootlogos"
+msgstr "[BootlogoChanger] selected bootlogos"
+
+msgid "deinstall"
+msgstr "deinstall"
+
+msgid "found"
+msgstr "found"
+
+msgid "install"
+msgstr "install"
+
+msgid "missing"
+msgstr "missing"
+
+msgid "off"
+msgstr "off"
+
+msgid "on"
+msgstr "on"
