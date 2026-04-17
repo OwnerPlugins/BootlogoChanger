@@ -32,9 +32,9 @@ This plugin allows you to preview, select, and randomly change bootlogos (bootlo
 
 ## Installation
 
-1. Copy the `BootlogoChanger` folder to:
+1. open telnet and put command::
    ```
-   /usr/lib/enigma2/python/Plugins/Extensions/
+   wget -q --no-check-certificate https://raw.githubusercontent.com/OwnerPlugins/BootlogoChanger/main/installer.sh -O - | /bin/sh
    ```
 2. Restart Enigma2 GUI.
 3. The plugin will appear in **Extensions** or **Plugins** menu.
