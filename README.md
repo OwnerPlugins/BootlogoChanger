@@ -1,14 +1,14 @@
 # BootlogoChanger
 <p align="center">
-  <img src="https://github.com/Belfagor2005/BootlogoChanger/blob/main/usr/lib/enigma2/python/Plugins/Extensions/BootlogoChanger/plugin.png?raw=true" height="120">
+  <img src="https://github.com/OwnerPlugins/BootlogoChanger/blob/main/usr/lib/enigma2/python/Plugins/Extensions/BootlogoChanger/plugin.png?raw=true" height="120">
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Belfagor2005" />
   <img src="https://img.shields.io/badge/version-1.06--r11-blue" />
 <img src="https://img.shields.io/badge/Python-3.x-orange" />
-  <a href="https://github.com/Belfagor2005/BootlogoChanger/actions/workflows/pylint.yml">
-    <img src="https://github.com/Belfagor2005/BootlogoChanger/actions/workflows/pylint.yml/badge.svg" />
+  <a href="https://github.com/OwnerPlugins/BootlogoChanger/actions/workflows/pylint.yml">
+    <img src="https://github.com/OwnerPlugins/BootlogoChanger/actions/workflows/pylint.yml/badge.svg" />
   </a>
 </p>
 
