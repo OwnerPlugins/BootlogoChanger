@@ -53,10 +53,22 @@ current_bootlogo = _("Current bootlogo")
 
 # TRANSLATORS: keep it short, this is a button
 randomization_status = _("Random mode") + ": " + _("off")
-mviFiles = ["bootlogo.mvi", "bootlogo_wait.mvi", "reboot.mvi", "shutdown.mvi", "update_in_progress.mvi",
-            "radio.mvi", "backdrop.mvi"]
-jpgFiles = ["bootlogo.jpg", "bootlogo_wait.jpg", "reboot.jpg", "shutdown.jpg", "update_in_progress.jpg",
-            "radio.jpg", "backdrop.jpg"]
+mviFiles = [
+    "bootlogo.mvi",
+    "bootlogo_wait.mvi",
+    "reboot.mvi",
+    "shutdown.mvi",
+    "update_in_progress.mvi",
+    "radio.mvi",
+    "backdrop.mvi"]
+jpgFiles = [
+    "bootlogo.jpg",
+    "bootlogo_wait.jpg",
+    "reboot.jpg",
+    "shutdown.jpg",
+    "update_in_progress.jpg",
+    "radio.jpg",
+    "backdrop.jpg"]
 size_status_png = 40
 
 config.BootlogoChanger = ConfigSubsection()
@@ -74,9 +86,11 @@ config.BootlogoChanger.preview_picture = ConfigSelection(default="0", choices=[
     ("4", "update_in_progress"),
     ("5", "radio"),
     ("6", "backdrop")])
-config.BootlogoChanger.bootlogo_directory = ConfigDirectory(default=img_bootlogo_directory, visible_width=30)
+config.BootlogoChanger.bootlogo_directory = ConfigDirectory(
+    default=img_bootlogo_directory, visible_width=30)
 
-config.BootlogoChanger.status_text_time = ConfigInteger(default=5, limits=(1, 60))
+config.BootlogoChanger.status_text_time = ConfigInteger(
+    default=5, limits=(1, 60))
 config.BootlogoChanger.debug = ConfigOnOff(default=False)
 
 
@@ -99,8 +113,10 @@ def safe_quote(s):
 
 def execute_command(cmd):
     try:
-        output, error = Popen(cmd, stdout=PIPE, stderr=PIPE, shell=True).communicate()
-        return output.decode('utf-8', errors='ignore'), error.decode('utf-8', errors='ignore')
+        output, error = Popen(
+            cmd, stdout=PIPE, stderr=PIPE, shell=True).communicate()
+        return output.decode(
+            'utf-8', errors='ignore'), error.decode('utf-8', errors='ignore')
     except OSError:
         import traceback
         traceback.print_exc()
@@ -207,16 +223,16 @@ class BootlogoChangerMain(Screen, HelpableScreen):
             ],
             {
                 "ok": self.showFullsize,
-                 "cancel": self.close,
-                 "moveUp": self.goUp,
-                 "moveDown": self.goDown,
-                 "movePageUp": self.goPageUp,
-                 "movePageDown": self.goPageDown,
-                 "red": self.close,
-                 "green": self.save,
-                 "yellow": self.randomization,
-                 "blue": self.changeItemRandomizationStatus,
-                 "menu": self.menu
+                "cancel": self.close,
+                "moveUp": self.goUp,
+                "moveDown": self.goDown,
+                "movePageUp": self.goPageUp,
+                "movePageDown": self.goPageDown,
+                "red": self.close,
+                "green": self.save,
+                "yellow": self.randomization,
+                "blue": self.changeItemRandomizationStatus,
+                "menu": self.menu
             }, -1
         )
 
@@ -261,29 +277,47 @@ class BootlogoChangerMain(Screen, HelpableScreen):
         self.mviFile = ""
         self.Scale = AVSwitch().getFramebufferScale()
 
+        self.helpList.append((self["myActionMap"], "BootlogoChangerActions", [
+            ("ok", _("Full screen view the selected bootlogo"))]))
         self.helpList.append(
-            (self["myActionMap"], "BootlogoChangerActions", [("ok", _("Full screen view the selected bootlogo"))]))
-        self.helpList.append((self["myActionMap"], "BootlogoChangerActions", [("menu", _("Open settings"))]))
+            (self["myActionMap"], "BootlogoChangerActions", [
+                ("menu", _("Open settings"))]))
+        self.helpList.append((self["myActionMap"], "BootlogoChangerActions", [
+            ("cancel", _("Exit plugin without saving"))]))
         self.helpList.append(
-            (self["myActionMap"], "BootlogoChangerActions", [("cancel", _("Exit plugin without saving"))]))
-        self.helpList.append(
-            (self["myActionMap"], "BootlogoChangerActions", [("red", _("Exit plugin without saving"))]))
-        self.helpList.append(
-            (self["myActionMap"], "BootlogoChangerActions", [("green", _("Save Changes and exit plugin"))]))
-        self.helpList.append((self["myActionMap"], "BootlogoChangerActions",
-                              [("yellow", _("Choose random bootlogo at the start of the box"))]))
-        self.helpList.append(
-            (self["myActionMap"], "BootlogoChangerActions", [("blue", _("Include or exlude logo in random choice"))]))
+            (self["myActionMap"], "BootlogoChangerActions", [
+                ("red", _("Exit plugin without saving"))]))
+        self.helpList.append((self["myActionMap"], "BootlogoChangerActions", [
+            ("green", _("Save Changes and exit plugin"))]))
+        self.helpList.append((self["myActionMap"], "BootlogoChangerActions", [
+                             ("yellow", _("Choose random bootlogo at the start of the box"))]))
+        self.helpList.append((self["myActionMap"], "BootlogoChangerActions", [
+            ("blue", _("Include or exlude logo in random choice"))]))
 
-        self.png_checked = getPic(size_status_png, size_status_png, resolveFilename(SCOPE_PLUGINS, item_checked))
-        self.png_unchecked = getPic(size_status_png, size_status_png, resolveFilename(SCOPE_PLUGINS, item_unchecked))
-        self.png_original = getPic(size_status_png, size_status_png, resolveFilename(SCOPE_PLUGINS, item_original))
+        self.png_checked = getPic(
+            size_status_png,
+            size_status_png,
+            resolveFilename(
+                SCOPE_PLUGINS,
+                item_checked))
+        self.png_unchecked = getPic(
+            size_status_png,
+            size_status_png,
+            resolveFilename(
+                SCOPE_PLUGINS,
+                item_unchecked))
+        self.png_original = getPic(
+            size_status_png,
+            size_status_png,
+            resolveFilename(
+                SCOPE_PLUGINS,
+                item_original))
 
         if isfile(self.bootlogo_directory + bootlogo_preview):
             remove(self.bootlogo_directory + bootlogo_preview)
         if not is_ffmpeg_installed():
-            self.showText(_(
-                "FFmpeg ist missing, no preview pictures available - there is an option to install it in the stettings"),
+            self.showText(
+                _("FFmpeg ist missing, no preview pictures available - there is an option to install it in the stettings"),
                 "error")
         self.onLayoutFinish.append(self.init_menu)
 
@@ -313,7 +347,11 @@ class BootlogoChangerMain(Screen, HelpableScreen):
     def menu(self):
         configfile.save()
         self.saveRandomizationStatus()
-        self.session.openWithCallback(self.setConf, BLCSetup, self.all_bootlogos_list, self.ignore_list)
+        self.session.openWithCallback(
+            self.setConf,
+            BLCSetup,
+            self.all_bootlogos_list,
+            self.ignore_list)
 
     def setConf(self):
         self.setTitle("BootlogoChanger v" + __version__)
@@ -321,12 +359,14 @@ class BootlogoChangerMain(Screen, HelpableScreen):
             if install_ffmpeg():
                 self.showText(_("FFmpeg successfully installed"), "info")
             else:
-                self.showText(_("Installation of FFmpeg failed") + "!", "error")
+                self.showText(
+                    _("Installation of FFmpeg failed") + "!", "error")
         if config.BootlogoChanger.ffmpeg.value == "1" and is_ffmpeg_installed():
             if remove_ffmpeg():
                 self.showText(_("FFmpeg removed successfully"), "info")
             else:
-                self.showText(_("Deinstallation of FFmpeg failed") + "!", "error")
+                self.showText(
+                    _("Deinstallation of FFmpeg failed") + "!", "error")
 
         if config.BootlogoChanger.preview_picture.getText() != self.previewPicture:
             if self.debug:
@@ -347,9 +387,14 @@ class BootlogoChangerMain(Screen, HelpableScreen):
             if self.bootlogos_list[x][1] == current_bootlogo:
                 previewPicture = img_bootlogo_directory + bootlogo_preview
             else:
-                previewPicture = self.bootlogo_directory + self.bootlogos_list[x][1] + "/" + bootlogo_preview
+                previewPicture = self.bootlogo_directory + \
+                    self.bootlogos_list[x][1] + "/" + bootlogo_preview
             if self.debug:
-                print(_("[BootlogoChanger] deleting previewPicture") + ": " + str(previewPicture) + "\n")
+                print(
+                    _("[BootlogoChanger] deleting previewPicture") +
+                    ": " +
+                    str(previewPicture) +
+                    "\n")
             if isfile(previewPicture):
                 remove(previewPicture)
 
@@ -381,7 +426,8 @@ class BootlogoChangerMain(Screen, HelpableScreen):
             path_tmp = self.bootlogo_directory + x
             if isdir(path_tmp):
                 if config.BootlogoChanger.ignore_empty_folder.value:
-                    list_mvi = [i for i in listdir(path_tmp) if i.endswith(".mvi")]
+                    list_mvi = [
+                        i for i in listdir(path_tmp) if i.endswith(".mvi")]
                     if not list_mvi == []:
                         self.all_bootlogos_list.append(x)
                 else:
@@ -390,7 +436,10 @@ class BootlogoChangerMain(Screen, HelpableScreen):
         if self.debug:
             print(_("[BootlogoChanger] found Bootlogos") + ":\n")
             for x in range(len(self.all_bootlogos_list)):
-                print("[BootlogoChanger] 		" + self.all_bootlogos_list[x] + "\n")
+                print(
+                    "[BootlogoChanger]         " +
+                    self.all_bootlogos_list[x] +
+                    "\n")
 
     def createIgnoreList(self):
         self.ignore_list = []
@@ -408,7 +457,8 @@ class BootlogoChangerMain(Screen, HelpableScreen):
 
         for x in range(len(self.all_bootlogos_list)):
             if self.all_bootlogos_list[x] not in self.ignore_list:
-                self.bootlogos_list.append((self.png_checked, self.all_bootlogos_list[x]))
+                self.bootlogos_list.append(
+                    (self.png_checked, self.all_bootlogos_list[x]))
 
         self["bootlogo_menu"].setList(self.bootlogos_list)
         self.loadRandomizationStatus()
@@ -416,20 +466,27 @@ class BootlogoChangerMain(Screen, HelpableScreen):
         if self.debug:
             print(_("[BootlogoChanger] selected bootlogos") + ":\n")
             for x in range(len(self.bootlogos_list)):
-                print("[BootlogoChanger] 		" + self.bootlogos_list[x][1] + "\n")
+                print(
+                    "[BootlogoChanger]         " +
+                    self.bootlogos_list[x][1] +
+                    "\n")
 
     def changeItemRandomizationStatus(self):
-        if (not self.status_pic == self.png_original) and self["key_blue"].visible:
+        if (not self.status_pic ==
+                self.png_original) and self["key_blue"].visible:
             self.getItem()
 
             if self.status_pic == self.png_checked:
                 self.status_pic = self.png_unchecked
-                self.showText(_("Bootlogo is excluded from random selection"), "info")
+                self.showText(
+                    _("Bootlogo is excluded from random selection"), "info")
             else:
                 self.status_pic = self.png_checked
-                self.showText(_("Bootlogo is included in random selection"), "info")
+                self.showText(
+                    _("Bootlogo is included in random selection"), "info")
 
-            self["bootlogo_menu"].modifyEntry(self.index, tuple([self.status_pic, self.bootlogoName]))
+            self["bootlogo_menu"].modifyEntry(
+                self.index, tuple([self.status_pic, self.bootlogoName]))
 
     def setBlueKey(self):
         if self["key_blue"].visible:
@@ -457,21 +514,27 @@ class BootlogoChangerMain(Screen, HelpableScreen):
                 self.selectedBootlogo = self.bootlogo_directory + self.bootlogoName + "/"
         self.selectedBootlogoPreviewPic = self.selectedBootlogo + bootlogo_preview
         if self.debug:
-            print("[BootlogoChanger] bootlogoName: " + str(self.bootlogoName) + "\n")
+            print("[BootlogoChanger] bootlogoName: " +
+                  str(self.bootlogoName) + "\n")
         if self.debug:
-            print("[BootlogoChanger] selectedBootlogo: " + str(self.selectedBootlogo) + "\n")
+            print("[BootlogoChanger] selectedBootlogo: " +
+                  str(self.selectedBootlogo) + "\n")
         self.setBlueKey()
 
     def loadPreview(self):
         self.getItem()
         if self.debug:
-            print("[BootlogoChanger] selectedBootlogoPreviewPic: " + str(self.selectedBootlogoPreviewPic) + "\n")
+            print("[BootlogoChanger] selectedBootlogoPreviewPic: " +
+                  str(self.selectedBootlogoPreviewPic) + "\n")
         if not isfile(self.selectedBootlogoPreviewPic):
             if not self.extractPreviewJPG():
-                self.selectedBootlogoPreviewPic = resolveFilename(SCOPE_PLUGINS, no_preview)
+                self.selectedBootlogoPreviewPic = resolveFilename(
+                    SCOPE_PLUGINS, no_preview)
 
-        ptr = getPic(self["preview"].instance.size().width(), self["preview"].instance.size().height(),
-                     self.selectedBootlogoPreviewPic)
+        ptr = getPic(
+            self["preview"].instance.size().width(),
+            self["preview"].instance.size().height(),
+            self.selectedBootlogoPreviewPic)
         if ptr is not None:
             self["preview"].instance.setPixmap(ptr.__deref__())
             # self['preview'].instance.setPixmap(ptr)
@@ -545,51 +608,86 @@ class BootlogoChangerMain(Screen, HelpableScreen):
         try:
             copyfiles = True
             if self.selectedBootlogo != self.bootlogo_directory:
-                filelist = [x for x in listdir(self.selectedBootlogo) if x.endswith(".mvi")]
+                filelist = [
+                    x for x in listdir(
+                        self.selectedBootlogo) if x.endswith(".mvi")]
                 if not filelist == []:
                     if self.delete_old_files:
-                        oldfilelist = [x for x in listdir(img_bootlogo_directory) if
-                                       (x.endswith(".mvi") and not (x == "backdrop.mvi"))]
+                        oldfilelist = [
+                            x for x in listdir(img_bootlogo_directory) if (
+                                x.endswith(".mvi") and not (
+                                    x == "backdrop.mvi"))]
                         if not oldfilelist == []:
                             for file in oldfilelist:
                                 if isfile(self.bootlogo_directory + file):
                                     remove(self.bootlogo_directory + file)
                                 if self.debug:
-                                    print(_(
-                                        "[BootlogoChanger] deleting old bootlogo files") + ": " + self.bootlogo_directory + file + "\n")
+                                    print(
+                                        _("[BootlogoChanger] deleting old bootlogo files") +
+                                        ": " +
+                                        self.bootlogo_directory +
+                                        file +
+                                        "\n")
                     for file in filelist:
-                        if (copyfile(self.selectedBootlogo + file, self.bootlogo_directory)) != 0:
+                        if (copyfile(self.selectedBootlogo + file,
+                                     self.bootlogo_directory)) != 0:
                             copyfiles = False
-                            print(_("[BootlogoChanger] copy failed") + ": " + self.selectedBootlogo + file[
-                                1] + " nach " + self.bootlogo_directory + "\n")
+                            print(
+                                _("[BootlogoChanger] copy failed") +
+                                ": " +
+                                self.selectedBootlogo +
+                                file[1] +
+                                " nach " +
+                                self.bootlogo_directory +
+                                "\n")
                             break
                     if copyfiles:
-                        print(_("[BootlogoChanger] activated new bootlogo") + ": " + self.selectedBootlogo + "\n")
+                        print(
+                            _("[BootlogoChanger] activated new bootlogo") +
+                            ": " +
+                            self.selectedBootlogo +
+                            "\n")
                     else:
-                        self.session.open(MessageBox, _("Copy logofiles failed") + ": " + self.selectedBootlogo + "\n",
-                                          MessageBox.TYPE_WARNING)
+                        self.session.open(
+                            MessageBox,
+                            _("Copy logofiles failed") +
+                            ": " +
+                            self.selectedBootlogo +
+                            "\n",
+                            MessageBox.TYPE_WARNING)
                 else:
-                    self.session.open(MessageBox,
-                                      _("No bootlogos found in directory") + ": " + self.selectedBootlogo + "\n",
-                                      MessageBox.TYPE_WARNING)
+                    self.session.open(
+                        MessageBox,
+                        _("No bootlogos found in directory") +
+                        ": " +
+                        self.selectedBootlogo +
+                        "\n",
+                        MessageBox.TYPE_WARNING)
             return copyfiles
-        except:
+        except BaseException:
             import traceback
             traceback.print_exc()
 
     def extractPreviewJPG(self):
-        cmd = "ffmpeg -f mpegvideo -i \"" + self.selectedBootlogo + self.previewPicture + ".mvi\" -vframes 1 -loglevel error -hide_banner \"" + self.selectedBootlogoPreviewPic + "\""
+        cmd = "ffmpeg -f mpegvideo -i \"" + self.selectedBootlogo + self.previewPicture + \
+            ".mvi\" -vframes 1 -loglevel error -hide_banner \"" + self.selectedBootlogoPreviewPic + "\""
         print('convert mvi to jpg =', cmd)
         if self.debug:
             print("[BootlogoChanger] cmd: " + str(cmd) + "\n")
         output, error = execute_command(cmd)
         if isfile(self.selectedBootlogoPreviewPic):
             if self.debug:
-                print("[BootlogoChanger] extractPreviewJPG ffmpeg stdout: " + str(output) + "\n")
+                print(
+                    "[BootlogoChanger] extractPreviewJPG ffmpeg stdout: " +
+                    str(output) +
+                    "\n")
             return True
         else:
             if self.debug:
-                print("[BootlogoChanger] extractPreviewJPG ffmpeg stderr: " + str(error) + "\n")
+                print(
+                    "[BootlogoChanger] extractPreviewJPG ffmpeg stderr: " +
+                    str(error) +
+                    "\n")
             return False
 
     def showText(self, text, type_text):
@@ -600,7 +698,8 @@ class BootlogoChangerMain(Screen, HelpableScreen):
             self["status_text_error"].setText(text)
             self["status_text_error"].show()
         self.textTimer.stop()
-        self.textTimer.start(config.BootlogoChanger.status_text_time.value * 1000, 1)
+        self.textTimer.start(
+            config.BootlogoChanger.status_text_time.value * 1000, 1)
 
     def hideText(self):
         self["status_text_info"].hide()
@@ -612,7 +711,8 @@ class PicFullView(Screen):
         size_w = getDesktop(0).size().width()
         size_h = getDesktop(0).size().height()
         self.png_file = png_file
-        self.skin = "<screen position=\"0,0\" size=\"" + str(size_w) + "," + str(size_h) + "\" flags=\"wfNoBorder\" > \
+        self.skin = "<screen position=\"0,0\" size=\"" + \
+            str(size_w) + "," + str(size_h) + "\" flags=\"wfNoBorder\" > \
         <widget name=\"pic\" position=\"0,0\" size=\"" + str(size_w) + "," + str(size_h) + "\" zPosition=\"5\" alphatest=\"on\" /> \
         </screen>"
         Screen.__init__(self, session)
@@ -623,7 +723,10 @@ class PicFullView(Screen):
         self.onLayoutFinish.append(self.loadFullPreview)
 
     def loadFullPreview(self):
-        ptr = getPic(self["pic"].instance.size().width(), self["pic"].instance.size().height(), self.png_file)
+        ptr = getPic(
+            self["pic"].instance.size().width(),
+            self["pic"].instance.size().height(),
+            self.png_file)
         if ptr is not None:
             self["pic"].instance.setPixmap(ptr.__deref__())
 
@@ -661,8 +764,8 @@ class BLCSetup(Screen, ConfigListScreen):
             ],
             {
                 "cancel": self.close,
-                 "save": self.save,
-                 "ok": self.ok
+                "save": self.save,
+                "ok": self.ok
             }, -2
         )
         self["key_red"] = StaticText(_("Cancel"))
@@ -670,31 +773,47 @@ class BLCSetup(Screen, ConfigListScreen):
         self["configdesc"] = StaticText()
 
         self.list = []
-        ConfigListScreen.__init__(self, self.list, session=self.session, on_change=self.changedEntry)
+        ConfigListScreen.__init__(
+            self,
+            self.list,
+            session=self.session,
+            on_change=self.changedEntry)
         self["config"].onSelectionChanged.append(self.updateHelp)
         self.setTitle(self.setup_title)
         self.onLayoutFinish.append(self.createSetup)
 
     def createSetup(self):
         self.list = []
-        self.list.append(getConfigListEntry(_("Install/deinstall ffmpeg"), config.BootlogoChanger.ffmpeg,
-                                            _("FFmpeg is needed to generate thumbnails from the mvi files")))
-        self.list.append(getConfigListEntry(_("Preview Logo"), config.BootlogoChanger.preview_picture,
-                                            _("Which logo should be displayed as a preview picture?")))
         self.list.append(
-            getConfigListEntry(_("Directory with bootlogo folders"), config.BootlogoChanger.bootlogo_directory,
-                               _("Search for folders with boot logos in this directory")))
-        self.list.append(getConfigListEntry(_("Delete current mvi-files before changing bootlogo"),
-                                            config.BootlogoChanger.delete_mvi_before_copy,
-                                            _(
-                                                "First delete the mvi-files of the current bootlogo then copy the files of the new one")))
-        self.list.append(getConfigListEntry(_("Hide empty directories"),
-                                            config.BootlogoChanger.ignore_empty_folder,
-                                            _("Hide directories without 'mvi'-files")))
+            getConfigListEntry(
+                _("Install/deinstall ffmpeg"),
+                config.BootlogoChanger.ffmpeg,
+                _("FFmpeg is needed to generate thumbnails from the mvi files")))
         self.list.append(
-            getConfigListEntry(_("Display duration of the status messages (sec)"),
-                               config.BootlogoChanger.status_text_time,
-                               _("How many seconds should status messages be displayed (1-60 sec)")))
+            getConfigListEntry(
+                _("Preview Logo"),
+                config.BootlogoChanger.preview_picture,
+                _("Which logo should be displayed as a preview picture?")))
+        self.list.append(
+            getConfigListEntry(
+                _("Directory with bootlogo folders"),
+                config.BootlogoChanger.bootlogo_directory,
+                _("Search for folders with boot logos in this directory")))
+        self.list.append(
+            getConfigListEntry(
+                _("Delete current mvi-files before changing bootlogo"),
+                config.BootlogoChanger.delete_mvi_before_copy,
+                _("First delete the mvi-files of the current bootlogo then copy the files of the new one")))
+        self.list.append(
+            getConfigListEntry(
+                _("Hide empty directories"),
+                config.BootlogoChanger.ignore_empty_folder,
+                _("Hide directories without 'mvi'-files")))
+        self.list.append(
+            getConfigListEntry(
+                _("Display duration of the status messages (sec)"),
+                config.BootlogoChanger.status_text_time,
+                _("How many seconds should status messages be displayed (1-60 sec)")))
         self.list.append(
             getConfigListEntry(_("Debugmode"), config.BootlogoChanger.debug,
                                _("Activate the debug-output on console")))
@@ -714,8 +833,11 @@ class BLCSetup(Screen, ConfigListScreen):
         self.list.append(getConfigListEntry(section4))
 
         for i in range(len(self.allBootlogosList)):
-            self.list.append(getConfigListEntry(self.allBootlogosList[i], config.BootlogoChanger.logos[i],
-                                                _("Which bootlogos should be displayed?")))
+            self.list.append(
+                getConfigListEntry(
+                    self.allBootlogosList[i],
+                    config.BootlogoChanger.logos[i],
+                    _("Which bootlogos should be displayed?")))
 
         self["config"].list = self.list
         self["config"].l.setList(self.list)
@@ -747,9 +869,13 @@ class BLCSetup(Screen, ConfigListScreen):
         return SetupSummary
 
     def ok(self):
-        if self["config"].getCurrent()[1] == config.BootlogoChanger.bootlogo_directory:
-            self.session.openWithCallback(LocationBoxClosed, LocationBox, _("Directory with bootlogo folders"),
-                                          currDir=config.BootlogoChanger.bootlogo_directory.value)
+        if self["config"].getCurrent(
+        )[1] == config.BootlogoChanger.bootlogo_directory:
+            self.session.openWithCallback(
+                LocationBoxClosed,
+                LocationBox,
+                _("Directory with bootlogo folders"),
+                currDir=config.BootlogoChanger.bootlogo_directory.value)
 
     def save(self):
         xml_file = resolveFilename(SCOPE_PLUGINS, ignore_xml)

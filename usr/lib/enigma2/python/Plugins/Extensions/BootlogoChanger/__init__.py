@@ -23,6 +23,7 @@ ignore_xml = "Extensions/BootlogoChanger/IgnoreBootlogos.xml"
 
 # edit by Lululla 20260417 - porting and fix for python3
 
+
 def localeInit():
     bindtextdomain("BootlogoChanger", join(PLUGINPATH, "locale"))
 
