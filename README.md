@@ -1,4 +1,5 @@
-# BootlogoChanger
+<h1 align="center">⚙️ BootlogoChanger</h1>
+
 <p align="center">
   <img src="https://github.com/OwnerPlugins/BootlogoChanger/blob/main/usr/lib/enigma2/python/Plugins/Extensions/BootlogoChanger/plugin.png?raw=true" height="120">
 </p>
