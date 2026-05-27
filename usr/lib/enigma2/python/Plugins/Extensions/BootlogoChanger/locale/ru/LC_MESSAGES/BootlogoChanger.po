@@ -16,187 +16,187 @@ msgstr ""
 # [lululla] <ekekaz@gmail.com>, 2025.
 #
 msgid "Activate the debug-output on console"
-msgstr ""
+msgstr "Активируйте вывод отладки на консоли"
 
 msgid "Bootlogo is excluded from random selection"
-msgstr ""
+msgstr "Логотип Boot исключен из случайного выбора"
 
 msgid "Bootlogo is included in random selection"
-msgstr ""
+msgstr "Логотип Boot включен в случайный выбор"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Отмена"
 
 msgid "Choose random bootlogo at the start of the box"
-msgstr ""
+msgstr "Выберите случайный загрузочный логотип в начале окна."
 
 msgid "Copy logofiles failed"
-msgstr ""
+msgstr "Копировать файлы логотипов не удалось."
 
 msgid "Current bootlogo"
-msgstr ""
+msgstr "Текущий загрузочный логотип"
 
 msgid "Debugmode"
-msgstr ""
+msgstr "Режим отладки"
 
 msgid "Deinstallation of FFmpeg failed"
-msgstr ""
+msgstr "Удаление FFmpeg не удалось"
 
 msgid "Delete current mvi-files before changing bootlogo"
-msgstr ""
+msgstr "Удалите текущие mvi-файлы перед сменой загрузочного логотипа."
 
 msgid "Directory with bootlogo folders"
-msgstr ""
+msgstr "Каталог с папками с загрузочным логотипом"
 
 msgid "Display duration of the status messages (sec)"
-msgstr ""
+msgstr "Продолжительность отображения статусных сообщений (сек)"
 
 msgid "Easily switch between different bootlogos"
-msgstr ""
+msgstr "Легко переключаться между различными загрузочными логотипами"
 
 msgid "Exclude"
-msgstr ""
+msgstr "Исключать"
 
 msgid "Exit plugin without saving"
-msgstr ""
+msgstr "Выйти из плагина без сохранения"
 
 msgid "FFmpeg is needed to generate thumbnails from the mvi files"
-msgstr ""
+msgstr "FFmpeg необходим для создания миниатюр из файлов MVI."
 
 msgid "FFmpeg ist missing, no preview pictures available - there is an option to install it in the stettings"
-msgstr ""
+msgstr "FFmpeg отсутствует, изображения для предварительного просмотра отсутствуют — в настройках есть возможность установить его."
 
 msgid "FFmpeg removed successfully"
-msgstr ""
+msgstr "FFmpeg успешно удален"
 
 msgid "FFmpeg successfully installed"
-msgstr ""
+msgstr "FFmpeg успешно установлен"
 
 msgid "First delete the mvi-files of the current bootlogo then copy the files of the new one"
-msgstr ""
+msgstr "Сначала удалите mvi-файлы текущего загрузочного логотипа, затем скопируйте файлы нового."
 
 msgid "Found bootlogos"
-msgstr ""
+msgstr "Найдены загрузочные логотипы"
 
 msgid "Full screen view the selected bootlogo"
-msgstr ""
+msgstr "Полноэкранный просмотр выбранного загрузочного логотипа"
 
 msgid "Hide directories without 'mvi'-files"
-msgstr ""
+msgstr "Скрыть каталоги без файлов mvi"
 
 msgid "Hide empty directories"
-msgstr ""
+msgstr "Скрыть пустые каталоги"
 
 msgid "How many seconds should status messages be displayed (1-60 sec)"
-msgstr ""
+msgstr "Сколько секунд должны отображаться сообщения о состоянии (1–60 секунд)"
 
 msgid "Include"
-msgstr ""
+msgstr "Включать"
 
 msgid "Include or exlude logo in random choice"
-msgstr ""
+msgstr "Включить или исключить логотип в случайном порядке"
 
 msgid "Included Screens"
-msgstr ""
+msgstr "Включенные экраны"
 
 msgid "Install/deinstall ffmpeg"
-msgstr ""
+msgstr "Установить/удалить ffmpeg"
 
 msgid "Installation of FFmpeg failed"
-msgstr ""
+msgstr "Установка FFmpeg не удалась"
 
 msgid "No bootlogos found in directory"
-msgstr ""
+msgstr "В каталоге не найдены загрузочные логотипы"
 
 msgid "OK"
-msgstr ""
+msgstr "ХОРОШО"
 
 msgid "Open settings"
-msgstr ""
+msgstr "Открыть настройки"
 
 msgid "Preview Logo"
-msgstr ""
+msgstr "Предварительный просмотр логотипа"
 
 msgid "Preview picture"
-msgstr ""
+msgstr "Предварительный просмотр изображения"
 
 msgid "Random mode"
-msgstr ""
+msgstr "Случайный режим"
 
 msgid "Random selection at startup disabled"
-msgstr ""
+msgstr "Случайный выбор при запуске отключен"
 
 msgid "Random selection at startup enabled"
-msgstr ""
+msgstr "Случайный выбор при запуске включен"
 
 msgid "Save Changes and exit plugin"
-msgstr ""
+msgstr "Сохранить изменения и выйти из плагина"
 
 msgid "Search for folders with boot logos in this directory"
-msgstr ""
+msgstr "Найдите в этом каталоге папки с загрузочными логотипами."
 
 msgid "Which bootlogos should be displayed?"
-msgstr ""
+msgstr "Какие загрузочные логотипы должны отображаться?"
 
 msgid "Which logo should be displayed as a preview picture?"
-msgstr ""
+msgstr "Какой логотип должен отображаться в качестве изображения предварительного просмотра?"
 
 msgid "[BootlogoChanger] activated new bootlogo"
-msgstr ""
+msgstr "[BootlogoChanger] активировал новый загрузочный логотип"
 
 msgid "[BootlogoChanger] activating new bootlogo failed"
-msgstr ""
+msgstr "[BootlogoChanger] не удалось активировать новый загрузочный логотип"
 
 msgid "[BootlogoChanger] copy failed"
-msgstr ""
+msgstr "[BootlogoChanger] не удалось скопировать"
 
 msgid "[BootlogoChanger] deleting old bootlogo files"
-msgstr ""
+msgstr "[BootlogoChanger] удаление старых файлов загрузочного логотипа"
 
 msgid "[BootlogoChanger] deleting previewPicture"
-msgstr ""
+msgstr "[BootlogoChanger] удаление предварительного просмотра изображения"
 
 msgid "[BootlogoChanger] ffmpeg not found"
-msgstr ""
+msgstr "[BootlogoChanger] ffmpeg не найден"
 
 msgid "[BootlogoChanger] found Bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] нашел загрузочные логотипы"
 
 msgid "[BootlogoChanger] found ffmpeg"
-msgstr ""
+msgstr "[BootlogoChanger] нашел ffmpeg"
 
 msgid "[BootlogoChanger] no bootlogos for randomization selected"
-msgstr ""
+msgstr "[BootlogoChanger] не выбраны загрузочные логотипы для рандомизации"
 
 msgid "[BootlogoChanger] previewPicture changed"
-msgstr ""
+msgstr "[BootlogoChanger] Предварительный просмотрИзображение изменено"
 
 msgid "[BootlogoChanger] randomization of bootlogos activated"
-msgstr ""
+msgstr "[BootlogoChanger] активирована рандомизация загрузочных логотипов"
 
 msgid "[BootlogoChanger] randomization of bootlogos deactivated"
-msgstr ""
+msgstr "[BootlogoChanger] отключена рандомизация загрузочных логотипов"
 
 msgid "[BootlogoChanger] randomization: bootlogo found"
-msgstr ""
+msgstr "[BootlogoChanger] рандомизация: найден загрузочный логотип"
 
 msgid "[BootlogoChanger] selected bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] выбранные загрузочные логотипы"
 
 msgid "deinstall"
-msgstr ""
+msgstr "удалить"
 
 msgid "found"
-msgstr ""
+msgstr "найденный"
 
 msgid "install"
-msgstr ""
+msgstr "установить"
 
 msgid "missing"
-msgstr ""
+msgstr "отсутствующий"
 
 msgid "off"
-msgstr ""
+msgstr "выключенный"
 
 msgid "on"
-msgstr ""
+msgstr "на"

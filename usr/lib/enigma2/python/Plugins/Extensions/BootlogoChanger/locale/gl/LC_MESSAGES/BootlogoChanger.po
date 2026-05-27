@@ -15,187 +15,187 @@ msgstr ""
 # [lululla] <ekekaz@gmail.com>, 2025.
 #
 msgid "Activate the debug-output on console"
-msgstr ""
+msgstr "Activa a saída de depuración na consola"
 
 msgid "Bootlogo is excluded from random selection"
-msgstr ""
+msgstr "Bootlogo está excluído da selección aleatoria"
 
 msgid "Bootlogo is included in random selection"
-msgstr ""
+msgstr "Bootlogo está incluído na selección aleatoria"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Cancelar"
 
 msgid "Choose random bootlogo at the start of the box"
-msgstr ""
+msgstr "Escolla bootlogo aleatorio ao comezo da caixa"
 
 msgid "Copy logofiles failed"
-msgstr ""
+msgstr "Produciuse un erro ao copiar os ficheiros de logotipo"
 
 msgid "Current bootlogo"
-msgstr ""
+msgstr "Bootlogo actual"
 
 msgid "Debugmode"
-msgstr ""
+msgstr "Modo de depuración"
 
 msgid "Deinstallation of FFmpeg failed"
-msgstr ""
+msgstr "Fallou a desinstalación de FFmpeg"
 
 msgid "Delete current mvi-files before changing bootlogo"
-msgstr ""
+msgstr "Elimina os ficheiros mvi actuais antes de cambiar o logotipo de arranque"
 
 msgid "Directory with bootlogo folders"
-msgstr ""
+msgstr "Directorio con carpetas bootlogo"
 
 msgid "Display duration of the status messages (sec)"
-msgstr ""
+msgstr "Mostrar a duración das mensaxes de estado (s)"
 
 msgid "Easily switch between different bootlogos"
-msgstr ""
+msgstr "Cambia facilmente entre diferentes logotipos de arranque"
 
 msgid "Exclude"
-msgstr ""
+msgstr "Excluír"
 
 msgid "Exit plugin without saving"
-msgstr ""
+msgstr "Sae do complemento sen gardar"
 
 msgid "FFmpeg is needed to generate thumbnails from the mvi files"
-msgstr ""
+msgstr "FFmpeg é necesario para xerar miniaturas dos ficheiros mvi"
 
 msgid "FFmpeg ist missing, no preview pictures available - there is an option to install it in the stettings"
-msgstr ""
+msgstr "Falta FFmpeg, non hai imaxes de vista previa dispoñibles; hai unha opción para instalalo nos axustes"
 
 msgid "FFmpeg removed successfully"
-msgstr ""
+msgstr "FFmpeg eliminouse correctamente"
 
 msgid "FFmpeg successfully installed"
-msgstr ""
+msgstr "FFmpeg instalouse correctamente"
 
 msgid "First delete the mvi-files of the current bootlogo then copy the files of the new one"
-msgstr ""
+msgstr "Primeiro elimine os ficheiros mvi do logotipo de arranque actual e despois copie os ficheiros do novo"
 
 msgid "Found bootlogos"
-msgstr ""
+msgstr "Bootlogos atopados"
 
 msgid "Full screen view the selected bootlogo"
-msgstr ""
+msgstr "Ver a pantalla completa o logotipo de arranque seleccionado"
 
 msgid "Hide directories without 'mvi'-files"
-msgstr ""
+msgstr "Ocultar directorios sen ficheiros 'mvi'"
 
 msgid "Hide empty directories"
-msgstr ""
+msgstr "Ocultar directorios baleiros"
 
 msgid "How many seconds should status messages be displayed (1-60 sec)"
-msgstr ""
+msgstr "Cantos segundos deberían mostrarse as mensaxes de estado (1-60 segundos)"
 
 msgid "Include"
-msgstr ""
+msgstr "Incluír"
 
 msgid "Include or exlude logo in random choice"
-msgstr ""
+msgstr "Incluír ou excluír o logotipo nunha elección aleatoria"
 
 msgid "Included Screens"
-msgstr ""
+msgstr "Pantallas incluídas"
 
 msgid "Install/deinstall ffmpeg"
-msgstr ""
+msgstr "Instalar/desinstalar ffmpeg"
 
 msgid "Installation of FFmpeg failed"
-msgstr ""
+msgstr "Fallou a instalación de FFmpeg"
 
 msgid "No bootlogos found in directory"
-msgstr ""
+msgstr "Non se atoparon logos de arranque no directorio"
 
 msgid "OK"
 msgstr ""
 
 msgid "Open settings"
-msgstr ""
+msgstr "Abra a configuración"
 
 msgid "Preview Logo"
-msgstr ""
+msgstr "Vista previa do logotipo"
 
 msgid "Preview picture"
-msgstr ""
+msgstr "Vista previa da imaxe"
 
 msgid "Random mode"
-msgstr ""
+msgstr "Modo aleatorio"
 
 msgid "Random selection at startup disabled"
-msgstr ""
+msgstr "Desactivouse a selección aleatoria ao inicio"
 
 msgid "Random selection at startup enabled"
-msgstr ""
+msgstr "Selección aleatoria ao inicio habilitada"
 
 msgid "Save Changes and exit plugin"
-msgstr ""
+msgstr "Garda os cambios e sae do complemento"
 
 msgid "Search for folders with boot logos in this directory"
-msgstr ""
+msgstr "Busca cartafoles con logotipos de arranque neste directorio"
 
 msgid "Which bootlogos should be displayed?"
-msgstr ""
+msgstr "Que logos de arranque deberían mostrarse?"
 
 msgid "Which logo should be displayed as a preview picture?"
-msgstr ""
+msgstr "Que logotipo debería mostrarse como imaxe de vista previa?"
 
 msgid "[BootlogoChanger] activated new bootlogo"
-msgstr ""
+msgstr "[BootlogoChanger] activou o novo logotipo de arranque"
 
 msgid "[BootlogoChanger] activating new bootlogo failed"
-msgstr ""
+msgstr "[BootlogoChanger] fallou ao activar o novo logotipo de arranque"
 
 msgid "[BootlogoChanger] copy failed"
-msgstr ""
+msgstr "Fallou a copia de [BootlogoChanger]."
 
 msgid "[BootlogoChanger] deleting old bootlogo files"
-msgstr ""
+msgstr "[BootlogoChanger] eliminando ficheiros de logo de arranque antigos"
 
 msgid "[BootlogoChanger] deleting previewPicture"
-msgstr ""
+msgstr "[BootlogoChanger] eliminando a vista previa da imaxe"
 
 msgid "[BootlogoChanger] ffmpeg not found"
-msgstr ""
+msgstr "[BootlogoChanger] ffmpeg non atopado"
 
 msgid "[BootlogoChanger] found Bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] atopou Bootlogos"
 
 msgid "[BootlogoChanger] found ffmpeg"
-msgstr ""
+msgstr "[BootlogoChanger] atopou ffmpeg"
 
 msgid "[BootlogoChanger] no bootlogos for randomization selected"
-msgstr ""
+msgstr "[BootlogoChanger] non se seleccionaron logos de arranque para a aleatorización"
 
 msgid "[BootlogoChanger] previewPicture changed"
-msgstr ""
+msgstr "[BootlogoChanger] vista previaA imaxe cambiou"
 
 msgid "[BootlogoChanger] randomization of bootlogos activated"
-msgstr ""
+msgstr "[BootlogoChanger] aleatorización de logotipos de arranque activada"
 
 msgid "[BootlogoChanger] randomization of bootlogos deactivated"
-msgstr ""
+msgstr "[BootlogoChanger] desactivouse a aleatorización dos logotipos de arranque"
 
 msgid "[BootlogoChanger] randomization: bootlogo found"
-msgstr ""
+msgstr "[BootlogoChanger] aleatorización: bootlogo atopado"
 
 msgid "[BootlogoChanger] selected bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] logotipos de arranque seleccionados"
 
 msgid "deinstall"
-msgstr ""
+msgstr "desinstalar"
 
 msgid "found"
-msgstr ""
+msgstr "atopado"
 
 msgid "install"
-msgstr ""
+msgstr "instalar"
 
 msgid "missing"
-msgstr ""
+msgstr "desaparecido"
 
 msgid "off"
-msgstr ""
+msgstr "apagado"
 
 msgid "on"
 msgstr ""

@@ -15,187 +15,187 @@ msgstr ""
 # [lululla] <ekekaz@gmail.com>, 2025.
 #
 msgid "Activate the debug-output on console"
-msgstr ""
+msgstr "Attiva d-debug-output fuq il-console"
 
 msgid "Bootlogo is excluded from random selection"
-msgstr ""
+msgstr "Bootlogo huwa eskluż mill-għażla każwali"
 
 msgid "Bootlogo is included in random selection"
-msgstr ""
+msgstr "Bootlogo huwa inkluż fl-għażla każwali"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Ikkanċella"
 
 msgid "Choose random bootlogo at the start of the box"
-msgstr ""
+msgstr "Agħżel bootlogo każwali fil-bidu tal-kaxxa"
 
 msgid "Copy logofiles failed"
-msgstr ""
+msgstr "Il-kopja tal-logofiles fallew"
 
 msgid "Current bootlogo"
-msgstr ""
+msgstr "Bootlogo kurrenti"
 
 msgid "Debugmode"
-msgstr ""
+msgstr "Mod ta' debug"
 
 msgid "Deinstallation of FFmpeg failed"
-msgstr ""
+msgstr "Id-diżinstallazzjoni ta' FFmpeg falliet"
 
 msgid "Delete current mvi-files before changing bootlogo"
-msgstr ""
+msgstr "Ħassar l-mvi-files attwali qabel ma tibdel il-bootlogo"
 
 msgid "Directory with bootlogo folders"
-msgstr ""
+msgstr "Direttorju ma bootlogo folders"
 
 msgid "Display duration of the status messages (sec)"
-msgstr ""
+msgstr "It-tul tal-wiri tal-messaġġi tal-istatus (sec)"
 
 msgid "Easily switch between different bootlogos"
-msgstr ""
+msgstr "Aqleb faċilment bejn bootlogos differenti"
 
 msgid "Exclude"
-msgstr ""
+msgstr "Eskludi"
 
 msgid "Exit plugin without saving"
-msgstr ""
+msgstr "Ħruġ mill-plugin mingħajr ma ssalva"
 
 msgid "FFmpeg is needed to generate thumbnails from the mvi files"
-msgstr ""
+msgstr "FFmpeg huwa meħtieġ biex jiġġenera thumbnails mill-fajls mvi"
 
 msgid "FFmpeg ist missing, no preview pictures available - there is an option to install it in the stettings"
-msgstr ""
+msgstr "FFmpeg huwa nieqes, l-ebda stampa ta' preview disponibbli - hemm għażla biex tinstallah fl-istettings"
 
 msgid "FFmpeg removed successfully"
-msgstr ""
+msgstr "FFmpeg tneħħa b'suċċess"
 
 msgid "FFmpeg successfully installed"
-msgstr ""
+msgstr "FFmpeg installat b'suċċess"
 
 msgid "First delete the mvi-files of the current bootlogo then copy the files of the new one"
-msgstr ""
+msgstr "L-ewwel ħassar il-mvi-files tal-bootlogo kurrenti imbagħad ikkopja l-fajls tal-ġdid"
 
 msgid "Found bootlogos"
-msgstr ""
+msgstr "Bootlogos misjuba"
 
 msgid "Full screen view the selected bootlogo"
-msgstr ""
+msgstr "Ara l-iskrin sħiħ il-bootlogo magħżul"
 
 msgid "Hide directories without 'mvi'-files"
-msgstr ""
+msgstr "Aħbi direttorji mingħajr 'mvi'-files"
 
 msgid "Hide empty directories"
-msgstr ""
+msgstr "Aħbi direttorji vojta"
 
 msgid "How many seconds should status messages be displayed (1-60 sec)"
-msgstr ""
+msgstr "Kemm sekondi għandhom jintwerew il-messaġġi tal-istatus (1-60 sek)"
 
 msgid "Include"
-msgstr ""
+msgstr "Inkludi"
 
 msgid "Include or exlude logo in random choice"
-msgstr ""
+msgstr "Inkludi jew teskludi l-logo f'għażla każwali"
 
 msgid "Included Screens"
-msgstr ""
+msgstr "Skrins Inklużi"
 
 msgid "Install/deinstall ffmpeg"
-msgstr ""
+msgstr "Installa/uninstall ffmpeg"
 
 msgid "Installation of FFmpeg failed"
-msgstr ""
+msgstr "L-installazzjoni ta' FFmpeg falliet"
 
 msgid "No bootlogos found in directory"
-msgstr ""
+msgstr "L-ebda bootlogos misjuba fid-direttorju"
 
 msgid "OK"
 msgstr ""
 
 msgid "Open settings"
-msgstr ""
+msgstr "Iftaħ is-settings"
 
 msgid "Preview Logo"
 msgstr ""
 
 msgid "Preview picture"
-msgstr ""
+msgstr "Preview stampa"
 
 msgid "Random mode"
-msgstr ""
+msgstr "Modalità każwali"
 
 msgid "Random selection at startup disabled"
-msgstr ""
+msgstr "Għażla każwali fl-istartjar diżattivata"
 
 msgid "Random selection at startup enabled"
-msgstr ""
+msgstr "Għażla każwali fl-istartjar attivata"
 
 msgid "Save Changes and exit plugin"
-msgstr ""
+msgstr "Save Bidliet u plugin ħruġ"
 
 msgid "Search for folders with boot logos in this directory"
-msgstr ""
+msgstr "Fittex folders bil-logos tal-boot f'dan id-direttorju"
 
 msgid "Which bootlogos should be displayed?"
-msgstr ""
+msgstr "Liema bootlogos għandhom jintwerew?"
 
 msgid "Which logo should be displayed as a preview picture?"
-msgstr ""
+msgstr "Liema logo għandu jintwera bħala stampa ta' preview?"
 
 msgid "[BootlogoChanger] activated new bootlogo"
-msgstr ""
+msgstr "[BootlogoChanger] attivat bootlogo ġdid"
 
 msgid "[BootlogoChanger] activating new bootlogo failed"
-msgstr ""
+msgstr "[BootlogoChanger] l-attivazzjoni tal-bootlogo ġdid falliet"
 
 msgid "[BootlogoChanger] copy failed"
-msgstr ""
+msgstr "Il-kopja [BootlogoChanger] falliet"
 
 msgid "[BootlogoChanger] deleting old bootlogo files"
-msgstr ""
+msgstr "[BootlogoChanger] tħassar fajls bootlogo qodma"
 
 msgid "[BootlogoChanger] deleting previewPicture"
-msgstr ""
+msgstr "[BootlogoChanger] tħassar previewPicture"
 
 msgid "[BootlogoChanger] ffmpeg not found"
-msgstr ""
+msgstr "[BootlogoChanger] ffmpeg ma nstabx"
 
 msgid "[BootlogoChanger] found Bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] sabet Bootlogos"
 
 msgid "[BootlogoChanger] found ffmpeg"
-msgstr ""
+msgstr "[BootlogoChanger] sabet ffmpeg"
 
 msgid "[BootlogoChanger] no bootlogos for randomization selected"
-msgstr ""
+msgstr "[BootlogoChanger] l-ebda bootlogos għal randomizzazzjoni magħżula"
 
 msgid "[BootlogoChanger] previewPicture changed"
-msgstr ""
+msgstr "[BootlogoChanger] previewPicture mibdula"
 
 msgid "[BootlogoChanger] randomization of bootlogos activated"
-msgstr ""
+msgstr "[BootlogoChanger] randomizzazzjoni tal-bootlogos attivata"
 
 msgid "[BootlogoChanger] randomization of bootlogos deactivated"
-msgstr ""
+msgstr "[BootlogoChanger] randomizzazzjoni tal-bootlogos diżattivata"
 
 msgid "[BootlogoChanger] randomization: bootlogo found"
-msgstr ""
+msgstr "[BootlogoChanger] randomization: bootlogo misjub"
 
 msgid "[BootlogoChanger] selected bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] bootlogos magħżula"
 
 msgid "deinstall"
-msgstr ""
+msgstr "iddiżinstalla"
 
 msgid "found"
-msgstr ""
+msgstr "misjuba"
 
 msgid "install"
-msgstr ""
+msgstr "tinstalla"
 
 msgid "missing"
-msgstr ""
+msgstr "nieqsa"
 
 msgid "off"
-msgstr ""
+msgstr "mitfi"
 
 msgid "on"
-msgstr ""
+msgstr "fuq"

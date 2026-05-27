@@ -15,187 +15,187 @@ msgstr ""
 # [lululla] <ekekaz@gmail.com>, 2025.
 #
 msgid "Activate the debug-output on console"
-msgstr ""
+msgstr "אַקטאַווייט די דיבאַג רעזולטאַט אויף קאַנסאָול"
 
 msgid "Bootlogo is excluded from random selection"
-msgstr ""
+msgstr "באָאָטלאָגאָ איז יקסקלודיד פון טראַפ - סעלעקציע"
 
 msgid "Bootlogo is included in random selection"
-msgstr ""
+msgstr "באָאָטלאָגאָ איז אַרייַנגערעכנט אין טראַפ - סעלעקציע"
 
 msgid "Cancel"
-msgstr ""
+msgstr "באָטל מאַכן"
 
 msgid "Choose random bootlogo at the start of the box"
-msgstr ""
+msgstr "קלייַבן טראַפ באָאָטלאָגאָ אין די אָנהייב פון די קעסטל"
 
 msgid "Copy logofiles failed"
-msgstr ""
+msgstr "קאָפּי לאָגאָ טעקעס ניט אַנדערש"
 
 msgid "Current bootlogo"
-msgstr ""
+msgstr "קראַנט באָאָטלאָגאָ"
 
 msgid "Debugmode"
-msgstr ""
+msgstr "דיבאַג מאָדע"
 
 msgid "Deinstallation of FFmpeg failed"
-msgstr ""
+msgstr "דעינסטאַללאַטיאָן פון FFmpeg ניט אַנדערש"
 
 msgid "Delete current mvi-files before changing bootlogo"
-msgstr ""
+msgstr "ויסמעקן קראַנט מווי טעקעס איידער טשאַנגינג באָאָטלאָגאָ"
 
 msgid "Directory with bootlogo folders"
-msgstr ""
+msgstr "Directory מיט באָאָטלאָגאָ פאָלדערס"
 
 msgid "Display duration of the status messages (sec)"
-msgstr ""
+msgstr "ווייַז געדויער פון די סטאַטוס אַרטיקלען (סעק)"
 
 msgid "Easily switch between different bootlogos"
-msgstr ""
+msgstr "לייכט באַשטימען צווישן פאַרשידענע באָאָטלאָגאָס"
 
 msgid "Exclude"
-msgstr ""
+msgstr "ויסשליסן"
 
 msgid "Exit plugin without saving"
-msgstr ""
+msgstr "אַרויסגאַנג פּלוגין אָן שפּאָרן"
 
 msgid "FFmpeg is needed to generate thumbnails from the mvi files"
-msgstr ""
+msgstr "FFmpeg איז דארף צו דזשענערייט טהומבנאַילס פון די mvi טעקעס"
 
 msgid "FFmpeg ist missing, no preview pictures available - there is an option to install it in the stettings"
-msgstr ""
+msgstr "FFmpeg איז פעלנדיק, קיין פאָרויסיקע ווייַזונג בילדער בנימצא - עס איז אַן אָפּציע צו ינסטאַלירן עס אין די סעטטינגס"
 
 msgid "FFmpeg removed successfully"
-msgstr ""
+msgstr "FFmpeg איז הצלחה אַוועקגענומען"
 
 msgid "FFmpeg successfully installed"
-msgstr ""
+msgstr "FFmpeg הצלחה אינסטאַלירן"
 
 msgid "First delete the mvi-files of the current bootlogo then copy the files of the new one"
-msgstr ""
+msgstr "ערשטער ויסמעקן די מווי טעקעס פון די קראַנט באָאָטלאָגאָ און נאָכמאַכן די טעקעס פון די נייַע"
 
 msgid "Found bootlogos"
-msgstr ""
+msgstr "געפֿונען באָאָטלאָגאָס"
 
 msgid "Full screen view the selected bootlogo"
-msgstr ""
+msgstr "גאַנץ פאַרשטעלן קוק די אויסגעקליבן באָאָטלאָגאָ"
 
 msgid "Hide directories without 'mvi'-files"
-msgstr ""
+msgstr "באַהאַלטן דירעקטעריז אָן 'mvi'-פילעס"
 
 msgid "Hide empty directories"
-msgstr ""
+msgstr "באַהאַלטן ליידיק דירעקטעריז"
 
 msgid "How many seconds should status messages be displayed (1-60 sec)"
-msgstr ""
+msgstr "ווי פילע סעקונדעס זאָל זיין געוויזן סטאַטוס אַרטיקלען (1-60 סעק)"
 
 msgid "Include"
-msgstr ""
+msgstr "אַרייַננעמען"
 
 msgid "Include or exlude logo in random choice"
-msgstr ""
+msgstr "אַרייַננעמען אָדער ויסשליסן לאָגאָ אין טראַפ - ברירה"
 
 msgid "Included Screens"
-msgstr ""
+msgstr "אַרייַנגערעכנט סקרינז"
 
 msgid "Install/deinstall ffmpeg"
-msgstr ""
+msgstr "ינסטאַלירן / נעם אַוועק ffmpeg"
 
 msgid "Installation of FFmpeg failed"
-msgstr ""
+msgstr "ינסטאַלירונג פון FFmpeg איז ניט אַנדערש"
 
 msgid "No bootlogos found in directory"
-msgstr ""
+msgstr "קיין באָאָטלאָגאָס געפֿונען אין דער וועגווייַזער"
 
 msgid "OK"
-msgstr ""
+msgstr "גוט"
 
 msgid "Open settings"
-msgstr ""
+msgstr "עפֿענען סעטטינגס"
 
 msgid "Preview Logo"
-msgstr ""
+msgstr "פאָרויסיקע ווייַזונג לאָגאָ"
 
 msgid "Preview picture"
-msgstr ""
+msgstr "פאָרויסיקע ווייַזונג בילד"
 
 msgid "Random mode"
-msgstr ""
+msgstr "טראַפ - מאָדע"
 
 msgid "Random selection at startup disabled"
-msgstr ""
+msgstr "טראַפ סעלעקציע ביי סטאַרטאַפּ פאַרקריפּלט"
 
 msgid "Random selection at startup enabled"
-msgstr ""
+msgstr "טראַפ סעלעקציע ביי סטאַרטאַפּ ענייבאַלד"
 
 msgid "Save Changes and exit plugin"
-msgstr ""
+msgstr "היט ענדערונגען און אַרויסגאַנג פּלוגין"
 
 msgid "Search for folders with boot logos in this directory"
-msgstr ""
+msgstr "זוכן פֿאַר פאָלדערס מיט שטיוול לאָגאָס אין דעם וועגווייַזער"
 
 msgid "Which bootlogos should be displayed?"
-msgstr ""
+msgstr "וואָס באָאָטלאָגאָס זאָל זיין געוויזן?"
 
 msgid "Which logo should be displayed as a preview picture?"
-msgstr ""
+msgstr "וואָס לאָגאָ זאָל זיין געוויזן ווי אַ פאָרויסיקע ווייַזונג בילד?"
 
 msgid "[BootlogoChanger] activated new bootlogo"
-msgstr ""
+msgstr "[BootlogoChanger] אַקטיווייטיד נייַ באָאָטלאָגאָ"
 
 msgid "[BootlogoChanger] activating new bootlogo failed"
-msgstr ""
+msgstr "[BootlogoChanger] אַקטאַווייטינג נייַ באָאָטלאָגאָ ניט אַנדערש"
 
 msgid "[BootlogoChanger] copy failed"
-msgstr ""
+msgstr "[BootlogoChanger] קאָפּיע ניט אַנדערש"
 
 msgid "[BootlogoChanger] deleting old bootlogo files"
-msgstr ""
+msgstr "[BootlogoChanger] ויסמעקן אַלט באָאָטלאָגאָ טעקעס"
 
 msgid "[BootlogoChanger] deleting previewPicture"
-msgstr ""
+msgstr "[BootlogoChanger] ויסמעקן פּריוויו בילד"
 
 msgid "[BootlogoChanger] ffmpeg not found"
-msgstr ""
+msgstr "[BootlogoChanger] ffmpeg ניט געפֿונען"
 
 msgid "[BootlogoChanger] found Bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] געפֿונען Bootlogos"
 
 msgid "[BootlogoChanger] found ffmpeg"
-msgstr ""
+msgstr "[BootlogoChanger] געפֿונען ffmpeg"
 
 msgid "[BootlogoChanger] no bootlogos for randomization selected"
-msgstr ""
+msgstr "[BootlogoChanger] קיין באָאָטלאָגאָס פֿאַר ראַנדאַמיזיישאַן אויסגעקליבן"
 
 msgid "[BootlogoChanger] previewPicture changed"
-msgstr ""
+msgstr "[BootlogoChanger] פּריוויו בילד געביטן"
 
 msgid "[BootlogoChanger] randomization of bootlogos activated"
-msgstr ""
+msgstr "[BootlogoChanger] ראַנדאַמיזיישאַן פון באָאָטלאָגאָס אַקטיווייטיד"
 
 msgid "[BootlogoChanger] randomization of bootlogos deactivated"
-msgstr ""
+msgstr "[BootlogoChanger] ראַנדאַמיזיישאַן פון באָאָטלאָגאָס דיאַקטיווייטיד"
 
 msgid "[BootlogoChanger] randomization: bootlogo found"
-msgstr ""
+msgstr "[BootlogoChanger] ראַנדאָמיזאַטיאָן: באָאָטלאָגאָ געפֿונען"
 
 msgid "[BootlogoChanger] selected bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] אויסגעקליבן באָאָטלאָגאָס"
 
 msgid "deinstall"
-msgstr ""
+msgstr "נעם אַוועק"
 
 msgid "found"
-msgstr ""
+msgstr "געפונען"
 
 msgid "install"
-msgstr ""
+msgstr "ינסטאַלירן"
 
 msgid "missing"
-msgstr ""
+msgstr "פעלנדיק"
 
 msgid "off"
-msgstr ""
+msgstr "אַוועק"
 
 msgid "on"
-msgstr ""
+msgstr "אויף"

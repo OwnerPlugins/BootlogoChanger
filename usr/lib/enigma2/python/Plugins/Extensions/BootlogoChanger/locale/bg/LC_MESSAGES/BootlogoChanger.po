@@ -16,187 +16,187 @@ msgstr ""
 # [lululla] <ekekaz@gmail.com>, 2025.
 #
 msgid "Activate the debug-output on console"
-msgstr ""
+msgstr "Активирайте изхода за отстраняване на грешки на конзолата"
 
 msgid "Bootlogo is excluded from random selection"
-msgstr ""
+msgstr "Bootlogo е изключено от произволния избор"
 
 msgid "Bootlogo is included in random selection"
-msgstr ""
+msgstr "Bootlogo е включено в произволния избор"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Отказ"
 
 msgid "Choose random bootlogo at the start of the box"
-msgstr ""
+msgstr "Изберете произволно стартиращо лого в началото на кутията"
 
 msgid "Copy logofiles failed"
-msgstr ""
+msgstr "Неуспешно копиране на файлове с лого"
 
 msgid "Current bootlogo"
-msgstr ""
+msgstr "Текущо стартиращо лого"
 
 msgid "Debugmode"
-msgstr ""
+msgstr "Режим на отстраняване на грешки"
 
 msgid "Deinstallation of FFmpeg failed"
-msgstr ""
+msgstr "Деинсталирането на FFmpeg не бе успешно"
 
 msgid "Delete current mvi-files before changing bootlogo"
-msgstr ""
+msgstr "Изтрийте текущите mvi-файлове, преди да промените bootlogo"
 
 msgid "Directory with bootlogo folders"
-msgstr ""
+msgstr "Директория с папки bootlogo"
 
 msgid "Display duration of the status messages (sec)"
-msgstr ""
+msgstr "Продължителност на показване на съобщенията за статус (сек)"
 
 msgid "Easily switch between different bootlogos"
-msgstr ""
+msgstr "Лесно превключвайте между различни лога за стартиране"
 
 msgid "Exclude"
-msgstr ""
+msgstr "Изключете"
 
 msgid "Exit plugin without saving"
-msgstr ""
+msgstr "Излезте от приставката без запазване"
 
 msgid "FFmpeg is needed to generate thumbnails from the mvi files"
-msgstr ""
+msgstr "FFmpeg е необходим за генериране на миниатюри от mvi файловете"
 
 msgid "FFmpeg ist missing, no preview pictures available - there is an option to install it in the stettings"
-msgstr ""
+msgstr "FFmpeg липсва, няма налични снимки за преглед - има опция за инсталиране в настройките"
 
 msgid "FFmpeg removed successfully"
-msgstr ""
+msgstr "FFmpeg премахнат успешно"
 
 msgid "FFmpeg successfully installed"
-msgstr ""
+msgstr "FFmpeg е инсталиран успешно"
 
 msgid "First delete the mvi-files of the current bootlogo then copy the files of the new one"
-msgstr ""
+msgstr "Първо изтрийте mvi-файловете на текущото bootlogo, след което копирайте файловете на новото"
 
 msgid "Found bootlogos"
-msgstr ""
+msgstr "Намерени лога за стартиране"
 
 msgid "Full screen view the selected bootlogo"
-msgstr ""
+msgstr "Вижте на цял екран избраното лого за зареждане"
 
 msgid "Hide directories without 'mvi'-files"
-msgstr ""
+msgstr "Скриване на директории без 'mvi'-файлове"
 
 msgid "Hide empty directories"
-msgstr ""
+msgstr "Скриване на празни директории"
 
 msgid "How many seconds should status messages be displayed (1-60 sec)"
-msgstr ""
+msgstr "Колко секунди трябва да се показват съобщенията за състояние (1-60 сек)"
 
 msgid "Include"
-msgstr ""
+msgstr "Включете"
 
 msgid "Include or exlude logo in random choice"
-msgstr ""
+msgstr "Включете или изключете логото в случаен избор"
 
 msgid "Included Screens"
-msgstr ""
+msgstr "Включени екрани"
 
 msgid "Install/deinstall ffmpeg"
-msgstr ""
+msgstr "Инсталирайте/деинсталирайте ffmpeg"
 
 msgid "Installation of FFmpeg failed"
-msgstr ""
+msgstr "Неуспешно инсталиране на FFmpeg"
 
 msgid "No bootlogos found in directory"
-msgstr ""
+msgstr "В директорията няма намерени лога за стартиране"
 
 msgid "OK"
-msgstr ""
+msgstr "добре"
 
 msgid "Open settings"
-msgstr ""
+msgstr "Отворете настройките"
 
 msgid "Preview Logo"
-msgstr ""
+msgstr "Визуализация на логото"
 
 msgid "Preview picture"
-msgstr ""
+msgstr "Преглед на картина"
 
 msgid "Random mode"
-msgstr ""
+msgstr "Случаен режим"
 
 msgid "Random selection at startup disabled"
-msgstr ""
+msgstr "Произволният избор при стартиране е деактивиран"
 
 msgid "Random selection at startup enabled"
-msgstr ""
+msgstr "Произволният избор при стартиране е активиран"
 
 msgid "Save Changes and exit plugin"
-msgstr ""
+msgstr "Запазете промените и излезте от приставката"
 
 msgid "Search for folders with boot logos in this directory"
-msgstr ""
+msgstr "Търсете папки с лого за зареждане в тази директория"
 
 msgid "Which bootlogos should be displayed?"
-msgstr ""
+msgstr "Кои лога за стартиране трябва да се показват?"
 
 msgid "Which logo should be displayed as a preview picture?"
-msgstr ""
+msgstr "Кое лого трябва да се показва като картина за предварителен преглед?"
 
 msgid "[BootlogoChanger] activated new bootlogo"
-msgstr ""
+msgstr "[BootlogoChanger] активира ново лого за стартиране"
 
 msgid "[BootlogoChanger] activating new bootlogo failed"
-msgstr ""
+msgstr "[BootlogoChanger] неуспешно активиране на ново лого за стартиране"
 
 msgid "[BootlogoChanger] copy failed"
-msgstr ""
+msgstr "Неуспешно копиране на [BootlogoChanger]."
 
 msgid "[BootlogoChanger] deleting old bootlogo files"
-msgstr ""
+msgstr "[BootlogoChanger] изтриване на стари bootlogo файлове"
 
 msgid "[BootlogoChanger] deleting previewPicture"
-msgstr ""
+msgstr "[BootlogoChanger] изтриване на картина за предварителен преглед"
 
 msgid "[BootlogoChanger] ffmpeg not found"
-msgstr ""
+msgstr "[BootlogoChanger] ffmpeg не е намерен"
 
 msgid "[BootlogoChanger] found Bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] намери Bootlogos"
 
 msgid "[BootlogoChanger] found ffmpeg"
-msgstr ""
+msgstr "[BootlogoChanger] намери ffmpeg"
 
 msgid "[BootlogoChanger] no bootlogos for randomization selected"
-msgstr ""
+msgstr "[BootlogoChanger] няма избрани лога за стартиране за рандомизиране"
 
 msgid "[BootlogoChanger] previewPicture changed"
-msgstr ""
+msgstr "[BootlogoChanger] визуализация Снимката е променена"
 
 msgid "[BootlogoChanger] randomization of bootlogos activated"
-msgstr ""
+msgstr "[BootlogoChanger] рандомизацията на bootlogos е активирана"
 
 msgid "[BootlogoChanger] randomization of bootlogos deactivated"
-msgstr ""
+msgstr "[BootlogoChanger] дезактивирана рандомизация на bootlogos"
 
 msgid "[BootlogoChanger] randomization: bootlogo found"
-msgstr ""
+msgstr "[BootlogoChanger] рандомизиране: намерено bootlogo"
 
 msgid "[BootlogoChanger] selected bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] избрани лога за стартиране"
 
 msgid "deinstall"
-msgstr ""
+msgstr "деинсталиране"
 
 msgid "found"
-msgstr ""
+msgstr "намерени"
 
 msgid "install"
-msgstr ""
+msgstr "инсталирайте"
 
 msgid "missing"
-msgstr ""
+msgstr "липсва"
 
 msgid "off"
-msgstr ""
+msgstr "изключено"
 
 msgid "on"
-msgstr ""
+msgstr "на"

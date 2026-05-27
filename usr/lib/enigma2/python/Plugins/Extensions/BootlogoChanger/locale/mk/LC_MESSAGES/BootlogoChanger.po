@@ -15,187 +15,187 @@ msgstr ""
 # [lululla] <ekekaz@gmail.com>, 2025.
 #
 msgid "Activate the debug-output on console"
-msgstr ""
+msgstr "Активирајте го излезот за отстранување грешки на конзолата"
 
 msgid "Bootlogo is excluded from random selection"
-msgstr ""
+msgstr "Бутлогото е исклучено од случаен избор"
 
 msgid "Bootlogo is included in random selection"
-msgstr ""
+msgstr "Бутлогото е вклучено во случаен избор"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Откажи"
 
 msgid "Choose random bootlogo at the start of the box"
-msgstr ""
+msgstr "Изберете случајно бутлого на почетокот на полето"
 
 msgid "Copy logofiles failed"
-msgstr ""
+msgstr "Копирањето на логодатотеките не успеа"
 
 msgid "Current bootlogo"
-msgstr ""
+msgstr "Тековно бутлого"
 
 msgid "Debugmode"
-msgstr ""
+msgstr "Режим за отстранување грешки"
 
 msgid "Deinstallation of FFmpeg failed"
-msgstr ""
+msgstr "Деинсталирањето на FFmpeg не успеа"
 
 msgid "Delete current mvi-files before changing bootlogo"
-msgstr ""
+msgstr "Избришете ги тековните mvi-датотеки пред да го промените бутлогото"
 
 msgid "Directory with bootlogo folders"
-msgstr ""
+msgstr "Директориум со папки за бутлого"
 
 msgid "Display duration of the status messages (sec)"
-msgstr ""
+msgstr "Прикажување на времетраењето на статусните пораки (сек)"
 
 msgid "Easily switch between different bootlogos"
-msgstr ""
+msgstr "Лесно префрлајте се помеѓу различни бутлога"
 
 msgid "Exclude"
-msgstr ""
+msgstr "Исклучи"
 
 msgid "Exit plugin without saving"
-msgstr ""
+msgstr "Излезете од приклучокот без зачувување"
 
 msgid "FFmpeg is needed to generate thumbnails from the mvi files"
-msgstr ""
+msgstr "FFmpeg е потребен за генерирање на сликички од датотеките mvi"
 
 msgid "FFmpeg ist missing, no preview pictures available - there is an option to install it in the stettings"
-msgstr ""
+msgstr "Недостасува FFmpeg, нема достапни слики за преглед - постои опција да се инсталира во поставките"
 
 msgid "FFmpeg removed successfully"
-msgstr ""
+msgstr "FFmpeg е успешно отстранет"
 
 msgid "FFmpeg successfully installed"
-msgstr ""
+msgstr "FFmpeg е успешно инсталиран"
 
 msgid "First delete the mvi-files of the current bootlogo then copy the files of the new one"
-msgstr ""
+msgstr "Прво избришете ги mvi-датотеките од тековното бутлого, а потоа копирајте ги датотеките на новото"
 
 msgid "Found bootlogos"
-msgstr ""
+msgstr "Пронајдени бутлога"
 
 msgid "Full screen view the selected bootlogo"
-msgstr ""
+msgstr "Приказ на цел екран на избраното бутолого"
 
 msgid "Hide directories without 'mvi'-files"
-msgstr ""
+msgstr "Скриј директориуми без 'mvi'-датотеки"
 
 msgid "Hide empty directories"
-msgstr ""
+msgstr "Скриј празни директориуми"
 
 msgid "How many seconds should status messages be displayed (1-60 sec)"
-msgstr ""
+msgstr "Колку секунди треба да се прикажат статусните пораки (1-60 секунди)"
 
 msgid "Include"
-msgstr ""
+msgstr "Вклучи"
 
 msgid "Include or exlude logo in random choice"
-msgstr ""
+msgstr "Вклучете или исклучете го логото во случаен избор"
 
 msgid "Included Screens"
-msgstr ""
+msgstr "Вклучени екрани"
 
 msgid "Install/deinstall ffmpeg"
-msgstr ""
+msgstr "Инсталирај/деинсталирај ffmpeg"
 
 msgid "Installation of FFmpeg failed"
-msgstr ""
+msgstr "Инсталирањето на FFmpeg не успеа"
 
 msgid "No bootlogos found in directory"
-msgstr ""
+msgstr "Не се најдени бутлога во директориумот"
 
 msgid "OK"
-msgstr ""
+msgstr "Во ред"
 
 msgid "Open settings"
-msgstr ""
+msgstr "Отворете ги поставките"
 
 msgid "Preview Logo"
-msgstr ""
+msgstr "Преглед на логото"
 
 msgid "Preview picture"
-msgstr ""
+msgstr "Прегледајте ја сликата"
 
 msgid "Random mode"
-msgstr ""
+msgstr "Случаен режим"
 
 msgid "Random selection at startup disabled"
-msgstr ""
+msgstr "Случајниот избор при стартување е оневозможен"
 
 msgid "Random selection at startup enabled"
-msgstr ""
+msgstr "Овозможено е случаен избор при стартување"
 
 msgid "Save Changes and exit plugin"
-msgstr ""
+msgstr "Зачувајте ги промените и излезете од приклучокот"
 
 msgid "Search for folders with boot logos in this directory"
-msgstr ""
+msgstr "Пребарајте папки со логоа за подигање во овој директориум"
 
 msgid "Which bootlogos should be displayed?"
-msgstr ""
+msgstr "Кои бутолога треба да се прикажат?"
 
 msgid "Which logo should be displayed as a preview picture?"
-msgstr ""
+msgstr "Кое лого треба да се прикаже како слика за преглед?"
 
 msgid "[BootlogoChanger] activated new bootlogo"
-msgstr ""
+msgstr "[BootlogoChanger] активираше ново подигање"
 
 msgid "[BootlogoChanger] activating new bootlogo failed"
-msgstr ""
+msgstr "Активирањето на новото лого на [BootlogoChanger] не успеа"
 
 msgid "[BootlogoChanger] copy failed"
-msgstr ""
+msgstr "Копирањето на [BootlogoChanger] не успеа"
 
 msgid "[BootlogoChanger] deleting old bootlogo files"
-msgstr ""
+msgstr "[BootlogoChanger] бришење стари датотеки со бутлого"
 
 msgid "[BootlogoChanger] deleting previewPicture"
-msgstr ""
+msgstr "[BootlogoChanger] се брише преглед на сликата"
 
 msgid "[BootlogoChanger] ffmpeg not found"
-msgstr ""
+msgstr "[BootlogoChanger] ffmpeg не е пронајден"
 
 msgid "[BootlogoChanger] found Bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] најде Bootlogos"
 
 msgid "[BootlogoChanger] found ffmpeg"
-msgstr ""
+msgstr "[BootlogoChanger] пронајден ffmpeg"
 
 msgid "[BootlogoChanger] no bootlogos for randomization selected"
-msgstr ""
+msgstr "[BootlogoChanger] нема избрано подигање за рандомизација"
 
 msgid "[BootlogoChanger] previewPicture changed"
-msgstr ""
+msgstr "Преглед на [BootlogoChanger] Сликата е променета"
 
 msgid "[BootlogoChanger] randomization of bootlogos activated"
-msgstr ""
+msgstr "[BootlogoChanger] рандомизацијата на бутлогата е активирана"
 
 msgid "[BootlogoChanger] randomization of bootlogos deactivated"
-msgstr ""
+msgstr "[BootlogoChanger] рандомизацијата на бутлогата е деактивирана"
 
 msgid "[BootlogoChanger] randomization: bootlogo found"
-msgstr ""
+msgstr "[BootlogoChanger] рандомизација: пронајдено е бутлогото"
 
 msgid "[BootlogoChanger] selected bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] избрани бутлога"
 
 msgid "deinstall"
-msgstr ""
+msgstr "деинсталирај"
 
 msgid "found"
-msgstr ""
+msgstr "пронајден"
 
 msgid "install"
-msgstr ""
+msgstr "инсталирај"
 
 msgid "missing"
-msgstr ""
+msgstr "исчезнати"
 
 msgid "off"
-msgstr ""
+msgstr "исклучен"
 
 msgid "on"
-msgstr ""
+msgstr "на"

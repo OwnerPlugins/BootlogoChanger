@@ -15,187 +15,187 @@ msgstr ""
 # [lululla] <ekekaz@gmail.com>, 2025.
 #
 msgid "Activate the debug-output on console"
-msgstr ""
+msgstr "کنسول پر ڈیبگ آؤٹ پٹ کو چالو کریں۔"
 
 msgid "Bootlogo is excluded from random selection"
-msgstr ""
+msgstr "بوٹلوگو کو بے ترتیب انتخاب سے خارج کر دیا گیا ہے۔"
 
 msgid "Bootlogo is included in random selection"
-msgstr ""
+msgstr "بوٹلوگو بے ترتیب انتخاب میں شامل ہے۔"
 
 msgid "Cancel"
-msgstr ""
+msgstr "منسوخ کریں۔"
 
 msgid "Choose random bootlogo at the start of the box"
-msgstr ""
+msgstr "باکس کے شروع میں بے ترتیب بوٹلوگو کا انتخاب کریں۔"
 
 msgid "Copy logofiles failed"
-msgstr ""
+msgstr "لوگو فائلز کاپی کرنے میں ناکام"
 
 msgid "Current bootlogo"
-msgstr ""
+msgstr "موجودہ بوٹلوگو"
 
 msgid "Debugmode"
-msgstr ""
+msgstr "ڈیبگ موڈ"
 
 msgid "Deinstallation of FFmpeg failed"
-msgstr ""
+msgstr "FFmpeg کی انسٹالیشن ناکام ہو گئی۔"
 
 msgid "Delete current mvi-files before changing bootlogo"
-msgstr ""
+msgstr "بوٹلوگو کو تبدیل کرنے سے پہلے موجودہ ایم وی آئی فائلوں کو حذف کریں۔"
 
 msgid "Directory with bootlogo folders"
-msgstr ""
+msgstr "بوٹلوگو فولڈرز کے ساتھ ڈائرکٹری"
 
 msgid "Display duration of the status messages (sec)"
-msgstr ""
+msgstr "اسٹیٹس میسجز کا دورانیہ دکھائیں (سیکنڈ)"
 
 msgid "Easily switch between different bootlogos"
-msgstr ""
+msgstr "مختلف بوٹلوگو کے درمیان آسانی سے سوئچ کریں۔"
 
 msgid "Exclude"
-msgstr ""
+msgstr "خارج کرنا"
 
 msgid "Exit plugin without saving"
-msgstr ""
+msgstr "محفوظ کیے بغیر پلگ ان سے باہر نکلیں۔"
 
 msgid "FFmpeg is needed to generate thumbnails from the mvi files"
-msgstr ""
+msgstr "Mvi فائلوں سے تھمب نیلز بنانے کے لیے FFmpeg کی ضرورت ہے۔"
 
 msgid "FFmpeg ist missing, no preview pictures available - there is an option to install it in the stettings"
-msgstr ""
+msgstr "FFmpeg غائب ہے، کوئی پیش نظارہ تصویر دستیاب نہیں ہے - اسے سٹیٹنگز میں انسٹال کرنے کا آپشن موجود ہے"
 
 msgid "FFmpeg removed successfully"
-msgstr ""
+msgstr "FFmpeg کامیابی کے ساتھ ہٹا دیا گیا۔"
 
 msgid "FFmpeg successfully installed"
-msgstr ""
+msgstr "FFmpeg کامیابی سے انسٹال ہو گیا۔"
 
 msgid "First delete the mvi-files of the current bootlogo then copy the files of the new one"
-msgstr ""
+msgstr "پہلے موجودہ بوٹلوگو کی ایم وی فائلز کو ڈیلیٹ کریں پھر نئی فائلز کو کاپی کریں۔"
 
 msgid "Found bootlogos"
-msgstr ""
+msgstr "بوٹلوگوز ملے"
 
 msgid "Full screen view the selected bootlogo"
-msgstr ""
+msgstr "منتخب بوٹلوگو کو پوری اسکرین دیکھیں"
 
 msgid "Hide directories without 'mvi'-files"
-msgstr ""
+msgstr "'mvi' فائلوں کے بغیر ڈائریکٹریز چھپائیں۔"
 
 msgid "Hide empty directories"
-msgstr ""
+msgstr "خالی ڈائریکٹریز چھپائیں۔"
 
 msgid "How many seconds should status messages be displayed (1-60 sec)"
-msgstr ""
+msgstr "اسٹیٹس میسجز کو کتنے سیکنڈ میں دکھایا جانا چاہیے (1-60 سیکنڈ)"
 
 msgid "Include"
-msgstr ""
+msgstr "شامل کریں۔"
 
 msgid "Include or exlude logo in random choice"
-msgstr ""
+msgstr "بے ترتیب انتخاب میں لوگو شامل کریں یا خارج کریں۔"
 
 msgid "Included Screens"
-msgstr ""
+msgstr "شامل سکرین"
 
 msgid "Install/deinstall ffmpeg"
-msgstr ""
+msgstr "ffmpeg انسٹال/ان انسٹال کریں۔"
 
 msgid "Installation of FFmpeg failed"
-msgstr ""
+msgstr "FFmpeg کی تنصیب ناکام ہو گئی۔"
 
 msgid "No bootlogos found in directory"
-msgstr ""
+msgstr "ڈائریکٹری میں کوئی بوٹلوگو نہیں ملا"
 
 msgid "OK"
-msgstr ""
+msgstr "ٹھیک ہے"
 
 msgid "Open settings"
-msgstr ""
+msgstr "ترتیبات کھولیں۔"
 
 msgid "Preview Logo"
-msgstr ""
+msgstr "لوگو کا پیش نظارہ کریں۔"
 
 msgid "Preview picture"
-msgstr ""
+msgstr "پیش نظارہ تصویر"
 
 msgid "Random mode"
-msgstr ""
+msgstr "بے ترتیب موڈ"
 
 msgid "Random selection at startup disabled"
-msgstr ""
+msgstr "آغاز پر بے ترتیب انتخاب کو غیر فعال کر دیا گیا۔"
 
 msgid "Random selection at startup enabled"
-msgstr ""
+msgstr "سٹارٹ اپ پر بے ترتیب انتخاب فعال ہے۔"
 
 msgid "Save Changes and exit plugin"
-msgstr ""
+msgstr "تبدیلیاں محفوظ کریں اور پلگ ان سے باہر نکلیں۔"
 
 msgid "Search for folders with boot logos in this directory"
-msgstr ""
+msgstr "اس ڈائریکٹری میں بوٹ لوگو والے فولڈرز تلاش کریں۔"
 
 msgid "Which bootlogos should be displayed?"
-msgstr ""
+msgstr "کون سے بوٹلوگو دکھائے جائیں؟"
 
 msgid "Which logo should be displayed as a preview picture?"
-msgstr ""
+msgstr "کون سا لوگو پیش نظارہ تصویر کے طور پر ظاہر کیا جانا چاہئے؟"
 
 msgid "[BootlogoChanger] activated new bootlogo"
-msgstr ""
+msgstr "[BootlogoChanger] نیا بوٹلوگو چالو کیا گیا۔"
 
 msgid "[BootlogoChanger] activating new bootlogo failed"
-msgstr ""
+msgstr "[BootlogoChanger] نئے بوٹلوگو کو چالو کرنا ناکام ہو گیا۔"
 
 msgid "[BootlogoChanger] copy failed"
-msgstr ""
+msgstr "[BotlogoChanger] کاپی ناکام ہو گئی۔"
 
 msgid "[BootlogoChanger] deleting old bootlogo files"
-msgstr ""
+msgstr "بوٹلوگو چینجر پرانی بوٹلوگو فائلوں کو حذف کرنا"
 
 msgid "[BootlogoChanger] deleting previewPicture"
-msgstr ""
+msgstr "[بوٹلوگو چینجر] پیش نظارہ تصویر کو حذف کرنا"
 
 msgid "[BootlogoChanger] ffmpeg not found"
-msgstr ""
+msgstr "[BotlogoChanger] ffmpeg نہیں ملا"
 
 msgid "[BootlogoChanger] found Bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] کو Bootlogos ملا"
 
 msgid "[BootlogoChanger] found ffmpeg"
-msgstr ""
+msgstr "[BotlogoChanger] ffmpeg ملا"
 
 msgid "[BootlogoChanger] no bootlogos for randomization selected"
-msgstr ""
+msgstr "[BootlogoChanger] بے ترتیب کاری کے لیے کوئی بوٹلوگو منتخب نہیں کیا گیا۔"
 
 msgid "[BootlogoChanger] previewPicture changed"
-msgstr ""
+msgstr "[BotlogoChanger] پیش نظارہ تصویر کو تبدیل کر دیا گیا۔"
 
 msgid "[BootlogoChanger] randomization of bootlogos activated"
-msgstr ""
+msgstr "[BotlogoChanger] بوٹلوگوس کی بے ترتیب کاری کو چالو کیا گیا۔"
 
 msgid "[BootlogoChanger] randomization of bootlogos deactivated"
-msgstr ""
+msgstr "[BotlogoChanger] بوٹ لاگو کی بے ترتیبی کو غیر فعال کر دیا گیا۔"
 
 msgid "[BootlogoChanger] randomization: bootlogo found"
-msgstr ""
+msgstr "[BootlogoChanger] randomization: bootlogo ملا"
 
 msgid "[BootlogoChanger] selected bootlogos"
-msgstr ""
+msgstr "[BotlogoChanger] منتخب کردہ بوٹلوگو"
 
 msgid "deinstall"
-msgstr ""
+msgstr "ان انسٹال"
 
 msgid "found"
-msgstr ""
+msgstr "پایا"
 
 msgid "install"
-msgstr ""
+msgstr "انسٹال کریں"
 
 msgid "missing"
-msgstr ""
+msgstr "لاپتہ"
 
 msgid "off"
-msgstr ""
+msgstr "بند"
 
 msgid "on"
-msgstr ""
+msgstr "پر"

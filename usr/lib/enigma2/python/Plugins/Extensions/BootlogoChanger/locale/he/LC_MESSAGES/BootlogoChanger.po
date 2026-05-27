@@ -16,187 +16,187 @@ msgstr ""
 # [lululla] <ekekaz@gmail.com>, 2025.
 #
 msgid "Activate the debug-output on console"
-msgstr ""
+msgstr "הפעל את פלט ניפוי הבאגים במסוף"
 
 msgid "Bootlogo is excluded from random selection"
-msgstr ""
+msgstr "אתחוללוגו אינו נכלל בבחירה אקראית"
 
 msgid "Bootlogo is included in random selection"
-msgstr ""
+msgstr "אתחול כלול בבחירה אקראית"
 
 msgid "Cancel"
-msgstr ""
+msgstr "לְבַטֵל"
 
 msgid "Choose random bootlogo at the start of the box"
-msgstr ""
+msgstr "בחר בלוגו אקראי בתחילת התיבה"
 
 msgid "Copy logofiles failed"
-msgstr ""
+msgstr "העתקת קובצי לוגו נכשלה"
 
 msgid "Current bootlogo"
-msgstr ""
+msgstr "לוגו אתחול נוכחי"
 
 msgid "Debugmode"
-msgstr ""
+msgstr "מצב ניפוי באגים"
 
 msgid "Deinstallation of FFmpeg failed"
-msgstr ""
+msgstr "הסרת ההתקנה של FFmpeg נכשלה"
 
 msgid "Delete current mvi-files before changing bootlogo"
-msgstr ""
+msgstr "מחק קבצי mvi נוכחיים לפני שינוי האתחול"
 
 msgid "Directory with bootlogo folders"
-msgstr ""
+msgstr "ספרייה עם תיקיות אתחול"
 
 msgid "Display duration of the status messages (sec)"
-msgstr ""
+msgstr "הצגת משך הודעות המצב (שניות)"
 
 msgid "Easily switch between different bootlogos"
-msgstr ""
+msgstr "מעבר בקלות בין סמלי אתחול שונים"
 
 msgid "Exclude"
-msgstr ""
+msgstr "אל תכלול"
 
 msgid "Exit plugin without saving"
-msgstr ""
+msgstr "צא מהפלאגין מבלי לשמור"
 
 msgid "FFmpeg is needed to generate thumbnails from the mvi files"
-msgstr ""
+msgstr "יש צורך ב-FFmpeg כדי ליצור תמונות ממוזערות מקבצי ה-mvi"
 
 msgid "FFmpeg ist missing, no preview pictures available - there is an option to install it in the stettings"
-msgstr ""
+msgstr "FFmpeg חסר, אין תמונות תצוגה מקדימה זמינות - יש אפשרות להתקין אותו בהגדרות"
 
 msgid "FFmpeg removed successfully"
-msgstr ""
+msgstr "FFmpeg הוסר בהצלחה"
 
 msgid "FFmpeg successfully installed"
-msgstr ""
+msgstr "FFmpeg הותקן בהצלחה"
 
 msgid "First delete the mvi-files of the current bootlogo then copy the files of the new one"
-msgstr ""
+msgstr "תחילה מחק את קבצי ה-mvi של האתחול הנוכחי ואז העתק את הקבצים של הקובץ החדש"
 
 msgid "Found bootlogos"
-msgstr ""
+msgstr "נמצאו סמלי אתחול"
 
 msgid "Full screen view the selected bootlogo"
-msgstr ""
+msgstr "הצג את לוגו האתחול שנבחר במסך מלא"
 
 msgid "Hide directories without 'mvi'-files"
-msgstr ""
+msgstr "הסתר ספריות ללא קבצי 'mvi'"
 
 msgid "Hide empty directories"
-msgstr ""
+msgstr "הסתר ספריות ריקות"
 
 msgid "How many seconds should status messages be displayed (1-60 sec)"
-msgstr ""
+msgstr "כמה שניות צריך להציג הודעות סטטוס (1-60 שניות)"
 
 msgid "Include"
-msgstr ""
+msgstr "לִכלוֹל"
 
 msgid "Include or exlude logo in random choice"
-msgstr ""
+msgstr "כלול או אי הכללה של לוגו בבחירה אקראית"
 
 msgid "Included Screens"
-msgstr ""
+msgstr "מסכים כלולים"
 
 msgid "Install/deinstall ffmpeg"
-msgstr ""
+msgstr "התקן/הסר את ההתקנה של ffmpeg"
 
 msgid "Installation of FFmpeg failed"
-msgstr ""
+msgstr "ההתקנה של FFmpeg נכשלה"
 
 msgid "No bootlogos found in directory"
-msgstr ""
+msgstr "לא נמצאו סמלי אתחול בספרייה"
 
 msgid "OK"
-msgstr ""
+msgstr "בְּסֵדֶר"
 
 msgid "Open settings"
-msgstr ""
+msgstr "פתח את ההגדרות"
 
 msgid "Preview Logo"
-msgstr ""
+msgstr "לוגו תצוגה מקדימה"
 
 msgid "Preview picture"
-msgstr ""
+msgstr "תצוגה מקדימה של תמונה"
 
 msgid "Random mode"
-msgstr ""
+msgstr "מצב אקראי"
 
 msgid "Random selection at startup disabled"
-msgstr ""
+msgstr "בחירה אקראית בעת ההפעלה מושבתת"
 
 msgid "Random selection at startup enabled"
-msgstr ""
+msgstr "בחירה אקראית בעת ההפעלה מופעלת"
 
 msgid "Save Changes and exit plugin"
-msgstr ""
+msgstr "שמור שינויים וצא מהפלאגין"
 
 msgid "Search for folders with boot logos in this directory"
-msgstr ""
+msgstr "חפש תיקיות עם סמלי אתחול בספרייה זו"
 
 msgid "Which bootlogos should be displayed?"
-msgstr ""
+msgstr "אילו סמלי אתחול צריך להיות מוצג?"
 
 msgid "Which logo should be displayed as a preview picture?"
-msgstr ""
+msgstr "איזה לוגו צריך להיות מוצג כתמונת תצוגה מקדימה?"
 
 msgid "[BootlogoChanger] activated new bootlogo"
-msgstr ""
+msgstr "[BootlogoChanger] הפעילה את לוגו האתחול החדש"
 
 msgid "[BootlogoChanger] activating new bootlogo failed"
-msgstr ""
+msgstr "[BootlogoChanger] הפעלת לוגו אתחול חדש נכשלה"
 
 msgid "[BootlogoChanger] copy failed"
-msgstr ""
+msgstr "העתקה של [BootlogoChanger] נכשלה"
 
 msgid "[BootlogoChanger] deleting old bootlogo files"
-msgstr ""
+msgstr "[BootlogoChanger] מוחק קבצי אתחול ישנים"
 
 msgid "[BootlogoChanger] deleting previewPicture"
-msgstr ""
+msgstr "[BootlogoChanger] מוחק תצוגה מקדימה"
 
 msgid "[BootlogoChanger] ffmpeg not found"
-msgstr ""
+msgstr "[BootlogoChanger] ffmpeg לא נמצא"
 
 msgid "[BootlogoChanger] found Bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] מצא את Bootlogos"
 
 msgid "[BootlogoChanger] found ffmpeg"
-msgstr ""
+msgstr "[BootlogoChanger] נמצא ffmpeg"
 
 msgid "[BootlogoChanger] no bootlogos for randomization selected"
-msgstr ""
+msgstr "[BootlogoChanger] לא נבחרו סמלי אתחול לאקראיות"
 
 msgid "[BootlogoChanger] previewPicture changed"
-msgstr ""
+msgstr "[BootlogoChanger] תצוגה מקדימה התמונה השתנתה"
 
 msgid "[BootlogoChanger] randomization of bootlogos activated"
-msgstr ""
+msgstr "[BootlogoChanger] אקראית של סמלי אתחול הופעל"
 
 msgid "[BootlogoChanger] randomization of bootlogos deactivated"
-msgstr ""
+msgstr "[BootlogoChanger] אקראית של סמלי אתחול מושבת"
 
 msgid "[BootlogoChanger] randomization: bootlogo found"
-msgstr ""
+msgstr "[BootlogoChanger] אקראיות: אתחול נמצא"
 
 msgid "[BootlogoChanger] selected bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] סמלי האתחול שנבחרו"
 
 msgid "deinstall"
-msgstr ""
+msgstr "להסיר את ההתקנה"
 
 msgid "found"
-msgstr ""
+msgstr "נמצא"
 
 msgid "install"
-msgstr ""
+msgstr "לְהַתְקִין"
 
 msgid "missing"
-msgstr ""
+msgstr "חָסֵר"
 
 msgid "off"
-msgstr ""
+msgstr "כבוי"
 
 msgid "on"
-msgstr ""
+msgstr "עַל"

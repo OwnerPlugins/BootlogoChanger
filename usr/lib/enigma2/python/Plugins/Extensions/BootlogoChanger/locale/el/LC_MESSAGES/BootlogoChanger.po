@@ -16,187 +16,187 @@ msgstr ""
 # [lululla] <ekekaz@gmail.com>, 2025.
 #
 msgid "Activate the debug-output on console"
-msgstr ""
+msgstr "Ενεργοποιήστε την έξοδο εντοπισμού σφαλμάτων στην κονσόλα"
 
 msgid "Bootlogo is excluded from random selection"
-msgstr ""
+msgstr "Το Bootlogo εξαιρείται από την τυχαία επιλογή"
 
 msgid "Bootlogo is included in random selection"
-msgstr ""
+msgstr "Το Bootlogo περιλαμβάνεται στην τυχαία επιλογή"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Ματαίωση"
 
 msgid "Choose random bootlogo at the start of the box"
-msgstr ""
+msgstr "Επιλέξτε τυχαίο bootlogo στην αρχή του πλαισίου"
 
 msgid "Copy logofiles failed"
-msgstr ""
+msgstr "Η αντιγραφή αρχείων λογότυπου απέτυχε"
 
 msgid "Current bootlogo"
-msgstr ""
+msgstr "Τρέχον bootlogo"
 
 msgid "Debugmode"
-msgstr ""
+msgstr "Λειτουργία εντοπισμού σφαλμάτων"
 
 msgid "Deinstallation of FFmpeg failed"
-msgstr ""
+msgstr "Η απεγκατάσταση του FFmpeg απέτυχε"
 
 msgid "Delete current mvi-files before changing bootlogo"
-msgstr ""
+msgstr "Διαγράψτε τα τρέχοντα αρχεία mvi πριν αλλάξετε το bootlogo"
 
 msgid "Directory with bootlogo folders"
-msgstr ""
+msgstr "Κατάλογος με φακέλους bootlogo"
 
 msgid "Display duration of the status messages (sec)"
-msgstr ""
+msgstr "Εμφάνιση διάρκειας των μηνυμάτων κατάστασης (δευτ.)"
 
 msgid "Easily switch between different bootlogos"
-msgstr ""
+msgstr "Εύκολη εναλλαγή μεταξύ διαφορετικών bootlogos"
 
 msgid "Exclude"
-msgstr ""
+msgstr "Αποκλείω"
 
 msgid "Exit plugin without saving"
-msgstr ""
+msgstr "Έξοδος από την προσθήκη χωρίς αποθήκευση"
 
 msgid "FFmpeg is needed to generate thumbnails from the mvi files"
-msgstr ""
+msgstr "Το FFmpeg απαιτείται για τη δημιουργία μικρογραφιών από τα αρχεία mvi"
 
 msgid "FFmpeg ist missing, no preview pictures available - there is an option to install it in the stettings"
-msgstr ""
+msgstr "Το FFmpeg λείπει, δεν υπάρχουν διαθέσιμες εικόνες προεπισκόπησης - υπάρχει μια επιλογή να το εγκαταστήσετε στις ρυθμίσεις"
 
 msgid "FFmpeg removed successfully"
-msgstr ""
+msgstr "Το FFmpeg καταργήθηκε με επιτυχία"
 
 msgid "FFmpeg successfully installed"
-msgstr ""
+msgstr "Το FFmpeg εγκαταστάθηκε με επιτυχία"
 
 msgid "First delete the mvi-files of the current bootlogo then copy the files of the new one"
-msgstr ""
+msgstr "Πρώτα διαγράψτε τα αρχεία mvi του τρέχοντος bootlogo και μετά αντιγράψτε τα αρχεία του νέου"
 
 msgid "Found bootlogos"
-msgstr ""
+msgstr "Βρέθηκαν bootlogos"
 
 msgid "Full screen view the selected bootlogo"
-msgstr ""
+msgstr "Προβολή σε πλήρη οθόνη του επιλεγμένου bootlogo"
 
 msgid "Hide directories without 'mvi'-files"
-msgstr ""
+msgstr "Απόκρυψη καταλόγων χωρίς 'mvi'-αρχεία"
 
 msgid "Hide empty directories"
-msgstr ""
+msgstr "Απόκρυψη κενών καταλόγων"
 
 msgid "How many seconds should status messages be displayed (1-60 sec)"
-msgstr ""
+msgstr "Πόσα δευτερόλεπτα πρέπει να εμφανίζονται τα μηνύματα κατάστασης (1-60 δευτερόλεπτα)"
 
 msgid "Include"
-msgstr ""
+msgstr "Συμπεριλαμβάνω"
 
 msgid "Include or exlude logo in random choice"
-msgstr ""
+msgstr "Συμπεριλάβετε ή εξαιρέστε το λογότυπο σε τυχαία επιλογή"
 
 msgid "Included Screens"
-msgstr ""
+msgstr "Συμπεριλαμβανόμενες οθόνες"
 
 msgid "Install/deinstall ffmpeg"
-msgstr ""
+msgstr "Εγκατάσταση/απεγκατάσταση του ffmpeg"
 
 msgid "Installation of FFmpeg failed"
-msgstr ""
+msgstr "Η εγκατάσταση του FFmpeg απέτυχε"
 
 msgid "No bootlogos found in directory"
-msgstr ""
+msgstr "Δεν βρέθηκαν bootlogos στον κατάλογο"
 
 msgid "OK"
-msgstr ""
+msgstr "ΕΝΤΑΞΕΙ"
 
 msgid "Open settings"
-msgstr ""
+msgstr "Ανοίξτε τις ρυθμίσεις"
 
 msgid "Preview Logo"
-msgstr ""
+msgstr "Προεπισκόπηση λογότυπου"
 
 msgid "Preview picture"
-msgstr ""
+msgstr "Προεπισκόπηση εικόνας"
 
 msgid "Random mode"
-msgstr ""
+msgstr "Τυχαία λειτουργία"
 
 msgid "Random selection at startup disabled"
-msgstr ""
+msgstr "Η τυχαία επιλογή κατά την εκκίνηση απενεργοποιήθηκε"
 
 msgid "Random selection at startup enabled"
-msgstr ""
+msgstr "Ενεργοποιήθηκε η τυχαία επιλογή κατά την εκκίνηση"
 
 msgid "Save Changes and exit plugin"
-msgstr ""
+msgstr "Αποθήκευση αλλαγών και έξοδος από την προσθήκη"
 
 msgid "Search for folders with boot logos in this directory"
-msgstr ""
+msgstr "Αναζητήστε φακέλους με λογότυπα εκκίνησης σε αυτόν τον κατάλογο"
 
 msgid "Which bootlogos should be displayed?"
-msgstr ""
+msgstr "Ποια bootlogos πρέπει να εμφανίζονται;"
 
 msgid "Which logo should be displayed as a preview picture?"
-msgstr ""
+msgstr "Ποιο λογότυπο πρέπει να εμφανίζεται ως εικόνα προεπισκόπησης;"
 
 msgid "[BootlogoChanger] activated new bootlogo"
-msgstr ""
+msgstr "Το [BootlogoChanger] ενεργοποίησε νέο bootlogo"
 
 msgid "[BootlogoChanger] activating new bootlogo failed"
-msgstr ""
+msgstr "Η ενεργοποίηση του νέου bootlogo του [BootlogoChanger] απέτυχε"
 
 msgid "[BootlogoChanger] copy failed"
-msgstr ""
+msgstr "Η αντιγραφή του [BootlogoChanger] απέτυχε"
 
 msgid "[BootlogoChanger] deleting old bootlogo files"
-msgstr ""
+msgstr "[BootlogoChanger] διαγραφή παλαιών αρχείων bootlogo"
 
 msgid "[BootlogoChanger] deleting previewPicture"
-msgstr ""
+msgstr "[BootlogoChanger] διαγραφή προεπισκόπησηςΕικόνας"
 
 msgid "[BootlogoChanger] ffmpeg not found"
-msgstr ""
+msgstr "Το [BootlogoChanger] ffmpeg δεν βρέθηκε"
 
 msgid "[BootlogoChanger] found Bootlogos"
-msgstr ""
+msgstr "Το [BootlogoChanger] βρήκε τα Bootlogos"
 
 msgid "[BootlogoChanger] found ffmpeg"
-msgstr ""
+msgstr "Το [BootlogoChanger] βρέθηκε ffmpeg"
 
 msgid "[BootlogoChanger] no bootlogos for randomization selected"
-msgstr ""
+msgstr "[BootlogoChanger] δεν επιλέχθηκαν bootlogos για τυχαία τυχαιότητα"
 
 msgid "[BootlogoChanger] previewPicture changed"
-msgstr ""
+msgstr "Προεπισκόπηση [BootlogoChanger] Η εικόνα άλλαξε"
 
 msgid "[BootlogoChanger] randomization of bootlogos activated"
-msgstr ""
+msgstr "Ενεργοποιήθηκε η τυχαιοποίηση των bootlogo [BootlogoChanger]"
 
 msgid "[BootlogoChanger] randomization of bootlogos deactivated"
-msgstr ""
+msgstr "[BootlogoChanger] η τυχαιοποίηση των bootlogos απενεργοποιήθηκε"
 
 msgid "[BootlogoChanger] randomization: bootlogo found"
-msgstr ""
+msgstr "Τυχαιοποίηση [BootlogoChanger]: βρέθηκε το bootlogo"
 
 msgid "[BootlogoChanger] selected bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] επιλεγμένα bootlogos"
 
 msgid "deinstall"
-msgstr ""
+msgstr "απεγκατάσταση"
 
 msgid "found"
-msgstr ""
+msgstr "θεμελιώ"
 
 msgid "install"
-msgstr ""
+msgstr "εγκαθιστώ"
 
 msgid "missing"
-msgstr ""
+msgstr "απών"
 
 msgid "off"
-msgstr ""
+msgstr "μακριά από"
 
 msgid "on"
-msgstr ""
+msgstr "επί"

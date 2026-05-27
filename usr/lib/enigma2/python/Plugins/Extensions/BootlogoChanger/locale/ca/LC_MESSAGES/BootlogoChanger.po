@@ -15,187 +15,187 @@ msgstr ""
 # [lululla] <ekekaz@gmail.com>, 2025.
 #
 msgid "Activate the debug-output on console"
-msgstr ""
+msgstr "Activeu la sortida de depuració a la consola"
 
 msgid "Bootlogo is excluded from random selection"
-msgstr ""
+msgstr "Bootlogo està exclòs de la selecció aleatòria"
 
 msgid "Bootlogo is included in random selection"
-msgstr ""
+msgstr "Bootlogo s'inclou a la selecció aleatòria"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Cancel·la"
 
 msgid "Choose random bootlogo at the start of the box"
-msgstr ""
+msgstr "Trieu el logotip d'arrencada aleatori al començament del quadre"
 
 msgid "Copy logofiles failed"
-msgstr ""
+msgstr "No s'han pogut copiar els fitxers de logotip"
 
 msgid "Current bootlogo"
-msgstr ""
+msgstr "Bootlogo actual"
 
 msgid "Debugmode"
-msgstr ""
+msgstr "Mode de depuració"
 
 msgid "Deinstallation of FFmpeg failed"
-msgstr ""
+msgstr "La desinstal·lació de FFmpeg ha fallat"
 
 msgid "Delete current mvi-files before changing bootlogo"
-msgstr ""
+msgstr "Suprimeix els fitxers mvi actuals abans de canviar el logotip d'arrencada"
 
 msgid "Directory with bootlogo folders"
-msgstr ""
+msgstr "Directori amb carpetes bootlogo"
 
 msgid "Display duration of the status messages (sec)"
-msgstr ""
+msgstr "Mostra la durada dels missatges d'estat (s)"
 
 msgid "Easily switch between different bootlogos"
-msgstr ""
+msgstr "Canvia fàcilment entre diferents logotips d'arrencada"
 
 msgid "Exclude"
-msgstr ""
+msgstr "Exclou"
 
 msgid "Exit plugin without saving"
-msgstr ""
+msgstr "Sortiu del connector sense desar"
 
 msgid "FFmpeg is needed to generate thumbnails from the mvi files"
-msgstr ""
+msgstr "FFmpeg és necessari per generar miniatures dels fitxers mvi"
 
 msgid "FFmpeg ist missing, no preview pictures available - there is an option to install it in the stettings"
-msgstr ""
+msgstr "Falta FFmpeg, no hi ha imatges de vista prèvia disponibles; hi ha una opció per instal·lar-lo a les configuracions"
 
 msgid "FFmpeg removed successfully"
-msgstr ""
+msgstr "FFmpeg s'ha eliminat correctament"
 
 msgid "FFmpeg successfully installed"
-msgstr ""
+msgstr "FFmpeg instal·lat correctament"
 
 msgid "First delete the mvi-files of the current bootlogo then copy the files of the new one"
-msgstr ""
+msgstr "Primer suprimiu els fitxers mvi del logotip d'arrencada actual i després copieu els fitxers del nou"
 
 msgid "Found bootlogos"
-msgstr ""
+msgstr "S'han trobat bootlogos"
 
 msgid "Full screen view the selected bootlogo"
-msgstr ""
+msgstr "Visualitza a pantalla completa el logotip d'arrencada seleccionat"
 
 msgid "Hide directories without 'mvi'-files"
-msgstr ""
+msgstr "Amaga els directoris sense fitxers 'mvi'"
 
 msgid "Hide empty directories"
-msgstr ""
+msgstr "Amaga els directoris buits"
 
 msgid "How many seconds should status messages be displayed (1-60 sec)"
-msgstr ""
+msgstr "Quants segons s'han de mostrar els missatges d'estat (1-60 segons)"
 
 msgid "Include"
-msgstr ""
+msgstr "Inclou"
 
 msgid "Include or exlude logo in random choice"
-msgstr ""
+msgstr "Inclou o exclou el logotip en una elecció aleatòria"
 
 msgid "Included Screens"
-msgstr ""
+msgstr "Pantalles incloses"
 
 msgid "Install/deinstall ffmpeg"
-msgstr ""
+msgstr "Instal·leu/desinstal·leu ffmpeg"
 
 msgid "Installation of FFmpeg failed"
-msgstr ""
+msgstr "La instal·lació de FFmpeg ha fallat"
 
 msgid "No bootlogos found in directory"
-msgstr ""
+msgstr "No s'ha trobat cap logotip d'arrencada al directori"
 
 msgid "OK"
-msgstr ""
+msgstr "D'acord"
 
 msgid "Open settings"
-msgstr ""
+msgstr "Obre la configuració"
 
 msgid "Preview Logo"
-msgstr ""
+msgstr "Vista prèvia del logotip"
 
 msgid "Preview picture"
-msgstr ""
+msgstr "Vista prèvia de la imatge"
 
 msgid "Random mode"
-msgstr ""
+msgstr "Mode aleatori"
 
 msgid "Random selection at startup disabled"
-msgstr ""
+msgstr "Selecció aleatòria a l'inici desactivada"
 
 msgid "Random selection at startup enabled"
-msgstr ""
+msgstr "Selecció aleatòria activada a l'inici"
 
 msgid "Save Changes and exit plugin"
-msgstr ""
+msgstr "Desa els canvis i surt del connector"
 
 msgid "Search for folders with boot logos in this directory"
-msgstr ""
+msgstr "Cerqueu carpetes amb logotips d'arrencada en aquest directori"
 
 msgid "Which bootlogos should be displayed?"
-msgstr ""
+msgstr "Quins bootlogos s'han de mostrar?"
 
 msgid "Which logo should be displayed as a preview picture?"
-msgstr ""
+msgstr "Quin logotip s'ha de mostrar com a imatge de previsualització?"
 
 msgid "[BootlogoChanger] activated new bootlogo"
-msgstr ""
+msgstr "[BootlogoChanger] ha activat el nou logotip d'arrencada"
 
 msgid "[BootlogoChanger] activating new bootlogo failed"
-msgstr ""
+msgstr "[BootlogoChanger] no s'ha pogut activar el nou logotip d'arrencada"
 
 msgid "[BootlogoChanger] copy failed"
-msgstr ""
+msgstr "La còpia de [BootlogoChanger] ha fallat"
 
 msgid "[BootlogoChanger] deleting old bootlogo files"
-msgstr ""
+msgstr "[BootlogoChanger] suprimint fitxers de logotip d'arrencada antics"
 
 msgid "[BootlogoChanger] deleting previewPicture"
-msgstr ""
+msgstr "[BootlogoChanger] suprimint la vista prèvia de la imatge"
 
 msgid "[BootlogoChanger] ffmpeg not found"
-msgstr ""
+msgstr "[BootlogoChanger] ffmpeg no trobat"
 
 msgid "[BootlogoChanger] found Bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] ha trobat Bootlogos"
 
 msgid "[BootlogoChanger] found ffmpeg"
-msgstr ""
+msgstr "[BootlogoChanger] trobat ffmpeg"
 
 msgid "[BootlogoChanger] no bootlogos for randomization selected"
-msgstr ""
+msgstr "[BootlogoChanger] no s'ha seleccionat cap logotip d'arrencada per a l'atzar"
 
 msgid "[BootlogoChanger] previewPicture changed"
-msgstr ""
+msgstr "[BootlogoChanger] vista prèvia La imatge ha canviat"
 
 msgid "[BootlogoChanger] randomization of bootlogos activated"
-msgstr ""
+msgstr "[BootlogoChanger] s'ha activat l'aleatorització dels logotips d'arrencada"
 
 msgid "[BootlogoChanger] randomization of bootlogos deactivated"
-msgstr ""
+msgstr "[BootlogoChanger] s'ha desactivat l'aleatorització dels logotips d'arrencada"
 
 msgid "[BootlogoChanger] randomization: bootlogo found"
-msgstr ""
+msgstr "[BootlogoChanger] aleatorització: bootlogo trobat"
 
 msgid "[BootlogoChanger] selected bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] logotips d'arrencada seleccionats"
 
 msgid "deinstall"
-msgstr ""
+msgstr "desinstal·lar"
 
 msgid "found"
-msgstr ""
+msgstr "trobat"
 
 msgid "install"
-msgstr ""
+msgstr "instal·lar"
 
 msgid "missing"
-msgstr ""
+msgstr "desaparegut"
 
 msgid "off"
-msgstr ""
+msgstr "apagat"
 
 msgid "on"
-msgstr ""
+msgstr "activat"

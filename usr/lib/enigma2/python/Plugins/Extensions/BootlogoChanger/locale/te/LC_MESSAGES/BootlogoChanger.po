@@ -15,187 +15,187 @@ msgstr ""
 # [lululla] <ekekaz@gmail.com>, 2025.
 #
 msgid "Activate the debug-output on console"
-msgstr ""
+msgstr "కన్సోల్‌లో డీబగ్ అవుట్‌పుట్‌ని యాక్టివేట్ చేయండి"
 
 msgid "Bootlogo is excluded from random selection"
-msgstr ""
+msgstr "యాదృచ్ఛిక ఎంపిక నుండి బూట్‌లోగో మినహాయించబడింది"
 
 msgid "Bootlogo is included in random selection"
-msgstr ""
+msgstr "బూట్‌లోగో యాదృచ్ఛిక ఎంపికలో చేర్చబడింది"
 
 msgid "Cancel"
-msgstr ""
+msgstr "రద్దు చేయి"
 
 msgid "Choose random bootlogo at the start of the box"
-msgstr ""
+msgstr "బాక్స్ ప్రారంభంలో యాదృచ్ఛిక బూట్‌లోగోను ఎంచుకోండి"
 
 msgid "Copy logofiles failed"
-msgstr ""
+msgstr "లోగోఫైల్‌లను కాపీ చేయడం విఫలమైంది"
 
 msgid "Current bootlogo"
-msgstr ""
+msgstr "ప్రస్తుత బూట్లోగో"
 
 msgid "Debugmode"
-msgstr ""
+msgstr "డీబగ్ మోడ్"
 
 msgid "Deinstallation of FFmpeg failed"
-msgstr ""
+msgstr "FFmpeg యొక్క డీఇన్‌స్టాలేషన్ విఫలమైంది"
 
 msgid "Delete current mvi-files before changing bootlogo"
-msgstr ""
+msgstr "బూట్‌లోగోను మార్చడానికి ముందు ప్రస్తుత mvi-ఫైళ్లను తొలగించండి"
 
 msgid "Directory with bootlogo folders"
-msgstr ""
+msgstr "బూట్‌లోగో ఫోల్డర్‌లతో డైరెక్టరీ"
 
 msgid "Display duration of the status messages (sec)"
-msgstr ""
+msgstr "స్థితి సందేశాల ప్రదర్శన వ్యవధి (సెకను)"
 
 msgid "Easily switch between different bootlogos"
-msgstr ""
+msgstr "విభిన్న బూట్‌లోగోల మధ్య సులభంగా మారండి"
 
 msgid "Exclude"
-msgstr ""
+msgstr "మినహాయించండి"
 
 msgid "Exit plugin without saving"
-msgstr ""
+msgstr "సేవ్ చేయకుండానే ప్లగిన్ నుండి నిష్క్రమించండి"
 
 msgid "FFmpeg is needed to generate thumbnails from the mvi files"
-msgstr ""
+msgstr "mvi ఫైల్‌ల నుండి సూక్ష్మచిత్రాలను రూపొందించడానికి FFmpeg అవసరం"
 
 msgid "FFmpeg ist missing, no preview pictures available - there is an option to install it in the stettings"
-msgstr ""
+msgstr "FFmpeg లేదు, ప్రివ్యూ చిత్రాలు అందుబాటులో లేవు - దీన్ని సెట్టింగ్‌లలో ఇన్‌స్టాల్ చేయడానికి ఒక ఎంపిక ఉంది"
 
 msgid "FFmpeg removed successfully"
-msgstr ""
+msgstr "FFmpeg విజయవంతంగా తీసివేయబడింది"
 
 msgid "FFmpeg successfully installed"
-msgstr ""
+msgstr "FFmpeg విజయవంతంగా ఇన్‌స్టాల్ చేయబడింది"
 
 msgid "First delete the mvi-files of the current bootlogo then copy the files of the new one"
-msgstr ""
+msgstr "ముందుగా ప్రస్తుత బూట్‌లోగో యొక్క mvi-ఫైల్‌లను తొలగించండి, ఆపై కొత్త ఫైల్‌లను కాపీ చేయండి"
 
 msgid "Found bootlogos"
-msgstr ""
+msgstr "బూట్‌లోగోలు కనుగొనబడ్డాయి"
 
 msgid "Full screen view the selected bootlogo"
-msgstr ""
+msgstr "ఎంచుకున్న బూట్‌లోగోను పూర్తి స్క్రీన్ వీక్షించండి"
 
 msgid "Hide directories without 'mvi'-files"
-msgstr ""
+msgstr "'mvi'-ఫైల్స్ లేకుండా డైరెక్టరీలను దాచండి"
 
 msgid "Hide empty directories"
-msgstr ""
+msgstr "ఖాళీ డైరెక్టరీలను దాచండి"
 
 msgid "How many seconds should status messages be displayed (1-60 sec)"
-msgstr ""
+msgstr "స్థితి సందేశాలు ఎన్ని సెకన్లు ప్రదర్శించబడాలి (1-60 సెకన్లు)"
 
 msgid "Include"
-msgstr ""
+msgstr "చేర్చండి"
 
 msgid "Include or exlude logo in random choice"
-msgstr ""
+msgstr "యాదృచ్ఛిక ఎంపికలో లోగోను చేర్చండి లేదా మినహాయించండి"
 
 msgid "Included Screens"
-msgstr ""
+msgstr "స్క్రీన్‌లు చేర్చబడ్డాయి"
 
 msgid "Install/deinstall ffmpeg"
-msgstr ""
+msgstr "ffmpegని ఇన్‌స్టాల్ చేయండి/అన్‌ఇన్‌స్టాల్ చేయండి"
 
 msgid "Installation of FFmpeg failed"
-msgstr ""
+msgstr "FFmpeg యొక్క ఇన్‌స్టాలేషన్ విఫలమైంది"
 
 msgid "No bootlogos found in directory"
-msgstr ""
+msgstr "డైరెక్టరీలో బూట్‌లోగోలు ఏవీ కనుగొనబడలేదు"
 
 msgid "OK"
-msgstr ""
+msgstr "సరే"
 
 msgid "Open settings"
-msgstr ""
+msgstr "సెట్టింగ్‌లను తెరవండి"
 
 msgid "Preview Logo"
-msgstr ""
+msgstr "ప్రివ్యూ లోగో"
 
 msgid "Preview picture"
-msgstr ""
+msgstr "ప్రివ్యూ చిత్రం"
 
 msgid "Random mode"
-msgstr ""
+msgstr "యాదృచ్ఛిక మోడ్"
 
 msgid "Random selection at startup disabled"
-msgstr ""
+msgstr "ప్రారంభంలో యాదృచ్ఛిక ఎంపిక నిలిపివేయబడింది"
 
 msgid "Random selection at startup enabled"
-msgstr ""
+msgstr "ప్రారంభంలో యాదృచ్ఛిక ఎంపిక ప్రారంభించబడింది"
 
 msgid "Save Changes and exit plugin"
-msgstr ""
+msgstr "మార్పులను సేవ్ చేయండి మరియు ప్లగిన్ నుండి నిష్క్రమించండి"
 
 msgid "Search for folders with boot logos in this directory"
-msgstr ""
+msgstr "ఈ డైరెక్టరీలో బూట్ లోగోలతో ఫోల్డర్‌ల కోసం శోధించండి"
 
 msgid "Which bootlogos should be displayed?"
-msgstr ""
+msgstr "ఏ బూట్‌లోగోలు ప్రదర్శించబడాలి?"
 
 msgid "Which logo should be displayed as a preview picture?"
-msgstr ""
+msgstr "ప్రివ్యూ చిత్రంగా ఏ లోగోను ప్రదర్శించాలి?"
 
 msgid "[BootlogoChanger] activated new bootlogo"
-msgstr ""
+msgstr "[BootlogoChanger] కొత్త బూట్‌లోగో సక్రియం చేయబడింది"
 
 msgid "[BootlogoChanger] activating new bootlogo failed"
-msgstr ""
+msgstr "[BootlogoChanger] కొత్త బూట్‌లోగోని సక్రియం చేయడం విఫలమైంది"
 
 msgid "[BootlogoChanger] copy failed"
-msgstr ""
+msgstr "[BootlogoChanger] కాపీ విఫలమైంది"
 
 msgid "[BootlogoChanger] deleting old bootlogo files"
-msgstr ""
+msgstr "[BootlogoChanger] పాత బూట్‌లోగో ఫైల్‌లను తొలగిస్తోంది"
 
 msgid "[BootlogoChanger] deleting previewPicture"
-msgstr ""
+msgstr "[BootlogoChanger] ప్రివ్యూ చిత్రాన్ని తొలగిస్తోంది"
 
 msgid "[BootlogoChanger] ffmpeg not found"
-msgstr ""
+msgstr "[BootlogoChanger] ffmpeg కనుగొనబడలేదు"
 
 msgid "[BootlogoChanger] found Bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] బూట్‌లోగోలను కనుగొంది"
 
 msgid "[BootlogoChanger] found ffmpeg"
-msgstr ""
+msgstr "[BootlogoChanger] ffmpegని కనుగొన్నారు"
 
 msgid "[BootlogoChanger] no bootlogos for randomization selected"
-msgstr ""
+msgstr "[BootlogoChanger] ర్యాండమైజేషన్ కోసం బూట్‌లోగోలు ఏవీ ఎంచుకోబడలేదు"
 
 msgid "[BootlogoChanger] previewPicture changed"
-msgstr ""
+msgstr "[BootlogoChanger] ప్రివ్యూ చిత్రం మార్చబడింది"
 
 msgid "[BootlogoChanger] randomization of bootlogos activated"
-msgstr ""
+msgstr "[BootlogoChanger] బూట్‌లోగోల యాదృచ్ఛికీకరణ సక్రియం చేయబడింది"
 
 msgid "[BootlogoChanger] randomization of bootlogos deactivated"
-msgstr ""
+msgstr "[BootlogoChanger] బూట్‌లోగోల యాదృచ్ఛికీకరణ నిష్క్రియం చేయబడింది"
 
 msgid "[BootlogoChanger] randomization: bootlogo found"
-msgstr ""
+msgstr "[BootlogoChanger] రాండమైజేషన్: బూట్‌లోగో కనుగొనబడింది"
 
 msgid "[BootlogoChanger] selected bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] ఎంచుకున్న బూట్‌లోగోలు"
 
 msgid "deinstall"
-msgstr ""
+msgstr "అన్‌ఇన్‌స్టాల్ చేయండి"
 
 msgid "found"
-msgstr ""
+msgstr "దొరికింది"
 
 msgid "install"
-msgstr ""
+msgstr "ఇన్స్టాల్"
 
 msgid "missing"
-msgstr ""
+msgstr "లేదు"
 
 msgid "off"
-msgstr ""
+msgstr "ఆఫ్"
 
 msgid "on"
-msgstr ""
+msgstr "న"

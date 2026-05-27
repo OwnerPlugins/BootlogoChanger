@@ -36,7 +36,7 @@ msgid "Current bootlogo"
 msgstr ""
 
 msgid "Debugmode"
-msgstr ""
+msgstr "Debug mode"
 
 msgid "Deinstallation of FFmpeg failed"
 msgstr ""
@@ -99,7 +99,7 @@ msgid "Included Screens"
 msgstr ""
 
 msgid "Install/deinstall ffmpeg"
-msgstr ""
+msgstr "Install/uninstall ffmpeg"
 
 msgid "Installation of FFmpeg failed"
 msgstr ""
@@ -183,7 +183,7 @@ msgid "[BootlogoChanger] selected bootlogos"
 msgstr ""
 
 msgid "deinstall"
-msgstr ""
+msgstr "uninstall"
 
 msgid "found"
 msgstr ""

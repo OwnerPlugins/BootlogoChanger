@@ -15,187 +15,187 @@ msgstr ""
 # [lululla] <ekekaz@gmail.com>, 2025.
 #
 msgid "Activate the debug-output on console"
-msgstr ""
+msgstr "Ysgogi'r allbwn dadfygio ar y consol"
 
 msgid "Bootlogo is excluded from random selection"
-msgstr ""
+msgstr "Mae Bootlogo wedi'i eithrio o ddewis ar hap"
 
 msgid "Bootlogo is included in random selection"
-msgstr ""
+msgstr "Mae Bootlogo wedi'i gynnwys mewn dewis ar hap"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Canslo"
 
 msgid "Choose random bootlogo at the start of the box"
-msgstr ""
+msgstr "Dewiswch bootlogo ar hap ar ddechrau'r blwch"
 
 msgid "Copy logofiles failed"
-msgstr ""
+msgstr "Methwyd â chopïo ffeiliau logo"
 
 msgid "Current bootlogo"
-msgstr ""
+msgstr "Bootlogo cyfredol"
 
 msgid "Debugmode"
-msgstr ""
+msgstr "Modd dadfygio"
 
 msgid "Deinstallation of FFmpeg failed"
-msgstr ""
+msgstr "Methodd dadosod FFmpeg"
 
 msgid "Delete current mvi-files before changing bootlogo"
-msgstr ""
+msgstr "Dileu ffeiliau mvi cyfredol cyn newid bootlogo"
 
 msgid "Directory with bootlogo folders"
-msgstr ""
+msgstr "Cyfeiriadur gyda ffolderi bootlogo"
 
 msgid "Display duration of the status messages (sec)"
-msgstr ""
+msgstr "Arddangos hyd y negeseuon statws (eiliad)"
 
 msgid "Easily switch between different bootlogos"
-msgstr ""
+msgstr "Newid yn hawdd rhwng gwahanol bootlogos"
 
 msgid "Exclude"
-msgstr ""
+msgstr "Eithrio"
 
 msgid "Exit plugin without saving"
-msgstr ""
+msgstr "Gadael ategyn heb arbed"
 
 msgid "FFmpeg is needed to generate thumbnails from the mvi files"
-msgstr ""
+msgstr "Mae angen FFmpeg i gynhyrchu mân-luniau o'r ffeiliau mvi"
 
 msgid "FFmpeg ist missing, no preview pictures available - there is an option to install it in the stettings"
-msgstr ""
+msgstr "Mae FFmpeg ist ar goll, dim lluniau rhagolwg ar gael - mae opsiwn i'w osod yn y stettings"
 
 msgid "FFmpeg removed successfully"
-msgstr ""
+msgstr "Dileu FFmpeg yn llwyddiannus"
 
 msgid "FFmpeg successfully installed"
-msgstr ""
+msgstr "FFmpeg gosod yn llwyddiannus"
 
 msgid "First delete the mvi-files of the current bootlogo then copy the files of the new one"
-msgstr ""
+msgstr "Yn gyntaf dilëwch y mvi-files o'r bootlogo cyfredol ac yna copïwch ffeiliau'r un newydd"
 
 msgid "Found bootlogos"
-msgstr ""
+msgstr "Wedi dod o hyd i bootlogos"
 
 msgid "Full screen view the selected bootlogo"
-msgstr ""
+msgstr "Gweld sgrin lawn y bootlogo a ddewiswyd"
 
 msgid "Hide directories without 'mvi'-files"
-msgstr ""
+msgstr "Cuddio cyfeiriaduron heb 'mvi'-files"
 
 msgid "Hide empty directories"
-msgstr ""
+msgstr "Cuddio cyfeiriaduron gwag"
 
 msgid "How many seconds should status messages be displayed (1-60 sec)"
-msgstr ""
+msgstr "Sawl eiliad ddylai negeseuon statws gael eu harddangos (1-60 eiliad)"
 
 msgid "Include"
-msgstr ""
+msgstr "Cynnwysa"
 
 msgid "Include or exlude logo in random choice"
-msgstr ""
+msgstr "Cynnwys neu hepgor logo mewn dewis ar hap"
 
 msgid "Included Screens"
-msgstr ""
+msgstr "Sgriniau wedi'u Cynnwys"
 
 msgid "Install/deinstall ffmpeg"
-msgstr ""
+msgstr "Gosod/dadosod ffmpeg"
 
 msgid "Installation of FFmpeg failed"
-msgstr ""
+msgstr "Methodd gosod FFmpeg"
 
 msgid "No bootlogos found in directory"
-msgstr ""
+msgstr "Ni chanfuwyd bootlogos yn y cyfeiriadur"
 
 msgid "OK"
-msgstr ""
+msgstr "iawn"
 
 msgid "Open settings"
-msgstr ""
+msgstr "Agor gosodiadau"
 
 msgid "Preview Logo"
-msgstr ""
+msgstr "Logo Rhagolwg"
 
 msgid "Preview picture"
-msgstr ""
+msgstr "Rhagolwg llun"
 
 msgid "Random mode"
-msgstr ""
+msgstr "Modd ar hap"
 
 msgid "Random selection at startup disabled"
-msgstr ""
+msgstr "Dewis ar hap wrth gychwyn wedi'i analluogi"
 
 msgid "Random selection at startup enabled"
-msgstr ""
+msgstr "Wedi galluogi dewis ar hap wrth gychwyn"
 
 msgid "Save Changes and exit plugin"
-msgstr ""
+msgstr "Cadw Newidiadau ac ymadael ategyn"
 
 msgid "Search for folders with boot logos in this directory"
-msgstr ""
+msgstr "Chwiliwch am ffolderi gyda logos cychwyn yn y cyfeiriadur hwn"
 
 msgid "Which bootlogos should be displayed?"
-msgstr ""
+msgstr "Pa bootlogos ddylai gael eu harddangos?"
 
 msgid "Which logo should be displayed as a preview picture?"
-msgstr ""
+msgstr "Pa logo ddylai gael ei arddangos fel llun rhagolwg?"
 
 msgid "[BootlogoChanger] activated new bootlogo"
-msgstr ""
+msgstr "[BootlogoChanger] actifadu bootlogo newydd"
 
 msgid "[BootlogoChanger] activating new bootlogo failed"
-msgstr ""
+msgstr "[BootlogoChanger] actifadu bootlogo newydd wedi methu"
 
 msgid "[BootlogoChanger] copy failed"
-msgstr ""
+msgstr "[BootlogoChanger] copi wedi methu"
 
 msgid "[BootlogoChanger] deleting old bootlogo files"
-msgstr ""
+msgstr "[BootlogoChanger] yn dileu hen ffeiliau bootlogo"
 
 msgid "[BootlogoChanger] deleting previewPicture"
-msgstr ""
+msgstr "[BootlogoChanger] yn dileu previewPicture"
 
 msgid "[BootlogoChanger] ffmpeg not found"
-msgstr ""
+msgstr "[BootlogoChanger] ffmpeg heb ei ganfod"
 
 msgid "[BootlogoChanger] found Bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] dod o hyd i Bootlogos"
 
 msgid "[BootlogoChanger] found ffmpeg"
-msgstr ""
+msgstr "Daeth [BootlogoChanger] o hyd i ffmpeg"
 
 msgid "[BootlogoChanger] no bootlogos for randomization selected"
-msgstr ""
+msgstr "[BootlogoChanger] dim bootlogos ar gyfer hapnodi wedi'u dewis"
 
 msgid "[BootlogoChanger] previewPicture changed"
-msgstr ""
+msgstr "[BootlogoChanger] previewPicture wedi newid"
 
 msgid "[BootlogoChanger] randomization of bootlogos activated"
-msgstr ""
+msgstr "[BootlogoChanger] ar hap o bootlogos wedi'i actifadu"
 
 msgid "[BootlogoChanger] randomization of bootlogos deactivated"
-msgstr ""
+msgstr "[BootlogoChanger] dadactifadu bootlogos ar hap"
 
 msgid "[BootlogoChanger] randomization: bootlogo found"
-msgstr ""
+msgstr "[BootlogoChanger] ar hap: canfuwyd bootlogo"
 
 msgid "[BootlogoChanger] selected bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] bootlogos dethol"
 
 msgid "deinstall"
-msgstr ""
+msgstr "dadosod"
 
 msgid "found"
-msgstr ""
+msgstr "dod o hyd"
 
 msgid "install"
-msgstr ""
+msgstr "gosod"
 
 msgid "missing"
-msgstr ""
+msgstr "ar goll"
 
 msgid "off"
-msgstr ""
+msgstr "i ffwrdd"
 
 msgid "on"
-msgstr ""
+msgstr "ymlaen"

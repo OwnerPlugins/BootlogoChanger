@@ -15,187 +15,187 @@ msgstr ""
 # [lululla] <ekekaz@gmail.com>, 2025.
 #
 msgid "Activate the debug-output on console"
-msgstr ""
+msgstr "I-activate ang debug-output sa console"
 
 msgid "Bootlogo is excluded from random selection"
-msgstr ""
+msgstr "Ang Bootlogo ay hindi kasama sa random na pagpili"
 
 msgid "Bootlogo is included in random selection"
-msgstr ""
+msgstr "Ang bootlogo ay kasama sa random na pagpili"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Kanselahin"
 
 msgid "Choose random bootlogo at the start of the box"
-msgstr ""
+msgstr "Pumili ng random na bootlogo sa simula ng kahon"
 
 msgid "Copy logofiles failed"
-msgstr ""
+msgstr "Nabigo ang pagkopya ng mga logofile"
 
 msgid "Current bootlogo"
-msgstr ""
+msgstr "Kasalukuyang bootlogo"
 
 msgid "Debugmode"
-msgstr ""
+msgstr "Debug mode"
 
 msgid "Deinstallation of FFmpeg failed"
-msgstr ""
+msgstr "Nabigo ang pag-deinstall ng FFmpeg"
 
 msgid "Delete current mvi-files before changing bootlogo"
-msgstr ""
+msgstr "Tanggalin ang mga kasalukuyang mvi-file bago baguhin ang bootlogo"
 
 msgid "Directory with bootlogo folders"
-msgstr ""
+msgstr "Direktoryo na may mga folder ng bootlogo"
 
 msgid "Display duration of the status messages (sec)"
-msgstr ""
+msgstr "Ang tagal ng pagpapakita ng mga mensahe ng katayuan (seg)"
 
 msgid "Easily switch between different bootlogos"
-msgstr ""
+msgstr "Madaling lumipat sa pagitan ng iba't ibang bootlogo"
 
 msgid "Exclude"
-msgstr ""
+msgstr "Ibukod"
 
 msgid "Exit plugin without saving"
-msgstr ""
+msgstr "Lumabas sa plugin nang hindi nagse-save"
 
 msgid "FFmpeg is needed to generate thumbnails from the mvi files"
-msgstr ""
+msgstr "Kailangan ang FFmpeg upang makabuo ng mga thumbnail mula sa mga mvi file"
 
 msgid "FFmpeg ist missing, no preview pictures available - there is an option to install it in the stettings"
-msgstr ""
+msgstr "Nawawala ang FFmpeg, walang magagamit na mga preview na larawan - mayroong opsyon na i-install ito sa mga stetting"
 
 msgid "FFmpeg removed successfully"
-msgstr ""
+msgstr "Matagumpay na naalis ang FFmpeg"
 
 msgid "FFmpeg successfully installed"
-msgstr ""
+msgstr "Matagumpay na na-install ang FFmpeg"
 
 msgid "First delete the mvi-files of the current bootlogo then copy the files of the new one"
-msgstr ""
+msgstr "Tanggalin muna ang mga mvi-file ng kasalukuyang bootlogo pagkatapos ay kopyahin ang mga file ng bago"
 
 msgid "Found bootlogos"
-msgstr ""
+msgstr "Nakahanap ng mga bootlogo"
 
 msgid "Full screen view the selected bootlogo"
-msgstr ""
+msgstr "Tingnan sa buong screen ang napiling bootlogo"
 
 msgid "Hide directories without 'mvi'-files"
-msgstr ""
+msgstr "Itago ang mga direktoryo nang walang 'mvi'-files"
 
 msgid "Hide empty directories"
-msgstr ""
+msgstr "Itago ang mga walang laman na direktoryo"
 
 msgid "How many seconds should status messages be displayed (1-60 sec)"
-msgstr ""
+msgstr "Ilang segundo dapat ipakita ang mga status message (1-60 sec)"
 
 msgid "Include"
-msgstr ""
+msgstr "Isama"
 
 msgid "Include or exlude logo in random choice"
-msgstr ""
+msgstr "Isama o ibukod ang logo sa random na pagpipilian"
 
 msgid "Included Screens"
-msgstr ""
+msgstr "Mga Kasamang Screen"
 
 msgid "Install/deinstall ffmpeg"
-msgstr ""
+msgstr "I-install/i-uninstall ang ffmpeg"
 
 msgid "Installation of FFmpeg failed"
-msgstr ""
+msgstr "Nabigo ang pag-install ng FFmpeg"
 
 msgid "No bootlogos found in directory"
-msgstr ""
+msgstr "Walang nakitang bootlogo sa direktoryo"
 
 msgid "OK"
 msgstr ""
 
 msgid "Open settings"
-msgstr ""
+msgstr "Buksan ang mga setting"
 
 msgid "Preview Logo"
-msgstr ""
+msgstr "I-preview ang Logo"
 
 msgid "Preview picture"
-msgstr ""
+msgstr "I-preview ang larawan"
 
 msgid "Random mode"
-msgstr ""
+msgstr "Random na mode"
 
 msgid "Random selection at startup disabled"
-msgstr ""
+msgstr "Na-disable ang random na pagpili sa startup"
 
 msgid "Random selection at startup enabled"
-msgstr ""
+msgstr "Pinagana ang random na pagpili sa startup"
 
 msgid "Save Changes and exit plugin"
-msgstr ""
+msgstr "I-save ang Mga Pagbabago at lumabas sa plugin"
 
 msgid "Search for folders with boot logos in this directory"
-msgstr ""
+msgstr "Maghanap ng mga folder na may mga logo ng boot sa direktoryong ito"
 
 msgid "Which bootlogos should be displayed?"
-msgstr ""
+msgstr "Aling mga bootlogo ang dapat ipakita?"
 
 msgid "Which logo should be displayed as a preview picture?"
-msgstr ""
+msgstr "Aling logo ang dapat ipakita bilang isang preview na larawan?"
 
 msgid "[BootlogoChanger] activated new bootlogo"
-msgstr ""
+msgstr "Ang [BootlogoChanger] ay nag-activate ng bagong bootlogo"
 
 msgid "[BootlogoChanger] activating new bootlogo failed"
-msgstr ""
+msgstr "Nabigo ang [BootlogoChanger] pag-activate ng bagong bootlogo"
 
 msgid "[BootlogoChanger] copy failed"
-msgstr ""
+msgstr "Nabigo ang kopya ng [BootlogoChanger]."
 
 msgid "[BootlogoChanger] deleting old bootlogo files"
-msgstr ""
+msgstr "[BootlogoChanger] tinatanggal ang mga lumang bootlogo file"
 
 msgid "[BootlogoChanger] deleting previewPicture"
-msgstr ""
+msgstr "Tinatanggal ng [BootlogoChanger] ang previewPicture"
 
 msgid "[BootlogoChanger] ffmpeg not found"
-msgstr ""
+msgstr "Hindi nakita ang [BootlogoChanger] ffmpeg"
 
 msgid "[BootlogoChanger] found Bootlogos"
-msgstr ""
+msgstr "Nakita ng [BootlogoChanger] ang Bootlogos"
 
 msgid "[BootlogoChanger] found ffmpeg"
-msgstr ""
+msgstr "Nakita ng [BootlogoChanger] ang ffmpeg"
 
 msgid "[BootlogoChanger] no bootlogos for randomization selected"
-msgstr ""
+msgstr "[BootlogoChanger] walang bootlogo para sa randomization na napili"
 
 msgid "[BootlogoChanger] previewPicture changed"
-msgstr ""
+msgstr "Ang preview ng [BootlogoChanger] ay nagbago"
 
 msgid "[BootlogoChanger] randomization of bootlogos activated"
-msgstr ""
+msgstr "[BootlogoChanger] na-activate ang randomization ng mga bootlogo"
 
 msgid "[BootlogoChanger] randomization of bootlogos deactivated"
-msgstr ""
+msgstr "[BootlogoChanger] na-deactivate ang randomization ng mga bootlogo"
 
 msgid "[BootlogoChanger] randomization: bootlogo found"
-msgstr ""
+msgstr "[BootlogoChanger] randomization: natagpuan ang bootlogo"
 
 msgid "[BootlogoChanger] selected bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] napiling bootlogo"
 
 msgid "deinstall"
-msgstr ""
+msgstr "i-uninstall"
 
 msgid "found"
-msgstr ""
+msgstr "natagpuan"
 
 msgid "install"
-msgstr ""
+msgstr "i-install"
 
 msgid "missing"
-msgstr ""
+msgstr "nawawala"
 
 msgid "off"
 msgstr ""
 
 msgid "on"
-msgstr ""
+msgstr "sa"

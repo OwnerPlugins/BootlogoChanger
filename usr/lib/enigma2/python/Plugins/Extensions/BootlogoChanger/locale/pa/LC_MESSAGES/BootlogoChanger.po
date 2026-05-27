@@ -15,187 +15,187 @@ msgstr ""
 # [lululla] <ekekaz@gmail.com>, 2025.
 #
 msgid "Activate the debug-output on console"
-msgstr ""
+msgstr "ਕੰਸੋਲ ਉੱਤੇ ਡੀਬੱਗ-ਆਉਟਪੁੱਟ ਨੂੰ ਸਰਗਰਮ ਕਰੋ"
 
 msgid "Bootlogo is excluded from random selection"
-msgstr ""
+msgstr "ਬੂਟਲੋਗੋ ਨੂੰ ਬੇਤਰਤੀਬ ਚੋਣ ਤੋਂ ਬਾਹਰ ਰੱਖਿਆ ਗਿਆ ਹੈ"
 
 msgid "Bootlogo is included in random selection"
-msgstr ""
+msgstr "ਬੂਟਲੋਗੋ ਨੂੰ ਬੇਤਰਤੀਬ ਚੋਣ ਵਿੱਚ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ ਹੈ"
 
 msgid "Cancel"
-msgstr ""
+msgstr "ਰੱਦ ਕਰੋ"
 
 msgid "Choose random bootlogo at the start of the box"
-msgstr ""
+msgstr "ਬਾਕਸ ਦੇ ਸ਼ੁਰੂ ਵਿੱਚ ਬੇਤਰਤੀਬ ਬੂਟਲੋਗੋ ਚੁਣੋ"
 
 msgid "Copy logofiles failed"
-msgstr ""
+msgstr "ਲੋਗੋਫਾਈਲਾਂ ਨੂੰ ਕਾਪੀ ਕਰਨਾ ਅਸਫਲ ਰਿਹਾ"
 
 msgid "Current bootlogo"
-msgstr ""
+msgstr "ਮੌਜੂਦਾ ਬੂਟਲੋਗੋ"
 
 msgid "Debugmode"
-msgstr ""
+msgstr "ਡੀਬੱਗ ਮੋਡ"
 
 msgid "Deinstallation of FFmpeg failed"
-msgstr ""
+msgstr "FFmpeg ਦੀ ਸਥਾਪਨਾ ਅਸਫਲ ਰਹੀ"
 
 msgid "Delete current mvi-files before changing bootlogo"
-msgstr ""
+msgstr "ਬੂਟਲੋਗੋ ਬਦਲਣ ਤੋਂ ਪਹਿਲਾਂ ਮੌਜੂਦਾ ਐਮਵੀਆਈ-ਫਾਇਲਾਂ ਨੂੰ ਮਿਟਾਓ"
 
 msgid "Directory with bootlogo folders"
-msgstr ""
+msgstr "ਬੂਟਲੋਗੋ ਫੋਲਡਰਾਂ ਵਾਲੀ ਡਾਇਰੈਕਟਰੀ"
 
 msgid "Display duration of the status messages (sec)"
-msgstr ""
+msgstr "ਸਥਿਤੀ ਸੁਨੇਹਿਆਂ ਦੀ ਡਿਸਪਲੇਅ ਮਿਆਦ (ਸੈਕਿੰਡ)"
 
 msgid "Easily switch between different bootlogos"
-msgstr ""
+msgstr "ਵੱਖ-ਵੱਖ ਬੂਟਲੋਗੋ ਵਿਚਕਾਰ ਆਸਾਨੀ ਨਾਲ ਸਵਿਚ ਕਰੋ"
 
 msgid "Exclude"
-msgstr ""
+msgstr "ਬਾਹਰ ਕੱਢੋ"
 
 msgid "Exit plugin without saving"
-msgstr ""
+msgstr "ਸੁਰੱਖਿਅਤ ਕੀਤੇ ਬਿਨਾਂ ਪਲੱਗਇਨ ਤੋਂ ਬਾਹਰ ਜਾਓ"
 
 msgid "FFmpeg is needed to generate thumbnails from the mvi files"
-msgstr ""
+msgstr "Mvi ਫਾਈਲਾਂ ਤੋਂ ਥੰਬਨੇਲ ਬਣਾਉਣ ਲਈ FFmpeg ਦੀ ਲੋੜ ਹੈ"
 
 msgid "FFmpeg ist missing, no preview pictures available - there is an option to install it in the stettings"
-msgstr ""
+msgstr "FFmpeg ist ਗੁੰਮ ਹੈ, ਕੋਈ ਪੂਰਵਦਰਸ਼ਨ ਤਸਵੀਰਾਂ ਉਪਲਬਧ ਨਹੀਂ ਹਨ - ਸਟੈਟਿੰਗਸ ਵਿੱਚ ਇਸਨੂੰ ਸਥਾਪਿਤ ਕਰਨ ਦਾ ਵਿਕਲਪ ਹੈ"
 
 msgid "FFmpeg removed successfully"
-msgstr ""
+msgstr "FFmpeg ਨੂੰ ਸਫਲਤਾਪੂਰਵਕ ਹਟਾਇਆ ਗਿਆ"
 
 msgid "FFmpeg successfully installed"
-msgstr ""
+msgstr "FFmpeg ਸਫਲਤਾਪੂਰਵਕ ਸਥਾਪਿਤ ਕੀਤਾ ਗਿਆ"
 
 msgid "First delete the mvi-files of the current bootlogo then copy the files of the new one"
-msgstr ""
+msgstr "ਪਹਿਲਾਂ ਮੌਜੂਦਾ ਬੂਟਲੋਗੋ ਦੀਆਂ ਐਮਵੀਆਈ ਫਾਈਲਾਂ ਨੂੰ ਮਿਟਾਓ ਅਤੇ ਫਿਰ ਨਵੀਂ ਫਾਈਲਾਂ ਦੀ ਨਕਲ ਕਰੋ"
 
 msgid "Found bootlogos"
-msgstr ""
+msgstr "ਬੂਟਲੋਗੋ ਮਿਲੇ ਹਨ"
 
 msgid "Full screen view the selected bootlogo"
-msgstr ""
+msgstr "ਚੁਣੇ ਹੋਏ ਬੂਟਲੋਗੋ ਨੂੰ ਪੂਰੀ ਸਕ੍ਰੀਨ ਦੇਖੋ"
 
 msgid "Hide directories without 'mvi'-files"
-msgstr ""
+msgstr "'mvi'-ਫਾਇਲਾਂ ਤੋਂ ਬਿਨਾਂ ਡਾਇਰੈਕਟਰੀਆਂ ਓਹਲੇ"
 
 msgid "Hide empty directories"
-msgstr ""
+msgstr "ਖਾਲੀ ਡਾਇਰੈਕਟਰੀਆਂ ਓਹਲੇ ਕਰੋ"
 
 msgid "How many seconds should status messages be displayed (1-60 sec)"
-msgstr ""
+msgstr "ਸਟੇਟਸ ਸੁਨੇਹੇ ਕਿੰਨੇ ਸਕਿੰਟ ਪ੍ਰਦਰਸ਼ਿਤ ਕੀਤੇ ਜਾਣੇ ਚਾਹੀਦੇ ਹਨ (1-60 ਸਕਿੰਟ)"
 
 msgid "Include"
-msgstr ""
+msgstr "ਸ਼ਾਮਲ ਕਰੋ"
 
 msgid "Include or exlude logo in random choice"
-msgstr ""
+msgstr "ਬੇਤਰਤੀਬ ਚੋਣ ਵਿੱਚ ਲੋਗੋ ਸ਼ਾਮਲ ਕਰੋ ਜਾਂ ਬਾਹਰ ਕੱਢੋ"
 
 msgid "Included Screens"
-msgstr ""
+msgstr "ਸਕਰੀਨਾਂ ਸ਼ਾਮਲ ਹਨ"
 
 msgid "Install/deinstall ffmpeg"
-msgstr ""
+msgstr "ffmpeg ਨੂੰ ਸਥਾਪਿਤ / ਅਣਇੰਸਟੌਲ ਕਰੋ"
 
 msgid "Installation of FFmpeg failed"
-msgstr ""
+msgstr "FFmpeg ਦੀ ਸਥਾਪਨਾ ਅਸਫਲ ਰਹੀ"
 
 msgid "No bootlogos found in directory"
-msgstr ""
+msgstr "ਡਾਇਰੈਕਟਰੀ ਵਿੱਚ ਕੋਈ ਬੂਟਲੋਗੋ ਨਹੀਂ ਮਿਲਿਆ"
 
 msgid "OK"
-msgstr ""
+msgstr "ਠੀਕ ਹੈ"
 
 msgid "Open settings"
-msgstr ""
+msgstr "ਸੈਟਿੰਗਾਂ ਖੋਲ੍ਹੋ"
 
 msgid "Preview Logo"
-msgstr ""
+msgstr "ਲੋਗੋ ਦੀ ਝਲਕ"
 
 msgid "Preview picture"
-msgstr ""
+msgstr "ਝਲਕ ਤਸਵੀਰ"
 
 msgid "Random mode"
-msgstr ""
+msgstr "ਰੈਂਡਮ ਮੋਡ"
 
 msgid "Random selection at startup disabled"
-msgstr ""
+msgstr "ਸਟਾਰਟਅੱਪ 'ਤੇ ਬੇਤਰਤੀਬ ਚੋਣ ਨੂੰ ਅਯੋਗ ਬਣਾਇਆ ਗਿਆ"
 
 msgid "Random selection at startup enabled"
-msgstr ""
+msgstr "ਸਟਾਰਟਅੱਪ 'ਤੇ ਬੇਤਰਤੀਬ ਚੋਣ ਨੂੰ ਸਮਰੱਥ ਬਣਾਇਆ ਗਿਆ"
 
 msgid "Save Changes and exit plugin"
-msgstr ""
+msgstr "ਤਬਦੀਲੀਆਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰੋ ਅਤੇ ਪਲੱਗਇਨ ਤੋਂ ਬਾਹਰ ਨਿਕਲੋ"
 
 msgid "Search for folders with boot logos in this directory"
-msgstr ""
+msgstr "ਇਸ ਡਾਇਰੈਕਟਰੀ ਵਿੱਚ ਬੂਟ ਲੋਗੋ ਵਾਲੇ ਫੋਲਡਰਾਂ ਦੀ ਖੋਜ ਕਰੋ"
 
 msgid "Which bootlogos should be displayed?"
-msgstr ""
+msgstr "ਕਿਹੜੇ ਬੂਟਲੋਗੋ ਪ੍ਰਦਰਸ਼ਿਤ ਕੀਤੇ ਜਾਣੇ ਚਾਹੀਦੇ ਹਨ?"
 
 msgid "Which logo should be displayed as a preview picture?"
-msgstr ""
+msgstr "ਪੂਰਵਦਰਸ਼ਨ ਤਸਵੀਰ ਵਜੋਂ ਕਿਹੜਾ ਲੋਗੋ ਪ੍ਰਦਰਸ਼ਿਤ ਕੀਤਾ ਜਾਣਾ ਚਾਹੀਦਾ ਹੈ?"
 
 msgid "[BootlogoChanger] activated new bootlogo"
-msgstr ""
+msgstr "[ਬੂਟਲੋਗੋਚੇਂਜਰ] ਨਵਾਂ ਬੂਟਲੋਗੋ ਸਰਗਰਮ ਕੀਤਾ ਗਿਆ"
 
 msgid "[BootlogoChanger] activating new bootlogo failed"
-msgstr ""
+msgstr "[ਬੂਟਲੋਗੋਚੇਂਜਰ] ਨਵੇਂ ਬੂਟਲੋਗੋ ਨੂੰ ਸਰਗਰਮ ਕਰਨਾ ਅਸਫਲ ਰਿਹਾ"
 
 msgid "[BootlogoChanger] copy failed"
-msgstr ""
+msgstr "[ਬੂਟਲੋਗੋਚੇਂਜਰ] ਕਾਪੀ ਅਸਫਲ ਰਹੀ"
 
 msgid "[BootlogoChanger] deleting old bootlogo files"
-msgstr ""
+msgstr "[ਬੂਟਲੋਗੋਚੇਂਜਰ] ਪੁਰਾਣੀਆਂ ਬੂਟਲੋਗੋ ਫਾਈਲਾਂ ਨੂੰ ਮਿਟਾਉਣਾ"
 
 msgid "[BootlogoChanger] deleting previewPicture"
-msgstr ""
+msgstr "[ਬੂਟਲੋਗੋਚੇਂਜਰ] ਪ੍ਰੀਵਿਊ ਪਿਕਚਰ ਨੂੰ ਮਿਟਾਉਣਾ"
 
 msgid "[BootlogoChanger] ffmpeg not found"
-msgstr ""
+msgstr "[ਬੂਟਲੋਗੋਚੇਂਜਰ] ffmpeg ਨਹੀਂ ਮਿਲਿਆ"
 
 msgid "[BootlogoChanger] found Bootlogos"
-msgstr ""
+msgstr "[ਬੂਟਲੋਗੋਚੇਂਜਰ] ਨੇ ਬੂਟਲੋਗੋ ਲੱਭੇ"
 
 msgid "[BootlogoChanger] found ffmpeg"
-msgstr ""
+msgstr "[ਬੂਟਲੋਗੋਚੇਂਜਰ] ਨੇ ffmpeg ਲੱਭਿਆ"
 
 msgid "[BootlogoChanger] no bootlogos for randomization selected"
-msgstr ""
+msgstr "[ਬੂਟਲੋਗੋਚੇਂਜਰ] ਰੈਂਡਮਾਈਜ਼ੇਸ਼ਨ ਲਈ ਕੋਈ ਬੂਟਲੋਗੋ ਨਹੀਂ ਚੁਣਿਆ ਗਿਆ"
 
 msgid "[BootlogoChanger] previewPicture changed"
-msgstr ""
+msgstr "[ਬੂਟਲੋਗੋਚੇਂਜਰ] ਪੂਰਵਦਰਸ਼ਨ ਤਸਵੀਰ ਬਦਲੀ ਗਈ"
 
 msgid "[BootlogoChanger] randomization of bootlogos activated"
-msgstr ""
+msgstr "[ਬੂਟਲੋਗੋਚੇਂਜਰ] ਬੂਟਲੋਗੋਜ਼ ਦੀ ਬੇਤਰਤੀਬੀ ਸਰਗਰਮੀ"
 
 msgid "[BootlogoChanger] randomization of bootlogos deactivated"
-msgstr ""
+msgstr "[ਬੂਟਲੋਗੋਚੇਂਜਰ] ਬੂਟਲੋਗੋ ਦਾ ਬੇਤਰਤੀਬੀਕਰਨ ਅਯੋਗ ਕੀਤਾ ਗਿਆ"
 
 msgid "[BootlogoChanger] randomization: bootlogo found"
-msgstr ""
+msgstr "[ਬੂਟਲੋਗੋਚੇਂਜਰ] ਰੈਂਡਮਾਈਜ਼ੇਸ਼ਨ: ਬੂਟਲੋਗੋ ਮਿਲਿਆ"
 
 msgid "[BootlogoChanger] selected bootlogos"
-msgstr ""
+msgstr "[ਬੂਟਲੋਗੋਚੇਂਜਰ] ਚੁਣੇ ਹੋਏ ਬੂਟਲੋਗੋ"
 
 msgid "deinstall"
-msgstr ""
+msgstr "ਅਣਇੰਸਟੌਲ"
 
 msgid "found"
-msgstr ""
+msgstr "ਪਾਇਆ"
 
 msgid "install"
-msgstr ""
+msgstr "ਇੰਸਟਾਲ ਕਰੋ"
 
 msgid "missing"
-msgstr ""
+msgstr "ਗੁੰਮ"
 
 msgid "off"
-msgstr ""
+msgstr "ਬੰਦ"
 
 msgid "on"
-msgstr ""
+msgstr "'ਤੇ"

@@ -16,187 +16,187 @@ msgstr ""
 # [lululla] <ekekaz@gmail.com>, 2025.
 #
 msgid "Activate the debug-output on console"
-msgstr ""
+msgstr "콘솔에서 디버그 출력 활성화"
 
 msgid "Bootlogo is excluded from random selection"
-msgstr ""
+msgstr "Bootlogo는 무작위 선택에서 제외됩니다."
 
 msgid "Bootlogo is included in random selection"
-msgstr ""
+msgstr "Bootlogo는 무작위 선택에 포함됩니다."
 
 msgid "Cancel"
-msgstr ""
+msgstr "취소"
 
 msgid "Choose random bootlogo at the start of the box"
-msgstr ""
+msgstr "상자 시작 부분에서 임의의 부팅 로고를 선택하십시오."
 
 msgid "Copy logofiles failed"
-msgstr ""
+msgstr "로고파일 복사 실패"
 
 msgid "Current bootlogo"
-msgstr ""
+msgstr "현재 부트로고"
 
 msgid "Debugmode"
-msgstr ""
+msgstr "디버그 모드"
 
 msgid "Deinstallation of FFmpeg failed"
-msgstr ""
+msgstr "FFmpeg 제거 실패"
 
 msgid "Delete current mvi-files before changing bootlogo"
-msgstr ""
+msgstr "bootlogo를 변경하기 전에 현재 mvi 파일을 삭제하십시오."
 
 msgid "Directory with bootlogo folders"
-msgstr ""
+msgstr "bootlogo 폴더가 있는 디렉토리"
 
 msgid "Display duration of the status messages (sec)"
-msgstr ""
+msgstr "상태 메시지 표시 기간(초)"
 
 msgid "Easily switch between different bootlogos"
-msgstr ""
+msgstr "다양한 부트로고 간을 쉽게 전환"
 
 msgid "Exclude"
-msgstr ""
+msgstr "들어오지 못하게 하다"
 
 msgid "Exit plugin without saving"
-msgstr ""
+msgstr "저장하지 않고 플러그인 종료"
 
 msgid "FFmpeg is needed to generate thumbnails from the mvi files"
-msgstr ""
+msgstr "mvi 파일에서 썸네일을 생성하려면 FFmpeg가 필요합니다."
 
 msgid "FFmpeg ist missing, no preview pictures available - there is an option to install it in the stettings"
-msgstr ""
+msgstr "FFmpeg가 누락되었습니다. 미리보기 사진을 사용할 수 없습니다. 스테팅에 설치하는 옵션이 있습니다."
 
 msgid "FFmpeg removed successfully"
-msgstr ""
+msgstr "FFmpeg가 성공적으로 제거되었습니다."
 
 msgid "FFmpeg successfully installed"
-msgstr ""
+msgstr "FFmpeg가 성공적으로 설치되었습니다"
 
 msgid "First delete the mvi-files of the current bootlogo then copy the files of the new one"
-msgstr ""
+msgstr "먼저 현재 부트로고의 mvi 파일을 삭제한 다음 새 부트로고의 파일을 복사하세요."
 
 msgid "Found bootlogos"
-msgstr ""
+msgstr "부트로고 발견"
 
 msgid "Full screen view the selected bootlogo"
-msgstr ""
+msgstr "선택한 부트로고를 전체 화면으로 봅니다."
 
 msgid "Hide directories without 'mvi'-files"
-msgstr ""
+msgstr "'mvi' 파일이 없는 디렉토리 숨기기"
 
 msgid "Hide empty directories"
-msgstr ""
+msgstr "빈 디렉토리 숨기기"
 
 msgid "How many seconds should status messages be displayed (1-60 sec)"
-msgstr ""
+msgstr "상태 메시지가 몇 초 동안 표시되어야 하는지(1~60초)"
 
 msgid "Include"
-msgstr ""
+msgstr "포함하다"
 
 msgid "Include or exlude logo in random choice"
-msgstr ""
+msgstr "무작위 선택에 로고 포함 또는 제외"
 
 msgid "Included Screens"
-msgstr ""
+msgstr "포함된 화면"
 
 msgid "Install/deinstall ffmpeg"
-msgstr ""
+msgstr "ffmpeg 설치/제거"
 
 msgid "Installation of FFmpeg failed"
-msgstr ""
+msgstr "FFmpeg 설치 실패"
 
 msgid "No bootlogos found in directory"
-msgstr ""
+msgstr "디렉토리에 부트로고가 없습니다."
 
 msgid "OK"
-msgstr ""
+msgstr "좋아요"
 
 msgid "Open settings"
-msgstr ""
+msgstr "설정 열기"
 
 msgid "Preview Logo"
-msgstr ""
+msgstr "로고 미리보기"
 
 msgid "Preview picture"
-msgstr ""
+msgstr "미리보기 사진"
 
 msgid "Random mode"
-msgstr ""
+msgstr "무작위 모드"
 
 msgid "Random selection at startup disabled"
-msgstr ""
+msgstr "시작 시 무작위 선택이 비활성화되었습니다."
 
 msgid "Random selection at startup enabled"
-msgstr ""
+msgstr "시작 시 무작위 선택 활성화"
 
 msgid "Save Changes and exit plugin"
-msgstr ""
+msgstr "변경 사항 저장 및 플러그인 종료"
 
 msgid "Search for folders with boot logos in this directory"
-msgstr ""
+msgstr "이 디렉터리에서 부팅 로고가 있는 폴더를 검색하세요."
 
 msgid "Which bootlogos should be displayed?"
-msgstr ""
+msgstr "어떤 부트로고가 표시되어야 합니까?"
 
 msgid "Which logo should be displayed as a preview picture?"
-msgstr ""
+msgstr "미리보기 사진으로 표시되어야 하는 로고는 무엇입니까?"
 
 msgid "[BootlogoChanger] activated new bootlogo"
-msgstr ""
+msgstr "[BootlogoChanger]가 새 부트로고를 활성화했습니다."
 
 msgid "[BootlogoChanger] activating new bootlogo failed"
-msgstr ""
+msgstr "[BootlogoChanger] 새 bootlogo 활성화 실패"
 
 msgid "[BootlogoChanger] copy failed"
-msgstr ""
+msgstr "[BootlogoChanger] 복사 실패"
 
 msgid "[BootlogoChanger] deleting old bootlogo files"
-msgstr ""
+msgstr "[BootlogoChanger] 오래된 부트로고 파일 삭제"
 
 msgid "[BootlogoChanger] deleting previewPicture"
-msgstr ""
+msgstr "[BootlogoChanger] 미리보기 사진 삭제"
 
 msgid "[BootlogoChanger] ffmpeg not found"
-msgstr ""
+msgstr "[BootlogoChanger] ffmpeg를 찾을 수 없습니다"
 
 msgid "[BootlogoChanger] found Bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger]가 Bootlogos를 찾았습니다."
 
 msgid "[BootlogoChanger] found ffmpeg"
-msgstr ""
+msgstr "[BootlogoChanger]가 ffmpeg를 찾았습니다."
 
 msgid "[BootlogoChanger] no bootlogos for randomization selected"
-msgstr ""
+msgstr "[BootlogoChanger] 무작위화를 위한 부트로고가 선택되지 않았습니다."
 
 msgid "[BootlogoChanger] previewPicture changed"
-msgstr ""
+msgstr "[BootlogoChanger] 미리보기 사진이 변경되었습니다."
 
 msgid "[BootlogoChanger] randomization of bootlogos activated"
-msgstr ""
+msgstr "[BootlogoChanger] 부트로고 무작위화 활성화"
 
 msgid "[BootlogoChanger] randomization of bootlogos deactivated"
-msgstr ""
+msgstr "[BootlogoChanger] 부트로고 무작위화 비활성화됨"
 
 msgid "[BootlogoChanger] randomization: bootlogo found"
-msgstr ""
+msgstr "[BootlogoChanger] 무작위화: bootlogo 발견"
 
 msgid "[BootlogoChanger] selected bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] 선택된 부트로고"
 
 msgid "deinstall"
-msgstr ""
+msgstr "제거"
 
 msgid "found"
-msgstr ""
+msgstr "설립하다"
 
 msgid "install"
-msgstr ""
+msgstr "설치하다"
 
 msgid "missing"
-msgstr ""
+msgstr "없어진"
 
 msgid "off"
-msgstr ""
+msgstr "끄다"
 
 msgid "on"
-msgstr ""
+msgstr "~에"

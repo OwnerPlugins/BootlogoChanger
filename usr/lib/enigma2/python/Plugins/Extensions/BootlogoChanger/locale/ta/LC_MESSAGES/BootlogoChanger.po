@@ -15,187 +15,187 @@ msgstr ""
 # [lululla] <ekekaz@gmail.com>, 2025.
 #
 msgid "Activate the debug-output on console"
-msgstr ""
+msgstr "கன்சோலில் பிழைத்திருத்த வெளியீட்டை இயக்கவும்"
 
 msgid "Bootlogo is excluded from random selection"
-msgstr ""
+msgstr "பூட்லோகோ சீரற்ற தேர்வில் இருந்து விலக்கப்பட்டுள்ளது"
 
 msgid "Bootlogo is included in random selection"
-msgstr ""
+msgstr "சீரற்ற தேர்வில் பூட்லோகோ சேர்க்கப்பட்டுள்ளது"
 
 msgid "Cancel"
-msgstr ""
+msgstr "ரத்து செய்"
 
 msgid "Choose random bootlogo at the start of the box"
-msgstr ""
+msgstr "பெட்டியின் தொடக்கத்தில் சீரற்ற பூட்லோகோவைத் தேர்ந்தெடுக்கவும்"
 
 msgid "Copy logofiles failed"
-msgstr ""
+msgstr "லோகோஃபைல்களை நகலெடுக்க முடியவில்லை"
 
 msgid "Current bootlogo"
-msgstr ""
+msgstr "தற்போதைய பூட்லோகோ"
 
 msgid "Debugmode"
-msgstr ""
+msgstr "பிழைத்திருத்த முறை"
 
 msgid "Deinstallation of FFmpeg failed"
-msgstr ""
+msgstr "FFmpeg இன் நிறுவல் நீக்கம் தோல்வியடைந்தது"
 
 msgid "Delete current mvi-files before changing bootlogo"
-msgstr ""
+msgstr "பூட்லோகோவை மாற்றுவதற்கு முன் தற்போதைய mvi-கோப்புகளை நீக்கவும்"
 
 msgid "Directory with bootlogo folders"
-msgstr ""
+msgstr "பூட்லோகோ கோப்புறைகள் கொண்ட கோப்பகம்"
 
 msgid "Display duration of the status messages (sec)"
-msgstr ""
+msgstr "நிலை செய்திகளின் காட்சி கால அளவு (வினாடி)"
 
 msgid "Easily switch between different bootlogos"
-msgstr ""
+msgstr "வெவ்வேறு பூட்லோகோக்களுக்கு இடையில் எளிதாக மாறவும்"
 
 msgid "Exclude"
-msgstr ""
+msgstr "விலக்கு"
 
 msgid "Exit plugin without saving"
-msgstr ""
+msgstr "சேமிக்காமல் சொருகி வெளியேறவும்"
 
 msgid "FFmpeg is needed to generate thumbnails from the mvi files"
-msgstr ""
+msgstr "mvi கோப்புகளில் இருந்து சிறுபடங்களை உருவாக்க FFmpeg தேவை"
 
 msgid "FFmpeg ist missing, no preview pictures available - there is an option to install it in the stettings"
-msgstr ""
+msgstr "FFmpeg காணவில்லை, முன்னோட்ட படங்கள் எதுவும் இல்லை - அமைப்புகளில் இதை நிறுவ விருப்பம் உள்ளது"
 
 msgid "FFmpeg removed successfully"
-msgstr ""
+msgstr "FFmpeg வெற்றிகரமாக அகற்றப்பட்டது"
 
 msgid "FFmpeg successfully installed"
-msgstr ""
+msgstr "FFmpeg வெற்றிகரமாக நிறுவப்பட்டது"
 
 msgid "First delete the mvi-files of the current bootlogo then copy the files of the new one"
-msgstr ""
+msgstr "முதலில் தற்போதைய பூட்லோகோவின் mvi-கோப்புகளை நீக்கவும், பின்னர் புதிய கோப்புகளை நகலெடுக்கவும்"
 
 msgid "Found bootlogos"
-msgstr ""
+msgstr "பூட்லோகோக்கள் கிடைத்தன"
 
 msgid "Full screen view the selected bootlogo"
-msgstr ""
+msgstr "தேர்ந்தெடுக்கப்பட்ட பூட்லோகோவை முழுத்திரையில் பார்க்கவும்"
 
 msgid "Hide directories without 'mvi'-files"
-msgstr ""
+msgstr "'mvi'-கோப்புகள் இல்லாமல் கோப்பகங்களை மறை"
 
 msgid "Hide empty directories"
-msgstr ""
+msgstr "வெற்று கோப்பகங்களை மறை"
 
 msgid "How many seconds should status messages be displayed (1-60 sec)"
-msgstr ""
+msgstr "நிலை செய்திகள் எத்தனை வினாடிகள் காட்டப்பட வேண்டும் (1-60 நொடி)"
 
 msgid "Include"
-msgstr ""
+msgstr "அடங்கும்"
 
 msgid "Include or exlude logo in random choice"
-msgstr ""
+msgstr "சீரற்ற தேர்வில் லோகோவைச் சேர்க்கவும் அல்லது விலக்கவும்"
 
 msgid "Included Screens"
-msgstr ""
+msgstr "திரைகள் அடங்கும்"
 
 msgid "Install/deinstall ffmpeg"
-msgstr ""
+msgstr "ffmpeg ஐ நிறுவவும்/நிறுத்தவும்"
 
 msgid "Installation of FFmpeg failed"
-msgstr ""
+msgstr "FFmpeg இன் நிறுவல் தோல்வியடைந்தது"
 
 msgid "No bootlogos found in directory"
-msgstr ""
+msgstr "கோப்பகத்தில் பூட்லோகோக்கள் எதுவும் காணப்படவில்லை"
 
 msgid "OK"
-msgstr ""
+msgstr "சரி"
 
 msgid "Open settings"
-msgstr ""
+msgstr "அமைப்புகளைத் திறக்கவும்"
 
 msgid "Preview Logo"
-msgstr ""
+msgstr "முன்னோட்ட லோகோ"
 
 msgid "Preview picture"
-msgstr ""
+msgstr "முன்னோட்ட படம்"
 
 msgid "Random mode"
-msgstr ""
+msgstr "சீரற்ற முறை"
 
 msgid "Random selection at startup disabled"
-msgstr ""
+msgstr "தொடக்கத்தில் சீரற்ற தேர்வு முடக்கப்பட்டது"
 
 msgid "Random selection at startup enabled"
-msgstr ""
+msgstr "தொடக்கத்தில் சீரற்ற தேர்வு இயக்கப்பட்டது"
 
 msgid "Save Changes and exit plugin"
-msgstr ""
+msgstr "மாற்றங்களைச் சேமித்து, சொருகி வெளியேறவும்"
 
 msgid "Search for folders with boot logos in this directory"
-msgstr ""
+msgstr "இந்த கோப்பகத்தில் துவக்க சின்னங்களைக் கொண்ட கோப்புறைகளைத் தேடவும்"
 
 msgid "Which bootlogos should be displayed?"
-msgstr ""
+msgstr "எந்த பூட்லோகோக்கள் காட்டப்பட வேண்டும்?"
 
 msgid "Which logo should be displayed as a preview picture?"
-msgstr ""
+msgstr "எந்த லோகோவை முன்னோட்ட படமாக காட்ட வேண்டும்?"
 
 msgid "[BootlogoChanger] activated new bootlogo"
-msgstr ""
+msgstr "[BootlogoChanger] புதிய பூட்லோகோவைச் செயல்படுத்தியது"
 
 msgid "[BootlogoChanger] activating new bootlogo failed"
-msgstr ""
+msgstr "[BootlogoChanger] புதிய பூட்லோகோவை செயல்படுத்துவதில் தோல்வி"
 
 msgid "[BootlogoChanger] copy failed"
-msgstr ""
+msgstr "[BootlogoChanger] நகல் தோல்வியடைந்தது"
 
 msgid "[BootlogoChanger] deleting old bootlogo files"
-msgstr ""
+msgstr "[BootlogoChanger] பழைய பூட்லோகோ கோப்புகளை நீக்குகிறது"
 
 msgid "[BootlogoChanger] deleting previewPicture"
-msgstr ""
+msgstr "[BootlogoChanger] முன்னோட்டப் படத்தை நீக்குகிறது"
 
 msgid "[BootlogoChanger] ffmpeg not found"
-msgstr ""
+msgstr "[BootlogoChanger] ffmpeg கிடைக்கவில்லை"
 
 msgid "[BootlogoChanger] found Bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] பூட்லோகோக்களைக் கண்டறிந்தது"
 
 msgid "[BootlogoChanger] found ffmpeg"
-msgstr ""
+msgstr "[BootlogoChanger] ffmpeg ஐக் கண்டறிந்தது"
 
 msgid "[BootlogoChanger] no bootlogos for randomization selected"
-msgstr ""
+msgstr "[BootlogoChanger] சீரற்றமயமாக்கலுக்கான பூட்லோகோக்கள் எதுவும் தேர்ந்தெடுக்கப்படவில்லை"
 
 msgid "[BootlogoChanger] previewPicture changed"
-msgstr ""
+msgstr "[BootlogoChanger] முன்னோட்டம் படம் மாற்றப்பட்டது"
 
 msgid "[BootlogoChanger] randomization of bootlogos activated"
-msgstr ""
+msgstr "[BootlogoChanger] பூட்லோகோக்களின் சீரற்றமயமாக்கல் செயல்படுத்தப்பட்டது"
 
 msgid "[BootlogoChanger] randomization of bootlogos deactivated"
-msgstr ""
+msgstr "[BootlogoChanger] பூட்லோகோக்களின் சீரற்றமயமாக்கல் செயலிழக்கப்பட்டது"
 
 msgid "[BootlogoChanger] randomization: bootlogo found"
-msgstr ""
+msgstr "[BootlogoChanger] randomization: bootlogo கண்டறியப்பட்டது"
 
 msgid "[BootlogoChanger] selected bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] தேர்ந்தெடுக்கப்பட்ட பூட்லோகோக்கள்"
 
 msgid "deinstall"
-msgstr ""
+msgstr "நிறுவல் நீக்க"
 
 msgid "found"
-msgstr ""
+msgstr "கண்டுபிடிக்கப்பட்டது"
 
 msgid "install"
-msgstr ""
+msgstr "நிறுவவும்"
 
 msgid "missing"
-msgstr ""
+msgstr "காணவில்லை"
 
 msgid "off"
-msgstr ""
+msgstr "ஆஃப்"
 
 msgid "on"
-msgstr ""
+msgstr "அன்று"

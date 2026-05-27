@@ -15,187 +15,187 @@ msgstr ""
 # [lululla] <ekekaz@gmail.com>, 2025.
 #
 msgid "Activate the debug-output on console"
-msgstr ""
+msgstr "Washa pato la utatuzi kwenye kiweko"
 
 msgid "Bootlogo is excluded from random selection"
-msgstr ""
+msgstr "Bootlogo haijajumuishwa kwenye uteuzi wa nasibu"
 
 msgid "Bootlogo is included in random selection"
-msgstr ""
+msgstr "Bootlogo imejumuishwa katika uteuzi wa nasibu"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Ghairi"
 
 msgid "Choose random bootlogo at the start of the box"
-msgstr ""
+msgstr "Chagua bootlogo bila mpangilio mwanzoni mwa kisanduku"
 
 msgid "Copy logofiles failed"
-msgstr ""
+msgstr "Imeshindwa kunakili faili za nembo"
 
 msgid "Current bootlogo"
-msgstr ""
+msgstr "Bootlogo ya sasa"
 
 msgid "Debugmode"
-msgstr ""
+msgstr "Hali ya utatuzi"
 
 msgid "Deinstallation of FFmpeg failed"
-msgstr ""
+msgstr "Uondoaji wa FFmpeg haukufaulu"
 
 msgid "Delete current mvi-files before changing bootlogo"
-msgstr ""
+msgstr "Futa faili za mvi za sasa kabla ya kubadilisha bootlogo"
 
 msgid "Directory with bootlogo folders"
-msgstr ""
+msgstr "Saraka iliyo na folda za bootlogo"
 
 msgid "Display duration of the status messages (sec)"
-msgstr ""
+msgstr "Onyesha muda wa ujumbe wa hali (sekunde)"
 
 msgid "Easily switch between different bootlogos"
-msgstr ""
+msgstr "Badilisha kwa urahisi kati ya bootlogos tofauti"
 
 msgid "Exclude"
-msgstr ""
+msgstr "Ondoa"
 
 msgid "Exit plugin without saving"
-msgstr ""
+msgstr "Ondoka kwenye programu-jalizi bila kuhifadhi"
 
 msgid "FFmpeg is needed to generate thumbnails from the mvi files"
-msgstr ""
+msgstr "FFmpeg inahitajika kutengeneza vijipicha kutoka kwa faili za mvi"
 
 msgid "FFmpeg ist missing, no preview pictures available - there is an option to install it in the stettings"
-msgstr ""
+msgstr "FFmpeg haipo, hakuna picha za onyesho la kukagua zinazopatikana - kuna chaguo la kuisakinisha kwenye mipangilio"
 
 msgid "FFmpeg removed successfully"
-msgstr ""
+msgstr "FFmpeg imeondolewa kwa mafanikio"
 
 msgid "FFmpeg successfully installed"
-msgstr ""
+msgstr "FFmpeg imesakinishwa"
 
 msgid "First delete the mvi-files of the current bootlogo then copy the files of the new one"
-msgstr ""
+msgstr "Kwanza futa faili za mvi za bootlogo ya sasa kisha nakili faili za mpya"
 
 msgid "Found bootlogos"
-msgstr ""
+msgstr "Imepata bootlogos"
 
 msgid "Full screen view the selected bootlogo"
-msgstr ""
+msgstr "Skrini nzima tazama bootlogo iliyochaguliwa"
 
 msgid "Hide directories without 'mvi'-files"
-msgstr ""
+msgstr "Ficha saraka bila 'mvi'-faili"
 
 msgid "Hide empty directories"
-msgstr ""
+msgstr "Ficha saraka tupu"
 
 msgid "How many seconds should status messages be displayed (1-60 sec)"
-msgstr ""
+msgstr "Ujumbe wa hali unapaswa kuonyeshwa sekunde ngapi (sekunde 1-60)"
 
 msgid "Include"
-msgstr ""
+msgstr "Jumuisha"
 
 msgid "Include or exlude logo in random choice"
-msgstr ""
+msgstr "Jumuisha au ondoa nembo katika chaguo la nasibu"
 
 msgid "Included Screens"
-msgstr ""
+msgstr "Skrini zilizojumuishwa"
 
 msgid "Install/deinstall ffmpeg"
-msgstr ""
+msgstr "Sakinisha/ondoa ffmpeg"
 
 msgid "Installation of FFmpeg failed"
-msgstr ""
+msgstr "Usakinishaji wa FFmpeg haukufaulu"
 
 msgid "No bootlogos found in directory"
-msgstr ""
+msgstr "Hakuna bootlogo zilizopatikana kwenye saraka"
 
 msgid "OK"
-msgstr ""
+msgstr "Sawa"
 
 msgid "Open settings"
-msgstr ""
+msgstr "Fungua mipangilio"
 
 msgid "Preview Logo"
-msgstr ""
+msgstr "Hakiki Nembo"
 
 msgid "Preview picture"
-msgstr ""
+msgstr "Hakiki picha"
 
 msgid "Random mode"
-msgstr ""
+msgstr "Hali ya nasibu"
 
 msgid "Random selection at startup disabled"
-msgstr ""
+msgstr "Uchaguzi nasibu wakati wa kuanza umezimwa"
 
 msgid "Random selection at startup enabled"
-msgstr ""
+msgstr "Uteuzi nasibu wakati wa kuanza umewezeshwa"
 
 msgid "Save Changes and exit plugin"
-msgstr ""
+msgstr "Hifadhi Mabadiliko na uondoke kwenye programu-jalizi"
 
 msgid "Search for folders with boot logos in this directory"
-msgstr ""
+msgstr "Tafuta folda zilizo na nembo za boot kwenye saraka hii"
 
 msgid "Which bootlogos should be displayed?"
-msgstr ""
+msgstr "Ni bootlogos gani zinapaswa kuonyeshwa?"
 
 msgid "Which logo should be displayed as a preview picture?"
-msgstr ""
+msgstr "Ni nembo gani inapaswa kuonyeshwa kama picha ya onyesho la kukagua?"
 
 msgid "[BootlogoChanger] activated new bootlogo"
-msgstr ""
+msgstr "[BootlogoChanger] imewasha nembo mpya ya boot"
 
 msgid "[BootlogoChanger] activating new bootlogo failed"
-msgstr ""
+msgstr "[BootlogoChanger] kuwezesha bootlogo mpya imeshindwa"
 
 msgid "[BootlogoChanger] copy failed"
-msgstr ""
+msgstr "[BoologoChanger] nakala imeshindwa"
 
 msgid "[BootlogoChanger] deleting old bootlogo files"
-msgstr ""
+msgstr "[BoologoChanger] kufuta faili za zamani za bootlogo"
 
 msgid "[BootlogoChanger] deleting previewPicture"
-msgstr ""
+msgstr "[BoologoChanger] inafuta onyesho la kukaguaPicha"
 
 msgid "[BootlogoChanger] ffmpeg not found"
-msgstr ""
+msgstr "[BoologoChanger] ffmpeg haipatikani"
 
 msgid "[BootlogoChanger] found Bootlogos"
-msgstr ""
+msgstr "[BoologoChanger] imepata Bootlogos"
 
 msgid "[BootlogoChanger] found ffmpeg"
-msgstr ""
+msgstr "[BoologoChanger] imepata ffmpeg"
 
 msgid "[BootlogoChanger] no bootlogos for randomization selected"
-msgstr ""
+msgstr "[BoologoChanger] hakuna bootlogos kwa randomization iliyochaguliwa"
 
 msgid "[BootlogoChanger] previewPicture changed"
-msgstr ""
+msgstr "[BoologoChanger] onyesho la kukaguaPicha imebadilishwa"
 
 msgid "[BootlogoChanger] randomization of bootlogos activated"
-msgstr ""
+msgstr "[BoologoChanger] uwekaji nasibu wa bootlogos umewashwa"
 
 msgid "[BootlogoChanger] randomization of bootlogos deactivated"
-msgstr ""
+msgstr "[BootlogoChanger] kubahatisha kwa bootlogos kumezimwa"
 
 msgid "[BootlogoChanger] randomization: bootlogo found"
-msgstr ""
+msgstr "[BoologoChanger] randomization: bootlogo imepatikana"
 
 msgid "[BootlogoChanger] selected bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] bootlogos zilizochaguliwa"
 
 msgid "deinstall"
-msgstr ""
+msgstr "ondoa"
 
 msgid "found"
-msgstr ""
+msgstr "kupatikana"
 
 msgid "install"
-msgstr ""
+msgstr "sakinisha"
 
 msgid "missing"
-msgstr ""
+msgstr "kukosa"
 
 msgid "off"
-msgstr ""
+msgstr "imezimwa"
 
 msgid "on"
-msgstr ""
+msgstr "juu"

@@ -16,187 +16,187 @@ msgstr ""
 # [lululla] <ekekaz@gmail.com>, 2025.
 #
 msgid "Activate the debug-output on console"
-msgstr ""
+msgstr "Aktivigu la sencimigan eligon sur konzolo"
 
 msgid "Bootlogo is excluded from random selection"
-msgstr ""
+msgstr "Bootlogo estas ekskludita de hazarda elekto"
 
 msgid "Bootlogo is included in random selection"
-msgstr ""
+msgstr "Bootlogo estas inkluzivita en hazarda elekto"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Nuligi"
 
 msgid "Choose random bootlogo at the start of the box"
-msgstr ""
+msgstr "Elektu hazardan bootlogon ĉe la komenco de la skatolo"
 
 msgid "Copy logofiles failed"
-msgstr ""
+msgstr "Kopio de logodosieroj malsukcesis"
 
 msgid "Current bootlogo"
-msgstr ""
+msgstr "Nuna bootlogo"
 
 msgid "Debugmode"
-msgstr ""
+msgstr "Sencimiga reĝimo"
 
 msgid "Deinstallation of FFmpeg failed"
-msgstr ""
+msgstr "Malinstalado de FFmpeg malsukcesis"
 
 msgid "Delete current mvi-files before changing bootlogo"
-msgstr ""
+msgstr "Forigu nunajn mvi-dosierojn antaŭ ol ŝanĝi bootlogon"
 
 msgid "Directory with bootlogo folders"
-msgstr ""
+msgstr "Dosierujo kun bootlogo-dosierujoj"
 
 msgid "Display duration of the status messages (sec)"
-msgstr ""
+msgstr "Montru daŭron de la statusmesaĝoj (sec)"
 
 msgid "Easily switch between different bootlogos"
-msgstr ""
+msgstr "Facile ŝanĝi inter malsamaj botologoj"
 
 msgid "Exclude"
-msgstr ""
+msgstr "Ekskludi"
 
 msgid "Exit plugin without saving"
-msgstr ""
+msgstr "Eliru kromprogramon sen konservi"
 
 msgid "FFmpeg is needed to generate thumbnails from the mvi files"
-msgstr ""
+msgstr "FFmpeg estas necesa por generi bildetojn el la mvi-dosieroj"
 
 msgid "FFmpeg ist missing, no preview pictures available - there is an option to install it in the stettings"
-msgstr ""
+msgstr "FFmpeg mankas, neniuj antaŭprezentbildoj haveblaj - ekzistas opcio por instali ĝin en la agordoj"
 
 msgid "FFmpeg removed successfully"
-msgstr ""
+msgstr "FFmpeg sukcese forigita"
 
 msgid "FFmpeg successfully installed"
-msgstr ""
+msgstr "FFmpeg sukcese instalita"
 
 msgid "First delete the mvi-files of the current bootlogo then copy the files of the new one"
-msgstr ""
+msgstr "Unue forigu la mvi-dosierojn de la nuna bootlogo poste kopiu la dosierojn de la nova"
 
 msgid "Found bootlogos"
-msgstr ""
+msgstr "Trovis botologojn"
 
 msgid "Full screen view the selected bootlogo"
-msgstr ""
+msgstr "Plenekrana rigardu la elektitan botologon"
 
 msgid "Hide directories without 'mvi'-files"
-msgstr ""
+msgstr "Kaŝi dosierujojn sen 'mvi'-dosieroj"
 
 msgid "Hide empty directories"
-msgstr ""
+msgstr "Kaŝi malplenajn dosierujojn"
 
 msgid "How many seconds should status messages be displayed (1-60 sec)"
-msgstr ""
+msgstr "Kiom da sekundoj devus esti montrataj statomesaĝoj (1-60 sek)"
 
 msgid "Include"
-msgstr ""
+msgstr "Inkluzivi"
 
 msgid "Include or exlude logo in random choice"
-msgstr ""
+msgstr "Inkluzivi aŭ ekskludi logoon en hazarda elekto"
 
 msgid "Included Screens"
-msgstr ""
+msgstr "Inkluditaj Ekranoj"
 
 msgid "Install/deinstall ffmpeg"
-msgstr ""
+msgstr "Instali/malinstali ffmpeg"
 
 msgid "Installation of FFmpeg failed"
-msgstr ""
+msgstr "Instalado de FFmpeg malsukcesis"
 
 msgid "No bootlogos found in directory"
-msgstr ""
+msgstr "Neniuj botologoj trovitaj en dosierujo"
 
 msgid "OK"
-msgstr ""
+msgstr "Bone"
 
 msgid "Open settings"
-msgstr ""
+msgstr "Malfermu agordojn"
 
 msgid "Preview Logo"
-msgstr ""
+msgstr "Antaŭrigardo Logo"
 
 msgid "Preview picture"
-msgstr ""
+msgstr "Antaŭrigarda bildo"
 
 msgid "Random mode"
-msgstr ""
+msgstr "Hazarda reĝimo"
 
 msgid "Random selection at startup disabled"
-msgstr ""
+msgstr "Hazarda elekto ĉe ekfunkciigo estas malŝaltita"
 
 msgid "Random selection at startup enabled"
-msgstr ""
+msgstr "Hazarda elekto ĉe ekfunkciigo estas ebligita"
 
 msgid "Save Changes and exit plugin"
-msgstr ""
+msgstr "Konservu Ŝanĝojn kaj eliru aldonaĵon"
 
 msgid "Search for folders with boot logos in this directory"
-msgstr ""
+msgstr "Serĉu dosierujojn kun lanĉaj emblemoj en ĉi tiu dosierujo"
 
 msgid "Which bootlogos should be displayed?"
-msgstr ""
+msgstr "Kiuj botologoj estu montrataj?"
 
 msgid "Which logo should be displayed as a preview picture?"
-msgstr ""
+msgstr "Kiu emblemo devus esti montrita kiel antaŭrigarda bildo?"
 
 msgid "[BootlogoChanger] activated new bootlogo"
-msgstr ""
+msgstr "[BootlogoChanger] aktivigis novan bootlogon"
 
 msgid "[BootlogoChanger] activating new bootlogo failed"
-msgstr ""
+msgstr "[BootlogoChanger] aktivigo de nova bootlogo malsukcesis"
 
 msgid "[BootlogoChanger] copy failed"
-msgstr ""
+msgstr "[BootlogoChanger] kopio malsukcesis"
 
 msgid "[BootlogoChanger] deleting old bootlogo files"
-msgstr ""
+msgstr "[BootlogoChanger] forigante malnovajn bootlogo-dosierojn"
 
 msgid "[BootlogoChanger] deleting previewPicture"
-msgstr ""
+msgstr "[BootlogoChanger] forigante antaŭrigardon"
 
 msgid "[BootlogoChanger] ffmpeg not found"
-msgstr ""
+msgstr "[BootlogoChanger] ffmpeg ne trovita"
 
 msgid "[BootlogoChanger] found Bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] trovis Bootlogos"
 
 msgid "[BootlogoChanger] found ffmpeg"
-msgstr ""
+msgstr "[BootlogoChanger] trovis ffmpeg"
 
 msgid "[BootlogoChanger] no bootlogos for randomization selected"
-msgstr ""
+msgstr "[BootlogoChanger] neniuj botologoj por hazardo elektita"
 
 msgid "[BootlogoChanger] previewPicture changed"
-msgstr ""
+msgstr "[BootlogoChanger] antaŭrigardoBildo ŝanĝita"
 
 msgid "[BootlogoChanger] randomization of bootlogos activated"
-msgstr ""
+msgstr "[BootlogoChanger] hazardigo de botologoj aktivigita"
 
 msgid "[BootlogoChanger] randomization of bootlogos deactivated"
-msgstr ""
+msgstr "[BootlogoChanger] hazardigo de botologoj malaktivigita"
 
 msgid "[BootlogoChanger] randomization: bootlogo found"
-msgstr ""
+msgstr "[BootlogoChanger] hazardigo: bootlogo trovita"
 
 msgid "[BootlogoChanger] selected bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] elektitaj botologoj"
 
 msgid "deinstall"
-msgstr ""
+msgstr "malinstali"
 
 msgid "found"
-msgstr ""
+msgstr "trovita"
 
 msgid "install"
-msgstr ""
+msgstr "instali"
 
 msgid "missing"
-msgstr ""
+msgstr "mankas"
 
 msgid "off"
-msgstr ""
+msgstr "for"
 
 msgid "on"
 msgstr ""

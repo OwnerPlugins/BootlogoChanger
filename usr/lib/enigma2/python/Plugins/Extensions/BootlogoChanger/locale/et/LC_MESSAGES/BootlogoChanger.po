@@ -16,187 +16,187 @@ msgstr ""
 # [lululla] <ekekaz@gmail.com>, 2025.
 #
 msgid "Activate the debug-output on console"
-msgstr ""
+msgstr "Aktiveerige konsoolil silumisväljund"
 
 msgid "Bootlogo is excluded from random selection"
-msgstr ""
+msgstr "Bootlogo on juhuslikust valikust välja jäetud"
 
 msgid "Bootlogo is included in random selection"
-msgstr ""
+msgstr "Bootlogo sisaldub juhuslikus valikus"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Tühista"
 
 msgid "Choose random bootlogo at the start of the box"
-msgstr ""
+msgstr "Valige kasti alguses juhuslik alglaadimislogo"
 
 msgid "Copy logofiles failed"
-msgstr ""
+msgstr "Logofailide kopeerimine ebaõnnestus"
 
 msgid "Current bootlogo"
-msgstr ""
+msgstr "Praegune alglogo"
 
 msgid "Debugmode"
 msgstr ""
 
 msgid "Deinstallation of FFmpeg failed"
-msgstr ""
+msgstr "FFmpegi desinstallimine ebaõnnestus"
 
 msgid "Delete current mvi-files before changing bootlogo"
-msgstr ""
+msgstr "Enne alglaadimislogo muutmist kustutage praegused mvi-failid"
 
 msgid "Directory with bootlogo folders"
-msgstr ""
+msgstr "Kataloog alglaadimislogo kaustadega"
 
 msgid "Display duration of the status messages (sec)"
-msgstr ""
+msgstr "Olekuteadete kuvamise kestus (s)"
 
 msgid "Easily switch between different bootlogos"
-msgstr ""
+msgstr "Lihtne vahetada erinevate alglogode vahel"
 
 msgid "Exclude"
-msgstr ""
+msgstr "Välistada"
 
 msgid "Exit plugin without saving"
-msgstr ""
+msgstr "Välju pistikprogrammist salvestamata"
 
 msgid "FFmpeg is needed to generate thumbnails from the mvi files"
-msgstr ""
+msgstr "FFmpeg on vajalik mvi-failidest pisipiltide genereerimiseks"
 
 msgid "FFmpeg ist missing, no preview pictures available - there is an option to install it in the stettings"
-msgstr ""
+msgstr "FFmpeg puudub, eelvaatepilte pole saadaval - on võimalus installida see settings"
 
 msgid "FFmpeg removed successfully"
-msgstr ""
+msgstr "FFmpeg eemaldati edukalt"
 
 msgid "FFmpeg successfully installed"
-msgstr ""
+msgstr "FFmpeg edukalt installitud"
 
 msgid "First delete the mvi-files of the current bootlogo then copy the files of the new one"
-msgstr ""
+msgstr "Kõigepealt kustutage praeguse bootlogo mvi-failid ja kopeerige seejärel uue failid"
 
 msgid "Found bootlogos"
-msgstr ""
+msgstr "Leitud bootlogod"
 
 msgid "Full screen view the selected bootlogo"
-msgstr ""
+msgstr "Kuva valitud alglogo täisekraanil"
 
 msgid "Hide directories without 'mvi'-files"
-msgstr ""
+msgstr "Peida kataloogid ilma mvi-failideta"
 
 msgid "Hide empty directories"
-msgstr ""
+msgstr "Peida tühjad kataloogid"
 
 msgid "How many seconds should status messages be displayed (1-60 sec)"
-msgstr ""
+msgstr "Mitu sekundit tuleks olekuteateid kuvada (1–60 sek)"
 
 msgid "Include"
-msgstr ""
+msgstr "Kaasa"
 
 msgid "Include or exlude logo in random choice"
-msgstr ""
+msgstr "Lisage või välistage logo juhusliku valiku korral"
 
 msgid "Included Screens"
-msgstr ""
+msgstr "Kaasasolevad ekraanid"
 
 msgid "Install/deinstall ffmpeg"
-msgstr ""
+msgstr "Installige/desinstallige ffmpeg"
 
 msgid "Installation of FFmpeg failed"
-msgstr ""
+msgstr "FFmpegi installimine ebaõnnestus"
 
 msgid "No bootlogos found in directory"
-msgstr ""
+msgstr "Kataloogist ei leitud ühtegi alglaadimislogo"
 
 msgid "OK"
 msgstr ""
 
 msgid "Open settings"
-msgstr ""
+msgstr "Ava seaded"
 
 msgid "Preview Logo"
-msgstr ""
+msgstr "Logo eelvaade"
 
 msgid "Preview picture"
-msgstr ""
+msgstr "Pildi eelvaade"
 
 msgid "Random mode"
-msgstr ""
+msgstr "Juhuslik režiim"
 
 msgid "Random selection at startup disabled"
-msgstr ""
+msgstr "Juhuslik valik käivitamisel on keelatud"
 
 msgid "Random selection at startup enabled"
-msgstr ""
+msgstr "Juhuslik valik käivitamisel on lubatud"
 
 msgid "Save Changes and exit plugin"
-msgstr ""
+msgstr "Salvestage muudatused ja väljuge pistikprogrammist"
 
 msgid "Search for folders with boot logos in this directory"
-msgstr ""
+msgstr "Otsige sellest kataloogist alglaadimislogodega kaustu"
 
 msgid "Which bootlogos should be displayed?"
-msgstr ""
+msgstr "Milliseid alglogosid tuleks kuvada?"
 
 msgid "Which logo should be displayed as a preview picture?"
-msgstr ""
+msgstr "Millist logo tuleks kuvada eelvaatepildina?"
 
 msgid "[BootlogoChanger] activated new bootlogo"
-msgstr ""
+msgstr "[BootlogoChanger] aktiveeris uue alglaadimislogo"
 
 msgid "[BootlogoChanger] activating new bootlogo failed"
-msgstr ""
+msgstr "[BootlogoChanger] uue alglaadimislogo aktiveerimine ebaõnnestus"
 
 msgid "[BootlogoChanger] copy failed"
-msgstr ""
+msgstr "[BootlogoChanger] kopeerimine ebaõnnestus"
 
 msgid "[BootlogoChanger] deleting old bootlogo files"
-msgstr ""
+msgstr "[BootlogoChanger] vanade alglaadimislogo failide kustutamine"
 
 msgid "[BootlogoChanger] deleting previewPicture"
-msgstr ""
+msgstr "[BootlogoChanger] eelvaatepildi kustutamine"
 
 msgid "[BootlogoChanger] ffmpeg not found"
-msgstr ""
+msgstr "[BootlogoChanger] ffmpeg ei leitud"
 
 msgid "[BootlogoChanger] found Bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] leidis Bootlogos"
 
 msgid "[BootlogoChanger] found ffmpeg"
-msgstr ""
+msgstr "[BootlogoChanger] leidis ffmpeg"
 
 msgid "[BootlogoChanger] no bootlogos for randomization selected"
-msgstr ""
+msgstr "[BootlogoChanger] randomiseerimiseks pole valitud ühtegi alglaadimislogo"
 
 msgid "[BootlogoChanger] previewPicture changed"
-msgstr ""
+msgstr "[BootlogoChanger] eelvaadePilt muudetud"
 
 msgid "[BootlogoChanger] randomization of bootlogos activated"
-msgstr ""
+msgstr "[BootlogoChanger] alglaadimislogide randomiseerimine on aktiveeritud"
 
 msgid "[BootlogoChanger] randomization of bootlogos deactivated"
-msgstr ""
+msgstr "[BootlogoChanger] alglaadimislogide randomiseerimine deaktiveeritud"
 
 msgid "[BootlogoChanger] randomization: bootlogo found"
-msgstr ""
+msgstr "[BootlogoChanger] randomiseerimine: bootlogo leitud"
 
 msgid "[BootlogoChanger] selected bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] on valitud alglaadimislogod"
 
 msgid "deinstall"
-msgstr ""
+msgstr "desinstallida"
 
 msgid "found"
-msgstr ""
+msgstr "leitud"
 
 msgid "install"
-msgstr ""
+msgstr "installida"
 
 msgid "missing"
-msgstr ""
+msgstr "puudu"
 
 msgid "off"
-msgstr ""
+msgstr "välja"
 
 msgid "on"
-msgstr ""
+msgstr "sisse"

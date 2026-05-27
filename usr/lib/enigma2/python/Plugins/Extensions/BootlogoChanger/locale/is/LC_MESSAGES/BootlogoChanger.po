@@ -15,187 +15,187 @@ msgstr ""
 # [lululla] <ekekaz@gmail.com>, 2025.
 #
 msgid "Activate the debug-output on console"
-msgstr ""
+msgstr "Virkjaðu kembiforritið á stjórnborðinu"
 
 msgid "Bootlogo is excluded from random selection"
-msgstr ""
+msgstr "Bootlogo er útilokað frá handahófsvali"
 
 msgid "Bootlogo is included in random selection"
-msgstr ""
+msgstr "Bootlogo er innifalið í handahófsvali"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Hætta við"
 
 msgid "Choose random bootlogo at the start of the box"
-msgstr ""
+msgstr "Veldu handahófskennt bootlogo í upphafi kassans"
 
 msgid "Copy logofiles failed"
-msgstr ""
+msgstr "Mistókst að afrita lógóskrár"
 
 msgid "Current bootlogo"
-msgstr ""
+msgstr "Núverandi bootlogo"
 
 msgid "Debugmode"
-msgstr ""
+msgstr "Villuleitarstilling"
 
 msgid "Deinstallation of FFmpeg failed"
-msgstr ""
+msgstr "Mistókst að fjarlægja FFmpeg"
 
 msgid "Delete current mvi-files before changing bootlogo"
-msgstr ""
+msgstr "Eyddu núverandi mvi-skrám áður en þú breytir bootlogo"
 
 msgid "Directory with bootlogo folders"
-msgstr ""
+msgstr "Skrá með bootlogo möppum"
 
 msgid "Display duration of the status messages (sec)"
-msgstr ""
+msgstr "Sýna lengd stöðuskilaboða (sek.)"
 
 msgid "Easily switch between different bootlogos"
-msgstr ""
+msgstr "Skiptu auðveldlega á milli mismunandi bootlogo"
 
 msgid "Exclude"
-msgstr ""
+msgstr "Útiloka"
 
 msgid "Exit plugin without saving"
-msgstr ""
+msgstr "Lokaðu viðbótinni án þess að vista"
 
 msgid "FFmpeg is needed to generate thumbnails from the mvi files"
-msgstr ""
+msgstr "FFmpeg er nauðsynlegt til að búa til smámyndir úr mvi skránum"
 
 msgid "FFmpeg ist missing, no preview pictures available - there is an option to install it in the stettings"
-msgstr ""
+msgstr "FFmpeg vantar, engar forskoðunarmyndir í boði - það er möguleiki að setja það upp í stillingunum"
 
 msgid "FFmpeg removed successfully"
-msgstr ""
+msgstr "FFmpeg tókst að fjarlægja"
 
 msgid "FFmpeg successfully installed"
-msgstr ""
+msgstr "FFmpeg sett upp"
 
 msgid "First delete the mvi-files of the current bootlogo then copy the files of the new one"
-msgstr ""
+msgstr "Eyddu fyrst mvi-skrám núverandi ræsimerkisins og afritaðu síðan skrárnar af því nýja"
 
 msgid "Found bootlogos"
-msgstr ""
+msgstr "Fann bootlogo"
 
 msgid "Full screen view the selected bootlogo"
-msgstr ""
+msgstr "Skoðaðu valið ræsimerki á öllum skjánum"
 
 msgid "Hide directories without 'mvi'-files"
-msgstr ""
+msgstr "Fela möppur án 'mvi'-skráa"
 
 msgid "Hide empty directories"
-msgstr ""
+msgstr "Fela tómar möppur"
 
 msgid "How many seconds should status messages be displayed (1-60 sec)"
-msgstr ""
+msgstr "Hversu margar sekúndur ættu stöðuskilaboð að birtast (1-60 sekúndur)"
 
 msgid "Include"
-msgstr ""
+msgstr "Taka með"
 
 msgid "Include or exlude logo in random choice"
-msgstr ""
+msgstr "Hafa með eða útiloka lógó í handahófsvali"
 
 msgid "Included Screens"
-msgstr ""
+msgstr "Skjár fylgja með"
 
 msgid "Install/deinstall ffmpeg"
-msgstr ""
+msgstr "Settu upp/fjarlægðu ffmpeg"
 
 msgid "Installation of FFmpeg failed"
-msgstr ""
+msgstr "Uppsetning á FFmpeg mistókst"
 
 msgid "No bootlogos found in directory"
-msgstr ""
+msgstr "Engin ræsimerki fundust í möppunni"
 
 msgid "OK"
-msgstr ""
+msgstr "Allt í lagi"
 
 msgid "Open settings"
-msgstr ""
+msgstr "Opnaðu stillingar"
 
 msgid "Preview Logo"
-msgstr ""
+msgstr "Forskoðunarmerki"
 
 msgid "Preview picture"
-msgstr ""
+msgstr "Forskoða mynd"
 
 msgid "Random mode"
-msgstr ""
+msgstr "Tilviljunarkennd stilling"
 
 msgid "Random selection at startup disabled"
-msgstr ""
+msgstr "Slembival við ræsingu óvirkt"
 
 msgid "Random selection at startup enabled"
-msgstr ""
+msgstr "Slembival við ræsingu virkt"
 
 msgid "Save Changes and exit plugin"
-msgstr ""
+msgstr "Vista breytingar og lokaðu viðbótinni"
 
 msgid "Search for folders with boot logos in this directory"
-msgstr ""
+msgstr "Leitaðu að möppum með ræsimerkjum í þessari möppu"
 
 msgid "Which bootlogos should be displayed?"
-msgstr ""
+msgstr "Hvaða bootlogo ætti að birta?"
 
 msgid "Which logo should be displayed as a preview picture?"
-msgstr ""
+msgstr "Hvaða lógó ætti að birta sem forskoðunarmynd?"
 
 msgid "[BootlogoChanger] activated new bootlogo"
-msgstr ""
+msgstr "[BootlogoChanger] virkjaði nýtt ræsimerki"
 
 msgid "[BootlogoChanger] activating new bootlogo failed"
-msgstr ""
+msgstr "[BootlogoChanger] mistókst að virkja nýtt ræsimerki"
 
 msgid "[BootlogoChanger] copy failed"
-msgstr ""
+msgstr "[BootlogoChanger] afritun mistókst"
 
 msgid "[BootlogoChanger] deleting old bootlogo files"
-msgstr ""
+msgstr "[BootlogoChanger] eyðir gömlum ræsimerkjaskrám"
 
 msgid "[BootlogoChanger] deleting previewPicture"
-msgstr ""
+msgstr "[BootlogoChanger] eyðir forskoðunarmynd"
 
 msgid "[BootlogoChanger] ffmpeg not found"
-msgstr ""
+msgstr "[BootlogoChanger] ffmpeg fannst ekki"
 
 msgid "[BootlogoChanger] found Bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] fann Bootlogos"
 
 msgid "[BootlogoChanger] found ffmpeg"
-msgstr ""
+msgstr "[BootlogoChanger] fannst ffmpeg"
 
 msgid "[BootlogoChanger] no bootlogos for randomization selected"
-msgstr ""
+msgstr "[BootlogoChanger] engin ræsimerki fyrir slembival valin"
 
 msgid "[BootlogoChanger] previewPicture changed"
-msgstr ""
+msgstr "[BootlogoChanger] forskoðun Mynd breytt"
 
 msgid "[BootlogoChanger] randomization of bootlogos activated"
-msgstr ""
+msgstr "[BootlogoChanger] slembival ræsimerkja virkjuð"
 
 msgid "[BootlogoChanger] randomization of bootlogos deactivated"
-msgstr ""
+msgstr "[BootlogoChanger] slembival ræsimerkja óvirk"
 
 msgid "[BootlogoChanger] randomization: bootlogo found"
-msgstr ""
+msgstr "[BootlogoChanger] slembival: bootlogo fannst"
 
 msgid "[BootlogoChanger] selected bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] valin bootlogo"
 
 msgid "deinstall"
-msgstr ""
+msgstr "fjarlægja"
 
 msgid "found"
-msgstr ""
+msgstr "fannst"
 
 msgid "install"
-msgstr ""
+msgstr "setja upp"
 
 msgid "missing"
-msgstr ""
+msgstr "vantar"
 
 msgid "off"
-msgstr ""
+msgstr "af"
 
 msgid "on"
-msgstr ""
+msgstr "á"

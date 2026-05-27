@@ -16,187 +16,187 @@ msgstr ""
 # [lululla] <ekekaz@gmail.com>, 2025.
 #
 msgid "Activate the debug-output on console"
-msgstr ""
+msgstr "Activați ieșirea de depanare pe consolă"
 
 msgid "Bootlogo is excluded from random selection"
-msgstr ""
+msgstr "Bootlogo este exclus din selecția aleatorie"
 
 msgid "Bootlogo is included in random selection"
-msgstr ""
+msgstr "Bootlogo este inclus în selecția aleatorie"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Anula"
 
 msgid "Choose random bootlogo at the start of the box"
-msgstr ""
+msgstr "Alegeți bootlogo aleatoriu la începutul casetei"
 
 msgid "Copy logofiles failed"
-msgstr ""
+msgstr "Copierea fișierelor de logo nu a reușit"
 
 msgid "Current bootlogo"
-msgstr ""
+msgstr "Bootlogo actual"
 
 msgid "Debugmode"
-msgstr ""
+msgstr "Modul de depanare"
 
 msgid "Deinstallation of FFmpeg failed"
-msgstr ""
+msgstr "Dezinstalarea FFmpeg a eșuat"
 
 msgid "Delete current mvi-files before changing bootlogo"
-msgstr ""
+msgstr "Ștergeți fișierele mvi curente înainte de a schimba logo-ul de boot"
 
 msgid "Directory with bootlogo folders"
-msgstr ""
+msgstr "Director cu foldere bootlogo"
 
 msgid "Display duration of the status messages (sec)"
-msgstr ""
+msgstr "Afișează durata mesajelor de stare (sec)"
 
 msgid "Easily switch between different bootlogos"
-msgstr ""
+msgstr "Comutați cu ușurință între diferite logo-uri de boot"
 
 msgid "Exclude"
 msgstr ""
 
 msgid "Exit plugin without saving"
-msgstr ""
+msgstr "Ieșiți din plugin fără a salva"
 
 msgid "FFmpeg is needed to generate thumbnails from the mvi files"
-msgstr ""
+msgstr "FFmpeg este necesar pentru a genera miniaturi din fișierele mvi"
 
 msgid "FFmpeg ist missing, no preview pictures available - there is an option to install it in the stettings"
-msgstr ""
+msgstr "FFmpeg lipsește, nu există imagini de previzualizare disponibile - există o opțiune pentru a-l instala în setări"
 
 msgid "FFmpeg removed successfully"
-msgstr ""
+msgstr "FFmpeg a fost eliminat cu succes"
 
 msgid "FFmpeg successfully installed"
-msgstr ""
+msgstr "FFmpeg instalat cu succes"
 
 msgid "First delete the mvi-files of the current bootlogo then copy the files of the new one"
-msgstr ""
+msgstr "Mai întâi ștergeți fișierele mvi ale logo-ului de pornire curent, apoi copiați fișierele celui nou"
 
 msgid "Found bootlogos"
-msgstr ""
+msgstr "S-au găsit bootlogo-uri"
 
 msgid "Full screen view the selected bootlogo"
-msgstr ""
+msgstr "Vizualizați pe tot ecranul logo-ul selectat"
 
 msgid "Hide directories without 'mvi'-files"
-msgstr ""
+msgstr "Ascunde directoarele fără fișiere „mvi”."
 
 msgid "Hide empty directories"
-msgstr ""
+msgstr "Ascunde directoarele goale"
 
 msgid "How many seconds should status messages be displayed (1-60 sec)"
-msgstr ""
+msgstr "Câte secunde ar trebui să fie afișate mesajele de stare (1-60 sec)"
 
 msgid "Include"
 msgstr ""
 
 msgid "Include or exlude logo in random choice"
-msgstr ""
+msgstr "Includeți sau excludeți logo-ul la alegere aleatorie"
 
 msgid "Included Screens"
-msgstr ""
+msgstr "Ecrane incluse"
 
 msgid "Install/deinstall ffmpeg"
-msgstr ""
+msgstr "Instalați/dezinstalați ffmpeg"
 
 msgid "Installation of FFmpeg failed"
-msgstr ""
+msgstr "Instalarea FFmpeg a eșuat"
 
 msgid "No bootlogos found in directory"
-msgstr ""
+msgstr "Nu s-au găsit logo-uri de boot în director"
 
 msgid "OK"
-msgstr ""
+msgstr "Bine"
 
 msgid "Open settings"
-msgstr ""
+msgstr "Deschideți setările"
 
 msgid "Preview Logo"
-msgstr ""
+msgstr "Previzualizare sigla"
 
 msgid "Preview picture"
-msgstr ""
+msgstr "Previzualizează imaginea"
 
 msgid "Random mode"
-msgstr ""
+msgstr "Modul aleatoriu"
 
 msgid "Random selection at startup disabled"
-msgstr ""
+msgstr "Selectarea aleatorie la pornire a fost dezactivată"
 
 msgid "Random selection at startup enabled"
-msgstr ""
+msgstr "Selectarea aleatorie la pornire este activată"
 
 msgid "Save Changes and exit plugin"
-msgstr ""
+msgstr "Salvați modificările și ieșiți din plugin"
 
 msgid "Search for folders with boot logos in this directory"
-msgstr ""
+msgstr "Căutați foldere cu sigle de boot în acest director"
 
 msgid "Which bootlogos should be displayed?"
-msgstr ""
+msgstr "Ce logo-uri de boot ar trebui să fie afișate?"
 
 msgid "Which logo should be displayed as a preview picture?"
-msgstr ""
+msgstr "Ce logo ar trebui să fie afișat ca imagine de previzualizare?"
 
 msgid "[BootlogoChanger] activated new bootlogo"
-msgstr ""
+msgstr "[BootlogoChanger] a activat un nou logo de boot"
 
 msgid "[BootlogoChanger] activating new bootlogo failed"
-msgstr ""
+msgstr "[BootlogoChanger] activarea noului bootlogo a eșuat"
 
 msgid "[BootlogoChanger] copy failed"
-msgstr ""
+msgstr "Copierea [BootlogoChanger] a eșuat"
 
 msgid "[BootlogoChanger] deleting old bootlogo files"
-msgstr ""
+msgstr "[BootlogoChanger] șterge fișierele bootlogo vechi"
 
 msgid "[BootlogoChanger] deleting previewPicture"
-msgstr ""
+msgstr "[BootlogoChanger] șterge imaginea previzualizată"
 
 msgid "[BootlogoChanger] ffmpeg not found"
-msgstr ""
+msgstr "[BootlogoChanger] ffmpeg nu a fost găsit"
 
 msgid "[BootlogoChanger] found Bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] a găsit Bootlogos"
 
 msgid "[BootlogoChanger] found ffmpeg"
-msgstr ""
+msgstr "[BootlogoChanger] a găsit ffmpeg"
 
 msgid "[BootlogoChanger] no bootlogos for randomization selected"
-msgstr ""
+msgstr "[BootlogoChanger] nu au fost selectate logo-uri de boot pentru randomizare"
 
 msgid "[BootlogoChanger] previewPicture changed"
-msgstr ""
+msgstr "[BootlogoChanger] previzualizareImaginea schimbată"
 
 msgid "[BootlogoChanger] randomization of bootlogos activated"
-msgstr ""
+msgstr "[BootlogoChanger] randomizarea bootlogo-urilor a fost activată"
 
 msgid "[BootlogoChanger] randomization of bootlogos deactivated"
-msgstr ""
+msgstr "[BootlogoChanger] randomizarea bootlogo-urilor a fost dezactivată"
 
 msgid "[BootlogoChanger] randomization: bootlogo found"
-msgstr ""
+msgstr "[BootlogoChanger] randomizare: bootlogo găsit"
 
 msgid "[BootlogoChanger] selected bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] logo-urile de boot selectate"
 
 msgid "deinstall"
-msgstr ""
+msgstr "dezinstalați"
 
 msgid "found"
-msgstr ""
+msgstr "găsit"
 
 msgid "install"
-msgstr ""
+msgstr "instala"
 
 msgid "missing"
-msgstr ""
+msgstr "lipsă"
 
 msgid "off"
-msgstr ""
+msgstr "oprit"
 
 msgid "on"
-msgstr ""
+msgstr "pe"

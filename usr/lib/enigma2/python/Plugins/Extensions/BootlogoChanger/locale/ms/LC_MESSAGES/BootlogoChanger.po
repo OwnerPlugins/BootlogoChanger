@@ -15,187 +15,187 @@ msgstr ""
 # [lululla] <ekekaz@gmail.com>, 2025.
 #
 msgid "Activate the debug-output on console"
-msgstr ""
+msgstr "Aktifkan keluaran nyahpepijat pada konsol"
 
 msgid "Bootlogo is excluded from random selection"
-msgstr ""
+msgstr "Bootlogo dikecualikan daripada pemilihan rawak"
 
 msgid "Bootlogo is included in random selection"
-msgstr ""
+msgstr "Bootlogo disertakan dalam pemilihan rawak"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Batal"
 
 msgid "Choose random bootlogo at the start of the box"
-msgstr ""
+msgstr "Pilih bootlogo rawak pada permulaan kotak"
 
 msgid "Copy logofiles failed"
-msgstr ""
+msgstr "Gagal menyalin fail logo"
 
 msgid "Current bootlogo"
-msgstr ""
+msgstr "Logo boot semasa"
 
 msgid "Debugmode"
-msgstr ""
+msgstr "Mod nyahpepijat"
 
 msgid "Deinstallation of FFmpeg failed"
-msgstr ""
+msgstr "Penyahpasangan FFmpeg gagal"
 
 msgid "Delete current mvi-files before changing bootlogo"
-msgstr ""
+msgstr "Padam fail mvi semasa sebelum menukar bootlogo"
 
 msgid "Directory with bootlogo folders"
-msgstr ""
+msgstr "Direktori dengan folder bootlogo"
 
 msgid "Display duration of the status messages (sec)"
-msgstr ""
+msgstr "Tempoh paparan mesej status (saat)"
 
 msgid "Easily switch between different bootlogos"
-msgstr ""
+msgstr "Bertukar dengan mudah antara bootlogo yang berbeza"
 
 msgid "Exclude"
-msgstr ""
+msgstr "Kecualikan"
 
 msgid "Exit plugin without saving"
-msgstr ""
+msgstr "Keluar pemalam tanpa menyimpan"
 
 msgid "FFmpeg is needed to generate thumbnails from the mvi files"
-msgstr ""
+msgstr "FFmpeg diperlukan untuk menjana imej kecil daripada fail mvi"
 
 msgid "FFmpeg ist missing, no preview pictures available - there is an option to install it in the stettings"
-msgstr ""
+msgstr "FFmpeg tiada, tiada gambar pratonton tersedia - terdapat pilihan untuk memasangnya dalam stetting"
 
 msgid "FFmpeg removed successfully"
-msgstr ""
+msgstr "FFmpeg berjaya dialih keluar"
 
 msgid "FFmpeg successfully installed"
-msgstr ""
+msgstr "FFmpeg berjaya dipasang"
 
 msgid "First delete the mvi-files of the current bootlogo then copy the files of the new one"
-msgstr ""
+msgstr "Mula-mula padam fail-mvi bootlogo semasa kemudian salin fail yang baharu"
 
 msgid "Found bootlogos"
-msgstr ""
+msgstr "Menemui bootlogos"
 
 msgid "Full screen view the selected bootlogo"
-msgstr ""
+msgstr "Paparan skrin penuh logo boot yang dipilih"
 
 msgid "Hide directories without 'mvi'-files"
-msgstr ""
+msgstr "Sembunyikan direktori tanpa 'mvi'-files"
 
 msgid "Hide empty directories"
-msgstr ""
+msgstr "Sembunyikan direktori kosong"
 
 msgid "How many seconds should status messages be displayed (1-60 sec)"
-msgstr ""
+msgstr "Berapa saat mesej status harus dipaparkan (1-60 saat)"
 
 msgid "Include"
-msgstr ""
+msgstr "Sertakan"
 
 msgid "Include or exlude logo in random choice"
-msgstr ""
+msgstr "Sertakan atau kecualikan logo dalam pilihan rawak"
 
 msgid "Included Screens"
-msgstr ""
+msgstr "Skrin yang disertakan"
 
 msgid "Install/deinstall ffmpeg"
-msgstr ""
+msgstr "Pasang/nyahpasang ffmpeg"
 
 msgid "Installation of FFmpeg failed"
-msgstr ""
+msgstr "Pemasangan FFmpeg gagal"
 
 msgid "No bootlogos found in directory"
-msgstr ""
+msgstr "Tiada bootlogo ditemui dalam direktori"
 
 msgid "OK"
 msgstr ""
 
 msgid "Open settings"
-msgstr ""
+msgstr "Buka tetapan"
 
 msgid "Preview Logo"
-msgstr ""
+msgstr "Logo Pratonton"
 
 msgid "Preview picture"
-msgstr ""
+msgstr "Pratonton gambar"
 
 msgid "Random mode"
-msgstr ""
+msgstr "Mod rawak"
 
 msgid "Random selection at startup disabled"
-msgstr ""
+msgstr "Pemilihan rawak pada permulaan dilumpuhkan"
 
 msgid "Random selection at startup enabled"
-msgstr ""
+msgstr "Pemilihan rawak semasa permulaan didayakan"
 
 msgid "Save Changes and exit plugin"
-msgstr ""
+msgstr "Simpan Perubahan dan keluar pemalam"
 
 msgid "Search for folders with boot logos in this directory"
-msgstr ""
+msgstr "Cari folder dengan logo but dalam direktori ini"
 
 msgid "Which bootlogos should be displayed?"
-msgstr ""
+msgstr "Bootlogo mana yang perlu dipaparkan?"
 
 msgid "Which logo should be displayed as a preview picture?"
-msgstr ""
+msgstr "Logo manakah yang perlu dipaparkan sebagai gambar pratonton?"
 
 msgid "[BootlogoChanger] activated new bootlogo"
-msgstr ""
+msgstr "[BootlogoChanger] mengaktifkan bootlogo baharu"
 
 msgid "[BootlogoChanger] activating new bootlogo failed"
-msgstr ""
+msgstr "[BootlogoChanger] mengaktifkan bootlogo baharu gagal"
 
 msgid "[BootlogoChanger] copy failed"
-msgstr ""
+msgstr "[BootlogoChanger] salinan gagal"
 
 msgid "[BootlogoChanger] deleting old bootlogo files"
-msgstr ""
+msgstr "[BootlogoChanger] memadamkan fail bootlogo lama"
 
 msgid "[BootlogoChanger] deleting previewPicture"
-msgstr ""
+msgstr "[BootlogoChanger] memadamkan pratontonPicture"
 
 msgid "[BootlogoChanger] ffmpeg not found"
-msgstr ""
+msgstr "[BootlogoChanger] ffmpeg tidak ditemui"
 
 msgid "[BootlogoChanger] found Bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] menemui Bootlogos"
 
 msgid "[BootlogoChanger] found ffmpeg"
-msgstr ""
+msgstr "[BootlogoChanger] menemui ffmpeg"
 
 msgid "[BootlogoChanger] no bootlogos for randomization selected"
-msgstr ""
+msgstr "[BootlogoChanger] tiada bootlogo untuk rawak dipilih"
 
 msgid "[BootlogoChanger] previewPicture changed"
-msgstr ""
+msgstr "[BootlogoChanger] pratontonPicture ditukar"
 
 msgid "[BootlogoChanger] randomization of bootlogos activated"
-msgstr ""
+msgstr "[BootlogoChanger] rawak bootlogos diaktifkan"
 
 msgid "[BootlogoChanger] randomization of bootlogos deactivated"
-msgstr ""
+msgstr "[BootlogoChanger] rawak bootlogos dinyahaktifkan"
 
 msgid "[BootlogoChanger] randomization: bootlogo found"
-msgstr ""
+msgstr "[BootlogoChanger] rawak: bootlogo ditemui"
 
 msgid "[BootlogoChanger] selected bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] bootlogo yang dipilih"
 
 msgid "deinstall"
-msgstr ""
+msgstr "nyahpasang"
 
 msgid "found"
-msgstr ""
+msgstr "dijumpai"
 
 msgid "install"
-msgstr ""
+msgstr "pasang"
 
 msgid "missing"
-msgstr ""
+msgstr "hilang"
 
 msgid "off"
-msgstr ""
+msgstr "dimatikan"
 
 msgid "on"
-msgstr ""
+msgstr "pada"

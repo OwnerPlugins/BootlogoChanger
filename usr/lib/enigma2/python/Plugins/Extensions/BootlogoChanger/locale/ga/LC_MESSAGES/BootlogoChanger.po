@@ -16,187 +16,187 @@ msgstr ""
 # [lululla] <ekekaz@gmail.com>, 2025.
 #
 msgid "Activate the debug-output on console"
-msgstr ""
+msgstr "Gníomhachtaigh an t-aschur dífhabhtaithe ar an gconsól"
 
 msgid "Bootlogo is excluded from random selection"
-msgstr ""
+msgstr "Eisiatar Bootlogo ó roghnú randamach"
 
 msgid "Bootlogo is included in random selection"
-msgstr ""
+msgstr "Tá Bootlogo san áireamh sa roghnú randamach"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Cealaigh"
 
 msgid "Choose random bootlogo at the start of the box"
-msgstr ""
+msgstr "Roghnaigh bootlogo randamach ag tús an bhosca"
 
 msgid "Copy logofiles failed"
-msgstr ""
+msgstr "Theip ar chóipeáil comhaid lógó"
 
 msgid "Current bootlogo"
-msgstr ""
+msgstr "Lógó tosaithe reatha"
 
 msgid "Debugmode"
-msgstr ""
+msgstr "Modh dífhabhtaithe"
 
 msgid "Deinstallation of FFmpeg failed"
-msgstr ""
+msgstr "Theip ar dhíshuiteáil FFmpeg"
 
 msgid "Delete current mvi-files before changing bootlogo"
-msgstr ""
+msgstr "Scrios mvi-comhaid reatha sula n-athraítear bootlogo"
 
 msgid "Directory with bootlogo folders"
-msgstr ""
+msgstr "Eolaire le fillteáin bootlogo"
 
 msgid "Display duration of the status messages (sec)"
-msgstr ""
+msgstr "Fad taispeána na dteachtaireachtaí stádais (soicind)"
 
 msgid "Easily switch between different bootlogos"
-msgstr ""
+msgstr "Athraigh go héasca idir bootlogos éagsúla"
 
 msgid "Exclude"
-msgstr ""
+msgstr "Eisigh"
 
 msgid "Exit plugin without saving"
-msgstr ""
+msgstr "Scoir an breiseán gan sábháil"
 
 msgid "FFmpeg is needed to generate thumbnails from the mvi files"
-msgstr ""
+msgstr "Tá FFmpeg ag teastáil chun mionsamhlacha a ghiniúint ó na comhaid mvi"
 
 msgid "FFmpeg ist missing, no preview pictures available - there is an option to install it in the stettings"
-msgstr ""
+msgstr "Níl FFmpeg ist in easnamh, níl aon pictiúir réamhamhairc ar fáil - tá rogha ann é a shuiteáil sna stettings"
 
 msgid "FFmpeg removed successfully"
-msgstr ""
+msgstr "Baineadh FFmpeg go rathúil"
 
 msgid "FFmpeg successfully installed"
-msgstr ""
+msgstr "D'éirigh le suiteáil FFmpeg"
 
 msgid "First delete the mvi-files of the current bootlogo then copy the files of the new one"
-msgstr ""
+msgstr "Ar dtús scrios na comhaid mvi den bootlogo reatha agus ansin cóipeáil comhaid an ceann nua"
 
 msgid "Found bootlogos"
-msgstr ""
+msgstr "Aimsíodh lógónna"
 
 msgid "Full screen view the selected bootlogo"
-msgstr ""
+msgstr "Amharc ar an lógó tosaithe ar scáileán iomlán"
 
 msgid "Hide directories without 'mvi'-files"
-msgstr ""
+msgstr "Folaigh na heolairí gan comhaid 'mvi'"
 
 msgid "Hide empty directories"
-msgstr ""
+msgstr "Folaigh eolaire folamh"
 
 msgid "How many seconds should status messages be displayed (1-60 sec)"
-msgstr ""
+msgstr "Cé mhéad soicind ar cheart teachtaireachtaí stádais a thaispeáint (1-60 soicind)"
 
 msgid "Include"
-msgstr ""
+msgstr "Cuir san áireamh"
 
 msgid "Include or exlude logo in random choice"
-msgstr ""
+msgstr "Cuir an lógó san áireamh i rogha randamach"
 
 msgid "Included Screens"
-msgstr ""
+msgstr "Scáileáin san áireamh"
 
 msgid "Install/deinstall ffmpeg"
-msgstr ""
+msgstr "Suiteáil/díshuiteáil ffmpeg"
 
 msgid "Installation of FFmpeg failed"
-msgstr ""
+msgstr "Theip ar shuiteáil FFmpeg"
 
 msgid "No bootlogos found in directory"
-msgstr ""
+msgstr "Níor aimsíodh lógónna ar bith sa chomhadlann"
 
 msgid "OK"
-msgstr ""
+msgstr "ceart go leor"
 
 msgid "Open settings"
-msgstr ""
+msgstr "Oscail socruithe"
 
 msgid "Preview Logo"
-msgstr ""
+msgstr "Lógó Réamhamhairc"
 
 msgid "Preview picture"
-msgstr ""
+msgstr "Réamhamharc pictiúr"
 
 msgid "Random mode"
-msgstr ""
+msgstr "Modh randamach"
 
 msgid "Random selection at startup disabled"
-msgstr ""
+msgstr "Díchumasaíodh roghnú randamach ag an am tosaithe"
 
 msgid "Random selection at startup enabled"
-msgstr ""
+msgstr "Roghnú randamach ag am tosaithe cumasaithe"
 
 msgid "Save Changes and exit plugin"
-msgstr ""
+msgstr "Sábháil Athruithe agus fág an breiseán"
 
 msgid "Search for folders with boot logos in this directory"
-msgstr ""
+msgstr "Cuardaigh fillteáin le lógónna tosaithe san eolaire seo"
 
 msgid "Which bootlogos should be displayed?"
-msgstr ""
+msgstr "Cé na bootlogos ba chóir a thaispeáint?"
 
 msgid "Which logo should be displayed as a preview picture?"
-msgstr ""
+msgstr "Cén lógó ar cheart a thaispeáint mar phictiúr réamhamhairc?"
 
 msgid "[BootlogoChanger] activated new bootlogo"
-msgstr ""
+msgstr "Chuir [BootlogoChanger] bootlogo nua i ngníomh"
 
 msgid "[BootlogoChanger] activating new bootlogo failed"
-msgstr ""
+msgstr "Theip ar [BootlogoChanger] bootlogo nua a ghníomhachtú"
 
 msgid "[BootlogoChanger] copy failed"
-msgstr ""
+msgstr "Theip ar chóip [BootlogoChanger]"
 
 msgid "[BootlogoChanger] deleting old bootlogo files"
-msgstr ""
+msgstr "[BootlogoChanger] ag scriosadh seanchomhaid bootlogo"
 
 msgid "[BootlogoChanger] deleting previewPicture"
-msgstr ""
+msgstr "[BootlogoChanger] previewPicture á scriosadh"
 
 msgid "[BootlogoChanger] ffmpeg not found"
-msgstr ""
+msgstr "[BootlogoChanger] ffmpeg gan aimsiú"
 
 msgid "[BootlogoChanger] found Bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] aimsíodh Bootlogos"
 
 msgid "[BootlogoChanger] found ffmpeg"
-msgstr ""
+msgstr "Fuair ​​[BootlogoChanger] ffmpeg"
 
 msgid "[BootlogoChanger] no bootlogos for randomization selected"
-msgstr ""
+msgstr "[BootlogoChanger] níl aon bootlogos le haghaidh randamú roghnaithe"
 
 msgid "[BootlogoChanger] previewPicture changed"
-msgstr ""
+msgstr "[BootlogoChanger] previewPicture athraithe"
 
 msgid "[BootlogoChanger] randomization of bootlogos activated"
-msgstr ""
+msgstr "[BootlogoChanger] randamachú bootlogos gníomhachtaithe"
 
 msgid "[BootlogoChanger] randomization of bootlogos deactivated"
-msgstr ""
+msgstr "[BootlogoChanger] randamachú bootlogos díghníomhachtaithe"
 
 msgid "[BootlogoChanger] randomization: bootlogo found"
-msgstr ""
+msgstr "[BootlogoChanger] randamú: bootlogo aimsithe"
 
 msgid "[BootlogoChanger] selected bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] bootlogos roghnaithe"
 
 msgid "deinstall"
-msgstr ""
+msgstr "dhíshuiteáil"
 
 msgid "found"
-msgstr ""
+msgstr "fuarthas"
 
 msgid "install"
-msgstr ""
+msgstr "shuiteáil"
 
 msgid "missing"
-msgstr ""
+msgstr "ar iarraidh"
 
 msgid "off"
-msgstr ""
+msgstr "as"
 
 msgid "on"
-msgstr ""
+msgstr "ar"

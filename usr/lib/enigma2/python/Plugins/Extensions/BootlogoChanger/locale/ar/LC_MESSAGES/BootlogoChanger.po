@@ -15,187 +15,187 @@ msgstr ""
 # [lululla] <ekekaz@gmail.com>, 2025.
 #
 msgid "Activate the debug-output on console"
-msgstr ""
+msgstr "قم بتنشيط إخراج التصحيح على وحدة التحكم"
 
 msgid "Bootlogo is excluded from random selection"
-msgstr ""
+msgstr "يتم استبعاد Bootlogo من الاختيار العشوائي"
 
 msgid "Bootlogo is included in random selection"
-msgstr ""
+msgstr "يتم تضمين Bootlogo في الاختيار العشوائي"
 
 msgid "Cancel"
-msgstr ""
+msgstr "يلغي"
 
 msgid "Choose random bootlogo at the start of the box"
-msgstr ""
+msgstr "اختر شعار تمهيد عشوائيًا في بداية المربع"
 
 msgid "Copy logofiles failed"
-msgstr ""
+msgstr "فشل نسخ ملفات الشعار"
 
 msgid "Current bootlogo"
-msgstr ""
+msgstr "شعار التمهيد الحالي"
 
 msgid "Debugmode"
-msgstr ""
+msgstr "وضع التصحيح"
 
 msgid "Deinstallation of FFmpeg failed"
-msgstr ""
+msgstr "فشل إلغاء تثبيت FFmpeg"
 
 msgid "Delete current mvi-files before changing bootlogo"
-msgstr ""
+msgstr "احذف ملفات mvi الحالية قبل تغيير شعار التشغيل"
 
 msgid "Directory with bootlogo folders"
-msgstr ""
+msgstr "الدليل مع مجلدات شعار التمهيد"
 
 msgid "Display duration of the status messages (sec)"
-msgstr ""
+msgstr "مدة عرض رسائل الحالة (ثانية)"
 
 msgid "Easily switch between different bootlogos"
-msgstr ""
+msgstr "التبديل بسهولة بين شعارات التمهيد المختلفة"
 
 msgid "Exclude"
-msgstr ""
+msgstr "استبعاد"
 
 msgid "Exit plugin without saving"
-msgstr ""
+msgstr "الخروج من البرنامج المساعد دون حفظ"
 
 msgid "FFmpeg is needed to generate thumbnails from the mvi files"
-msgstr ""
+msgstr "هناك حاجة إلى FFmpeg لإنشاء صور مصغرة من ملفات mvi"
 
 msgid "FFmpeg ist missing, no preview pictures available - there is an option to install it in the stettings"
-msgstr ""
+msgstr "FFmpeg مفقود، ولا تتوفر صور للمعاينة - هناك خيار لتثبيته في الإعدادات"
 
 msgid "FFmpeg removed successfully"
-msgstr ""
+msgstr "تمت إزالة FFmpeg بنجاح"
 
 msgid "FFmpeg successfully installed"
-msgstr ""
+msgstr "تم تثبيت FFmpeg بنجاح"
 
 msgid "First delete the mvi-files of the current bootlogo then copy the files of the new one"
-msgstr ""
+msgstr "قم أولاً بحذف ملفات mvi الخاصة بشعار التشغيل الحالي ثم انسخ ملفات الشعار الجديد"
 
 msgid "Found bootlogos"
-msgstr ""
+msgstr "تم العثور على شعارات التمهيد"
 
 msgid "Full screen view the selected bootlogo"
-msgstr ""
+msgstr "عرض ملء الشاشة لشعار التمهيد المحدد"
 
 msgid "Hide directories without 'mvi'-files"
-msgstr ""
+msgstr "إخفاء الدلائل التي لا تحتوي على ملفات "mvi"."
 
 msgid "Hide empty directories"
-msgstr ""
+msgstr "إخفاء الدلائل الفارغة"
 
 msgid "How many seconds should status messages be displayed (1-60 sec)"
-msgstr ""
+msgstr "كم ثانية يجب أن يتم عرض رسائل الحالة (1-60 ثانية)"
 
 msgid "Include"
-msgstr ""
+msgstr "يشمل"
 
 msgid "Include or exlude logo in random choice"
-msgstr ""
+msgstr "تضمين أو استبعاد الشعار في اختيار عشوائي"
 
 msgid "Included Screens"
-msgstr ""
+msgstr "الشاشات المضمنة"
 
 msgid "Install/deinstall ffmpeg"
-msgstr ""
+msgstr "تثبيت/إلغاء تثبيت ffmpeg"
 
 msgid "Installation of FFmpeg failed"
-msgstr ""
+msgstr "فشل تثبيت FFmpeg"
 
 msgid "No bootlogos found in directory"
-msgstr ""
+msgstr "لم يتم العثور على شعارات تمهيد في الدليل"
 
 msgid "OK"
-msgstr ""
+msgstr "نعم"
 
 msgid "Open settings"
-msgstr ""
+msgstr "افتح الإعدادات"
 
 msgid "Preview Logo"
-msgstr ""
+msgstr "معاينة الشعار"
 
 msgid "Preview picture"
-msgstr ""
+msgstr "معاينة الصورة"
 
 msgid "Random mode"
-msgstr ""
+msgstr "الوضع العشوائي"
 
 msgid "Random selection at startup disabled"
-msgstr ""
+msgstr "تم تعطيل الاختيار العشوائي عند بدء التشغيل"
 
 msgid "Random selection at startup enabled"
-msgstr ""
+msgstr "تم تمكين الاختيار العشوائي عند بدء التشغيل"
 
 msgid "Save Changes and exit plugin"
-msgstr ""
+msgstr "حفظ التغييرات والخروج من البرنامج المساعد"
 
 msgid "Search for folders with boot logos in this directory"
-msgstr ""
+msgstr "ابحث عن المجلدات التي تحتوي على شعارات التمهيد في هذا الدليل"
 
 msgid "Which bootlogos should be displayed?"
-msgstr ""
+msgstr "ما هي شعارات التمهيد التي يجب عرضها؟"
 
 msgid "Which logo should be displayed as a preview picture?"
-msgstr ""
+msgstr "ما الشعار الذي يجب عرضه كصورة معاينة؟"
 
 msgid "[BootlogoChanger] activated new bootlogo"
-msgstr ""
+msgstr "قام [BootlogoChanger] بتنشيط شعار التشغيل الجديد"
 
 msgid "[BootlogoChanger] activating new bootlogo failed"
-msgstr ""
+msgstr "[BootlogoChanger] فشل تفعيل شعار التشغيل الجديد"
 
 msgid "[BootlogoChanger] copy failed"
-msgstr ""
+msgstr "فشلت نسخة [BootlogoChanger]."
 
 msgid "[BootlogoChanger] deleting old bootlogo files"
-msgstr ""
+msgstr "[BootlogoChanger] حذف ملفات شعار التشغيل القديمة"
 
 msgid "[BootlogoChanger] deleting previewPicture"
-msgstr ""
+msgstr "[BootlogoChanger] حذف صورة المعاينة"
 
 msgid "[BootlogoChanger] ffmpeg not found"
-msgstr ""
+msgstr "[BootlogoChanger] لم يتم العثور على ffmpeg"
 
 msgid "[BootlogoChanger] found Bootlogos"
-msgstr ""
+msgstr "عثر [BootlogoChanger] على Bootlogos"
 
 msgid "[BootlogoChanger] found ffmpeg"
-msgstr ""
+msgstr "تم العثور على [BootlogoChanger] ffmpeg"
 
 msgid "[BootlogoChanger] no bootlogos for randomization selected"
-msgstr ""
+msgstr "[BootlogoChanger] لم يتم تحديد أي شعارات تمهيد للتوزيع العشوائي"
 
 msgid "[BootlogoChanger] previewPicture changed"
-msgstr ""
+msgstr "[BootlogoChanger] تم تغيير صورة المعاينة"
 
 msgid "[BootlogoChanger] randomization of bootlogos activated"
-msgstr ""
+msgstr "[BootlogoChanger] تم تفعيل التوزيع العشوائي لشعارات التمهيد"
 
 msgid "[BootlogoChanger] randomization of bootlogos deactivated"
-msgstr ""
+msgstr "[BootlogoChanger] تم إلغاء تنشيط التوزيع العشوائي لشعارات التمهيد"
 
 msgid "[BootlogoChanger] randomization: bootlogo found"
-msgstr ""
+msgstr "[BootlogoChanger] التوزيع العشوائي: تم العثور على شعار التمهيد"
 
 msgid "[BootlogoChanger] selected bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] شعارات التمهيد المحددة"
 
 msgid "deinstall"
-msgstr ""
+msgstr "إلغاء التثبيت"
 
 msgid "found"
-msgstr ""
+msgstr "وجد"
 
 msgid "install"
-msgstr ""
+msgstr "ثَبَّتَ"
 
 msgid "missing"
-msgstr ""
+msgstr "مفتقد"
 
 msgid "off"
-msgstr ""
+msgstr "عن"
 
 msgid "on"
-msgstr ""
+msgstr "على"

@@ -16,187 +16,187 @@ msgstr ""
 # [lululla] <ekekaz@gmail.com>, 2025.
 #
 msgid "Activate the debug-output on console"
-msgstr ""
+msgstr "Kích hoạt đầu ra gỡ lỗi trên bảng điều khiển"
 
 msgid "Bootlogo is excluded from random selection"
-msgstr ""
+msgstr "Bootlogo bị loại khỏi lựa chọn ngẫu nhiên"
 
 msgid "Bootlogo is included in random selection"
-msgstr ""
+msgstr "Bootlogo được đưa vào lựa chọn ngẫu nhiên"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Hủy bỏ"
 
 msgid "Choose random bootlogo at the start of the box"
-msgstr ""
+msgstr "Chọn bootlogo ngẫu nhiên ở đầu hộp"
 
 msgid "Copy logofiles failed"
-msgstr ""
+msgstr "Sao chép tập tin logo không thành công"
 
 msgid "Current bootlogo"
-msgstr ""
+msgstr "Logo khởi động hiện tại"
 
 msgid "Debugmode"
-msgstr ""
+msgstr "Chế độ gỡ lỗi"
 
 msgid "Deinstallation of FFmpeg failed"
-msgstr ""
+msgstr "Gỡ cài đặt FFmpeg không thành công"
 
 msgid "Delete current mvi-files before changing bootlogo"
-msgstr ""
+msgstr "Xóa các tập tin mvi hiện tại trước khi thay đổi bootlogo"
 
 msgid "Directory with bootlogo folders"
-msgstr ""
+msgstr "Thư mục chứa các thư mục bootlogo"
 
 msgid "Display duration of the status messages (sec)"
-msgstr ""
+msgstr "Hiển thị thời lượng của thông báo trạng thái (giây)"
 
 msgid "Easily switch between different bootlogos"
-msgstr ""
+msgstr "Dễ dàng chuyển đổi giữa các bootlog khác nhau"
 
 msgid "Exclude"
-msgstr ""
+msgstr "Loại trừ"
 
 msgid "Exit plugin without saving"
-msgstr ""
+msgstr "Thoát plugin mà không lưu"
 
 msgid "FFmpeg is needed to generate thumbnails from the mvi files"
-msgstr ""
+msgstr "Cần có FFmpeg để tạo hình thu nhỏ từ các tệp mvi"
 
 msgid "FFmpeg ist missing, no preview pictures available - there is an option to install it in the stettings"
-msgstr ""
+msgstr "Thiếu FFmpeg, không có hình ảnh xem trước - có tùy chọn cài đặt nó trong phần cài đặt"
 
 msgid "FFmpeg removed successfully"
-msgstr ""
+msgstr "Đã xóa FFmpeg thành công"
 
 msgid "FFmpeg successfully installed"
-msgstr ""
+msgstr "FFmpeg đã được cài đặt thành công"
 
 msgid "First delete the mvi-files of the current bootlogo then copy the files of the new one"
-msgstr ""
+msgstr "Đầu tiên hãy xóa các tập tin mvi của bootlogo hiện tại sau đó sao chép các tập tin của cái mới"
 
 msgid "Found bootlogos"
-msgstr ""
+msgstr "Đã tìm thấy bootlog"
 
 msgid "Full screen view the selected bootlogo"
-msgstr ""
+msgstr "Toàn màn hình xem bootlogo đã chọn"
 
 msgid "Hide directories without 'mvi'-files"
-msgstr ""
+msgstr "Ẩn thư mục không có tệp 'mvi'"
 
 msgid "Hide empty directories"
-msgstr ""
+msgstr "Ẩn các thư mục trống"
 
 msgid "How many seconds should status messages be displayed (1-60 sec)"
-msgstr ""
+msgstr "Thông báo trạng thái sẽ được hiển thị trong bao nhiêu giây (1-60 giây)"
 
 msgid "Include"
-msgstr ""
+msgstr "Bao gồm"
 
 msgid "Include or exlude logo in random choice"
-msgstr ""
+msgstr "Bao gồm hoặc loại trừ logo trong lựa chọn ngẫu nhiên"
 
 msgid "Included Screens"
-msgstr ""
+msgstr "Màn hình đi kèm"
 
 msgid "Install/deinstall ffmpeg"
-msgstr ""
+msgstr "Cài đặt/gỡ cài đặt ffmpeg"
 
 msgid "Installation of FFmpeg failed"
-msgstr ""
+msgstr "Cài đặt FFmpeg không thành công"
 
 msgid "No bootlogos found in directory"
-msgstr ""
+msgstr "Không tìm thấy bootlogos trong thư mục"
 
 msgid "OK"
-msgstr ""
+msgstr "ĐƯỢC RỒI"
 
 msgid "Open settings"
-msgstr ""
+msgstr "Mở cài đặt"
 
 msgid "Preview Logo"
-msgstr ""
+msgstr "Xem trước biểu trưng"
 
 msgid "Preview picture"
-msgstr ""
+msgstr "Xem trước hình ảnh"
 
 msgid "Random mode"
-msgstr ""
+msgstr "Chế độ ngẫu nhiên"
 
 msgid "Random selection at startup disabled"
-msgstr ""
+msgstr "Lựa chọn ngẫu nhiên khi khởi động bị vô hiệu hóa"
 
 msgid "Random selection at startup enabled"
-msgstr ""
+msgstr "Đã bật lựa chọn ngẫu nhiên khi khởi động"
 
 msgid "Save Changes and exit plugin"
-msgstr ""
+msgstr "Lưu thay đổi và thoát plugin"
 
 msgid "Search for folders with boot logos in this directory"
-msgstr ""
+msgstr "Tìm kiếm các thư mục có logo khởi động trong thư mục này"
 
 msgid "Which bootlogos should be displayed?"
-msgstr ""
+msgstr "Những bootlog nào sẽ được hiển thị?"
 
 msgid "Which logo should be displayed as a preview picture?"
-msgstr ""
+msgstr "Logo nào sẽ được hiển thị dưới dạng hình ảnh xem trước?"
 
 msgid "[BootlogoChanger] activated new bootlogo"
-msgstr ""
+msgstr "[BootlogoChanger] kích hoạt bootlogo mới"
 
 msgid "[BootlogoChanger] activating new bootlogo failed"
-msgstr ""
+msgstr "[BootlogoChanger] kích hoạt bootlogo mới không thành công"
 
 msgid "[BootlogoChanger] copy failed"
-msgstr ""
+msgstr "Sao chép [BootlogoChanger] không thành công"
 
 msgid "[BootlogoChanger] deleting old bootlogo files"
-msgstr ""
+msgstr "[BootlogoChanger] xóa file bootlogo cũ"
 
 msgid "[BootlogoChanger] deleting previewPicture"
-msgstr ""
+msgstr "[BootlogoChanger] xóa ảnh xem trước"
 
 msgid "[BootlogoChanger] ffmpeg not found"
-msgstr ""
+msgstr "[BootlogoChanger] không tìm thấy ffmpeg"
 
 msgid "[BootlogoChanger] found Bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] đã tìm thấy Bootlogos"
 
 msgid "[BootlogoChanger] found ffmpeg"
-msgstr ""
+msgstr "[BootlogoChanger] đã tìm thấy ffmpeg"
 
 msgid "[BootlogoChanger] no bootlogos for randomization selected"
-msgstr ""
+msgstr "[BootlogoChanger] không có bootlogo nào được chọn ngẫu nhiên"
 
 msgid "[BootlogoChanger] previewPicture changed"
-msgstr ""
+msgstr "[BootlogoChanger] xem trướcHình ảnh đã thay đổi"
 
 msgid "[BootlogoChanger] randomization of bootlogos activated"
-msgstr ""
+msgstr "[BootlogoChanger] kích hoạt ngẫu nhiên các bootlogo"
 
 msgid "[BootlogoChanger] randomization of bootlogos deactivated"
-msgstr ""
+msgstr "[BootlogoChanger] tính năng ngẫu nhiên của bootlog bị vô hiệu hóa"
 
 msgid "[BootlogoChanger] randomization: bootlogo found"
-msgstr ""
+msgstr "[BootlogoChanger] ngẫu nhiên: tìm thấy bootlogo"
 
 msgid "[BootlogoChanger] selected bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] các bootlog đã chọn"
 
 msgid "deinstall"
-msgstr ""
+msgstr "gỡ cài đặt"
 
 msgid "found"
-msgstr ""
+msgstr "thành lập"
 
 msgid "install"
-msgstr ""
+msgstr "cài đặt"
 
 msgid "missing"
-msgstr ""
+msgstr "mất tích"
 
 msgid "off"
-msgstr ""
+msgstr "tắt"
 
 msgid "on"
-msgstr ""
+msgstr "TRÊN"

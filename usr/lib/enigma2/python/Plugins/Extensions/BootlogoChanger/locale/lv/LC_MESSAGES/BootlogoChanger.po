@@ -16,187 +16,187 @@ msgstr ""
 # [lululla] <ekekaz@gmail.com>, 2025.
 #
 msgid "Activate the debug-output on console"
-msgstr ""
+msgstr "Konsolē aktivizējiet atkļūdošanas izvadi"
 
 msgid "Bootlogo is excluded from random selection"
-msgstr ""
+msgstr "Bootlogo tiek izslēgts no nejaušās atlases"
 
 msgid "Bootlogo is included in random selection"
-msgstr ""
+msgstr "Bootlogo ir iekļauts nejaušā atlasē"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Atcelt"
 
 msgid "Choose random bootlogo at the start of the box"
-msgstr ""
+msgstr "Lodziņa sākumā izvēlieties nejaušu sāknēšanas logotipu"
 
 msgid "Copy logofiles failed"
-msgstr ""
+msgstr "Logofailu kopēšana neizdevās"
 
 msgid "Current bootlogo"
-msgstr ""
+msgstr "Pašreizējais sāknēšanas logotips"
 
 msgid "Debugmode"
-msgstr ""
+msgstr "Atkļūdošanas režīms"
 
 msgid "Deinstallation of FFmpeg failed"
-msgstr ""
+msgstr "FFmpeg atinstalēšana neizdevās"
 
 msgid "Delete current mvi-files before changing bootlogo"
-msgstr ""
+msgstr "Pirms sāknēšanas logotipa maiņas izdzēsiet pašreizējos mvi failus"
 
 msgid "Directory with bootlogo folders"
-msgstr ""
+msgstr "Direktorija ar bootlogo mapēm"
 
 msgid "Display duration of the status messages (sec)"
-msgstr ""
+msgstr "Statusa ziņojumu rādīšanas ilgums (s)"
 
 msgid "Easily switch between different bootlogos"
-msgstr ""
+msgstr "Viegli pārslēdzieties starp dažādiem sāknēšanas logotipiem"
 
 msgid "Exclude"
-msgstr ""
+msgstr "Izslēgt"
 
 msgid "Exit plugin without saving"
-msgstr ""
+msgstr "Iziet no spraudņa, nesaglabājot"
 
 msgid "FFmpeg is needed to generate thumbnails from the mvi files"
-msgstr ""
+msgstr "FFmpeg ir nepieciešams, lai ģenerētu sīktēlus no mvi failiem"
 
 msgid "FFmpeg ist missing, no preview pictures available - there is an option to install it in the stettings"
-msgstr ""
+msgstr "Trūkst FFmpeg, priekšskatījuma attēli nav pieejami - ir iespēja to instalēt iestatījumos"
 
 msgid "FFmpeg removed successfully"
-msgstr ""
+msgstr "FFmpeg veiksmīgi noņemts"
 
 msgid "FFmpeg successfully installed"
-msgstr ""
+msgstr "FFmpeg veiksmīgi instalēts"
 
 msgid "First delete the mvi-files of the current bootlogo then copy the files of the new one"
-msgstr ""
+msgstr "Vispirms izdzēsiet pašreizējā sāknēšanas logotipa mvi failus, pēc tam kopējiet jaunā sāknēšanas logotipa failus"
 
 msgid "Found bootlogos"
-msgstr ""
+msgstr "Atrasti bootlogos"
 
 msgid "Full screen view the selected bootlogo"
-msgstr ""
+msgstr "Pilnekrāna skats atlasītajā sāknēšanas logotipā"
 
 msgid "Hide directories without 'mvi'-files"
-msgstr ""
+msgstr "Slēpt direktorijus bez 'mvi' failiem"
 
 msgid "Hide empty directories"
-msgstr ""
+msgstr "Slēpt tukšus direktorijus"
 
 msgid "How many seconds should status messages be displayed (1-60 sec)"
-msgstr ""
+msgstr "Cik sekundes ir jāparāda statusa ziņojumi (1–60 s)"
 
 msgid "Include"
-msgstr ""
+msgstr "Iekļaut"
 
 msgid "Include or exlude logo in random choice"
-msgstr ""
+msgstr "Iekļaut vai izslēgt logotipu nejaušā izvēlē"
 
 msgid "Included Screens"
-msgstr ""
+msgstr "Iekļautie ekrāni"
 
 msgid "Install/deinstall ffmpeg"
-msgstr ""
+msgstr "Instalējiet/atinstalējiet ffmpeg"
 
 msgid "Installation of FFmpeg failed"
-msgstr ""
+msgstr "FFmpeg instalēšana neizdevās"
 
 msgid "No bootlogos found in directory"
-msgstr ""
+msgstr "Direktorijā nav atrasts neviens sāknēšanas logotips"
 
 msgid "OK"
-msgstr ""
+msgstr "Labi"
 
 msgid "Open settings"
-msgstr ""
+msgstr "Atveriet iestatījumus"
 
 msgid "Preview Logo"
-msgstr ""
+msgstr "Priekšskatījuma logotips"
 
 msgid "Preview picture"
-msgstr ""
+msgstr "Priekšskatījuma attēls"
 
 msgid "Random mode"
-msgstr ""
+msgstr "Izlases režīms"
 
 msgid "Random selection at startup disabled"
-msgstr ""
+msgstr "Nejauša atlase startēšanas laikā ir atspējota"
 
 msgid "Random selection at startup enabled"
-msgstr ""
+msgstr "Ir iespējota nejauša izvēle startēšanas laikā"
 
 msgid "Save Changes and exit plugin"
-msgstr ""
+msgstr "Saglabājiet izmaiņas un izejiet no spraudņa"
 
 msgid "Search for folders with boot logos in this directory"
-msgstr ""
+msgstr "Šajā direktorijā meklējiet mapes ar sāknēšanas logotipiem"
 
 msgid "Which bootlogos should be displayed?"
-msgstr ""
+msgstr "Kādi sāknēšanas logotipi ir jāparāda?"
 
 msgid "Which logo should be displayed as a preview picture?"
-msgstr ""
+msgstr "Kurš logotips ir jāparāda kā priekšskatījuma attēls?"
 
 msgid "[BootlogoChanger] activated new bootlogo"
-msgstr ""
+msgstr "[BootlogoChanger] aktivizēja jaunu sāknēšanas logotipu"
 
 msgid "[BootlogoChanger] activating new bootlogo failed"
-msgstr ""
+msgstr "[BootlogoChanger] neizdevās aktivizēt jauno sāknēšanas logotipu"
 
 msgid "[BootlogoChanger] copy failed"
-msgstr ""
+msgstr "[BootlogoChanger] kopēšana neizdevās"
 
 msgid "[BootlogoChanger] deleting old bootlogo files"
-msgstr ""
+msgstr "[BootlogoChanger] dzēš vecos bootlogo failus"
 
 msgid "[BootlogoChanger] deleting previewPicture"
-msgstr ""
+msgstr "[BootlogoChanger] dzēš priekšskatījuma attēlu"
 
 msgid "[BootlogoChanger] ffmpeg not found"
-msgstr ""
+msgstr "[BootlogoChanger] ffmpeg nav atrasts"
 
 msgid "[BootlogoChanger] found Bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] atrada Bootlogos"
 
 msgid "[BootlogoChanger] found ffmpeg"
-msgstr ""
+msgstr "[BootlogoChanger] atrada ffmpeg"
 
 msgid "[BootlogoChanger] no bootlogos for randomization selected"
-msgstr ""
+msgstr "[BootlogoChanger] nejaušināšanai nav atlasīti sāknēšanas logotipi"
 
 msgid "[BootlogoChanger] previewPicture changed"
-msgstr ""
+msgstr "[BootlogoChanger] priekšskatījums Attēls mainīts"
 
 msgid "[BootlogoChanger] randomization of bootlogos activated"
-msgstr ""
+msgstr "[BootlogoChanger] ir aktivizēta sāknēšanas logotipu nejaušināšana"
 
 msgid "[BootlogoChanger] randomization of bootlogos deactivated"
-msgstr ""
+msgstr "[BootlogoChanger] sāknēšanas logotipu randomizācija ir deaktivizēta"
 
 msgid "[BootlogoChanger] randomization: bootlogo found"
-msgstr ""
+msgstr "[BootlogoChanger] randomizācija: atrasts bootlogo"
 
 msgid "[BootlogoChanger] selected bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] atlasītie sāknēšanas logotipi"
 
 msgid "deinstall"
-msgstr ""
+msgstr "atinstalēt"
 
 msgid "found"
-msgstr ""
+msgstr "atrasts"
 
 msgid "install"
-msgstr ""
+msgstr "instalēt"
 
 msgid "missing"
-msgstr ""
+msgstr "trūkst"
 
 msgid "off"
-msgstr ""
+msgstr "izslēgts"
 
 msgid "on"
-msgstr ""
+msgstr "ieslēgts"

@@ -15,187 +15,187 @@ msgstr ""
 # [lululla] <ekekaz@gmail.com>, 2025.
 #
 msgid "Activate the debug-output on console"
-msgstr ""
+msgstr "په کنسول کې د ډیبګ محصول فعال کړئ"
 
 msgid "Bootlogo is excluded from random selection"
-msgstr ""
+msgstr "بوټلوګو د تصادفي انتخاب څخه ایستل شوی"
 
 msgid "Bootlogo is included in random selection"
-msgstr ""
+msgstr "بوټلوګو په تصادفي انتخاب کې شامل دی"
 
 msgid "Cancel"
-msgstr ""
+msgstr "لغوه کړئ"
 
 msgid "Choose random bootlogo at the start of the box"
-msgstr ""
+msgstr "د بکس په پیل کې تصادفي بوټلوګو غوره کړئ"
 
 msgid "Copy logofiles failed"
-msgstr ""
+msgstr "د لوګو فایلونه کاپي کول ناکام شول"
 
 msgid "Current bootlogo"
-msgstr ""
+msgstr "اوسنی بوټلوګو"
 
 msgid "Debugmode"
-msgstr ""
+msgstr "د ډیبګ حالت"
 
 msgid "Deinstallation of FFmpeg failed"
-msgstr ""
+msgstr "د FFmpeg له مینځه وړل ناکام شول"
 
 msgid "Delete current mvi-files before changing bootlogo"
-msgstr ""
+msgstr "د بوټلوګو بدلولو دمخه اوسني mvi فایلونه حذف کړئ"
 
 msgid "Directory with bootlogo folders"
-msgstr ""
+msgstr "د بوټلوګو فولډرو سره لارښود"
 
 msgid "Display duration of the status messages (sec)"
-msgstr ""
+msgstr "د وضعیت پیغامونو موده ښکاره کړئ (ثانوي)"
 
 msgid "Easily switch between different bootlogos"
-msgstr ""
+msgstr "په اسانۍ سره د مختلف بوټلوګو ترمینځ تیر کړئ"
 
 msgid "Exclude"
-msgstr ""
+msgstr "خارج کړئ"
 
 msgid "Exit plugin without saving"
-msgstr ""
+msgstr "د خوندي کولو پرته پلگ ان پریږدئ"
 
 msgid "FFmpeg is needed to generate thumbnails from the mvi files"
-msgstr ""
+msgstr "FFmpeg د mvi فایلونو څخه تمبیلونو رامینځته کولو لپاره اړین دی"
 
 msgid "FFmpeg ist missing, no preview pictures available - there is an option to install it in the stettings"
-msgstr ""
+msgstr "FFmpeg ورک شوی، د مخکتنې عکسونه شتون نلري - په سټیټینګ کې د نصبولو اختیار شتون لري"
 
 msgid "FFmpeg removed successfully"
-msgstr ""
+msgstr "FFmpeg په بریالیتوب سره لیرې شو"
 
 msgid "FFmpeg successfully installed"
-msgstr ""
+msgstr "FFmpeg په بریالیتوب سره نصب شو"
 
 msgid "First delete the mvi-files of the current bootlogo then copy the files of the new one"
-msgstr ""
+msgstr "لومړی د اوسني بوټلوګو mvi فایلونه حذف کړئ بیا د نوي فایل فایلونه کاپي کړئ"
 
 msgid "Found bootlogos"
-msgstr ""
+msgstr "بوټلوګو وموندل"
 
 msgid "Full screen view the selected bootlogo"
-msgstr ""
+msgstr "په بشپړ سکرین کې ټاکل شوي بوټلوګو وګورئ"
 
 msgid "Hide directories without 'mvi'-files"
-msgstr ""
+msgstr "د 'mvi' فایلونو پرته لارښودونه پټ کړئ"
 
 msgid "Hide empty directories"
-msgstr ""
+msgstr "خالي لارښودونه پټ کړئ"
 
 msgid "How many seconds should status messages be displayed (1-60 sec)"
-msgstr ""
+msgstr "څومره ثانیې باید د وضعیت پیغامونه ښکاره شي (1-60 ثانیې)"
 
 msgid "Include"
-msgstr ""
+msgstr "شامل دي"
 
 msgid "Include or exlude logo in random choice"
-msgstr ""
+msgstr "په تصادفي انتخاب کې لوګو شامل کړئ یا خارج کړئ"
 
 msgid "Included Screens"
-msgstr ""
+msgstr "شامل سکرینونه"
 
 msgid "Install/deinstall ffmpeg"
-msgstr ""
+msgstr "ffmpeg نصب او غیر نصب کړئ"
 
 msgid "Installation of FFmpeg failed"
-msgstr ""
+msgstr "د FFmpeg نصب کول ناکام شول"
 
 msgid "No bootlogos found in directory"
-msgstr ""
+msgstr "په لارښود کې هیڅ بوټلوګو ونه موندل شو"
 
 msgid "OK"
-msgstr ""
+msgstr "سمه ده"
 
 msgid "Open settings"
-msgstr ""
+msgstr "ترتیبات خلاص کړئ"
 
 msgid "Preview Logo"
-msgstr ""
+msgstr "د مخکتنې لوګو"
 
 msgid "Preview picture"
-msgstr ""
+msgstr "مخکتنه انځور"
 
 msgid "Random mode"
-msgstr ""
+msgstr "تصادفي حالت"
 
 msgid "Random selection at startup disabled"
-msgstr ""
+msgstr "په پیل کې تصادفي انتخاب غیر فعال شوی"
 
 msgid "Random selection at startup enabled"
-msgstr ""
+msgstr "په پیل کې تصادفي انتخاب فعال شوی"
 
 msgid "Save Changes and exit plugin"
-msgstr ""
+msgstr "بدلونونه خوندي کړئ او پلگ ان پریږدئ"
 
 msgid "Search for folders with boot logos in this directory"
-msgstr ""
+msgstr "په دې لارښود کې د بوټ لوګو سره د فولډرو لټون وکړئ"
 
 msgid "Which bootlogos should be displayed?"
-msgstr ""
+msgstr "کوم بوټلوګو باید ښکاره شي؟"
 
 msgid "Which logo should be displayed as a preview picture?"
-msgstr ""
+msgstr "کوم لوګو باید د مخکتنې انځور په توګه ښکاره شي؟"
 
 msgid "[BootlogoChanger] activated new bootlogo"
-msgstr ""
+msgstr "[BotlogoChanger] نوی بوټلوګو فعال کړ"
 
 msgid "[BootlogoChanger] activating new bootlogo failed"
-msgstr ""
+msgstr "[BotlogoChanger] د نوي بوټلوګو فعالول ناکام شول"
 
 msgid "[BootlogoChanger] copy failed"
-msgstr ""
+msgstr "[BotlogoChanger] کاپي ناکامه شوه"
 
 msgid "[BootlogoChanger] deleting old bootlogo files"
-msgstr ""
+msgstr "[BotlogoChanger] د بوټلوګو زاړه فایلونه حذف کول"
 
 msgid "[BootlogoChanger] deleting previewPicture"
-msgstr ""
+msgstr "[BotlogoChanger] د مخکتنې انځور ړنګول"
 
 msgid "[BootlogoChanger] ffmpeg not found"
-msgstr ""
+msgstr "[BotlogoChanger] ffmpeg ونه موندل شو"
 
 msgid "[BootlogoChanger] found Bootlogos"
-msgstr ""
+msgstr "[BotlogoChanger] Bootlogos وموندل"
 
 msgid "[BootlogoChanger] found ffmpeg"
-msgstr ""
+msgstr "[BotlogoChanger] ffmpeg وموندل"
 
 msgid "[BootlogoChanger] no bootlogos for randomization selected"
-msgstr ""
+msgstr "[BotlogoChanger] د تصادفي کولو لپاره هیڅ بوټلوګو نه ټاکل شوي"
 
 msgid "[BootlogoChanger] previewPicture changed"
-msgstr ""
+msgstr "[BotlogoChanger] مخکتنه انځور بدل شو"
 
 msgid "[BootlogoChanger] randomization of bootlogos activated"
-msgstr ""
+msgstr "[BotlogoChanger] د بوټلوګو تصادفي فعالول"
 
 msgid "[BootlogoChanger] randomization of bootlogos deactivated"
-msgstr ""
+msgstr "[BotlogoChanger] د بوټلوګو تصادفي کول غیر فعال شوي"
 
 msgid "[BootlogoChanger] randomization: bootlogo found"
-msgstr ""
+msgstr "[BotlogoChanger] تصادفي کول: بوټلوګو وموندل شو"
 
 msgid "[BootlogoChanger] selected bootlogos"
-msgstr ""
+msgstr "[BotlogoChanger] ټاکل شوي بوټلوګوس"
 
 msgid "deinstall"
-msgstr ""
+msgstr "غیر نصب کول"
 
 msgid "found"
-msgstr ""
+msgstr "موندل"
 
 msgid "install"
-msgstr ""
+msgstr "نصب"
 
 msgid "missing"
-msgstr ""
+msgstr "ورک"
 
 msgid "off"
-msgstr ""
+msgstr "بند"
 
 msgid "on"
-msgstr ""
+msgstr "پر"

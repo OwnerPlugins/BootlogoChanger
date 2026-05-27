@@ -16,187 +16,187 @@ msgstr ""
 # [lululla] <ekekaz@gmail.com>, 2025.
 #
 msgid "Activate the debug-output on console"
-msgstr ""
+msgstr "Aktivoi debug-tulostus konsolissa"
 
 msgid "Bootlogo is excluded from random selection"
-msgstr ""
+msgstr "Bootlogo on suljettu satunnaisvalinnan ulkopuolelle"
 
 msgid "Bootlogo is included in random selection"
-msgstr ""
+msgstr "Bootlogo sisältyy satunnaiseen valintaan"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Peruuttaa"
 
 msgid "Choose random bootlogo at the start of the box"
-msgstr ""
+msgstr "Valitse satunnainen käynnistyslogo laatikon alusta"
 
 msgid "Copy logofiles failed"
-msgstr ""
+msgstr "Logotiedostojen kopiointi epäonnistui"
 
 msgid "Current bootlogo"
-msgstr ""
+msgstr "Nykyinen käynnistyslogo"
 
 msgid "Debugmode"
-msgstr ""
+msgstr "Virheenkorjaustila"
 
 msgid "Deinstallation of FFmpeg failed"
-msgstr ""
+msgstr "FFmpeg-asennuksen poistaminen epäonnistui"
 
 msgid "Delete current mvi-files before changing bootlogo"
-msgstr ""
+msgstr "Poista nykyiset mvi-tiedostot ennen käynnistyslogon vaihtamista"
 
 msgid "Directory with bootlogo folders"
-msgstr ""
+msgstr "Hakemisto bootlogo-kansioilla"
 
 msgid "Display duration of the status messages (sec)"
-msgstr ""
+msgstr "Tilaviestien näytön kesto (s)"
 
 msgid "Easily switch between different bootlogos"
-msgstr ""
+msgstr "Vaihda helposti eri käynnistyslogojen välillä"
 
 msgid "Exclude"
-msgstr ""
+msgstr "Sulje pois"
 
 msgid "Exit plugin without saving"
-msgstr ""
+msgstr "Poistu laajennuksesta tallentamatta"
 
 msgid "FFmpeg is needed to generate thumbnails from the mvi files"
-msgstr ""
+msgstr "FFmpeg tarvitaan pikkukuvien luomiseen mvi-tiedostoista"
 
 msgid "FFmpeg ist missing, no preview pictures available - there is an option to install it in the stettings"
-msgstr ""
+msgstr "FFmpeg puuttuu, esikatselukuvia ei ole saatavilla - on mahdollisuus asentaa se asetuksiin"
 
 msgid "FFmpeg removed successfully"
-msgstr ""
+msgstr "FFmpeg poistettu onnistuneesti"
 
 msgid "FFmpeg successfully installed"
-msgstr ""
+msgstr "FFmpeg asennettu onnistuneesti"
 
 msgid "First delete the mvi-files of the current bootlogo then copy the files of the new one"
-msgstr ""
+msgstr "Poista ensin nykyisen käynnistyslogon mvi-tiedostot ja kopioi sitten uuden käynnistyslogon tiedostot"
 
 msgid "Found bootlogos"
-msgstr ""
+msgstr "Bootlogoja löytyi"
 
 msgid "Full screen view the selected bootlogo"
-msgstr ""
+msgstr "Näytä valittu käynnistyslogo koko näytön tilassa"
 
 msgid "Hide directories without 'mvi'-files"
-msgstr ""
+msgstr "Piilota hakemistot ilman 'mvi'-tiedostoja"
 
 msgid "Hide empty directories"
-msgstr ""
+msgstr "Piilota tyhjät hakemistot"
 
 msgid "How many seconds should status messages be displayed (1-60 sec)"
-msgstr ""
+msgstr "Kuinka monta sekuntia tilaviestit tulee näyttää (1-60 s)"
 
 msgid "Include"
-msgstr ""
+msgstr "Sisällytä"
 
 msgid "Include or exlude logo in random choice"
-msgstr ""
+msgstr "Sisällytä tai sulje pois logo satunnaisessa valinnassa"
 
 msgid "Included Screens"
-msgstr ""
+msgstr "Mukana näytöt"
 
 msgid "Install/deinstall ffmpeg"
-msgstr ""
+msgstr "Asenna/poista ffmpeg"
 
 msgid "Installation of FFmpeg failed"
-msgstr ""
+msgstr "FFmpeg-asennus epäonnistui"
 
 msgid "No bootlogos found in directory"
-msgstr ""
+msgstr "Hakemistosta ei löytynyt käynnistyslogoja"
 
 msgid "OK"
 msgstr ""
 
 msgid "Open settings"
-msgstr ""
+msgstr "Avaa asetukset"
 
 msgid "Preview Logo"
-msgstr ""
+msgstr "Esikatselu logo"
 
 msgid "Preview picture"
-msgstr ""
+msgstr "Esikatselukuva"
 
 msgid "Random mode"
-msgstr ""
+msgstr "Satunnainen tila"
 
 msgid "Random selection at startup disabled"
-msgstr ""
+msgstr "Satunnainen valinta käynnistyksen yhteydessä pois käytöstä"
 
 msgid "Random selection at startup enabled"
-msgstr ""
+msgstr "Satunnainen valinta käynnistyksen yhteydessä käytössä"
 
 msgid "Save Changes and exit plugin"
-msgstr ""
+msgstr "Tallenna muutokset ja sulje laajennus"
 
 msgid "Search for folders with boot logos in this directory"
-msgstr ""
+msgstr "Etsi tästä hakemistosta kansioita, joissa on käynnistyslogot"
 
 msgid "Which bootlogos should be displayed?"
-msgstr ""
+msgstr "Mitkä käynnistyslogot pitäisi näyttää?"
 
 msgid "Which logo should be displayed as a preview picture?"
-msgstr ""
+msgstr "Mikä logo tulee näyttää esikatselukuvana?"
 
 msgid "[BootlogoChanger] activated new bootlogo"
-msgstr ""
+msgstr "[BootlogoChanger] aktivoi uuden käynnistyslogon"
 
 msgid "[BootlogoChanger] activating new bootlogo failed"
-msgstr ""
+msgstr "[BootlogoChanger] uuden käynnistyslogon aktivointi epäonnistui"
 
 msgid "[BootlogoChanger] copy failed"
-msgstr ""
+msgstr "[BootlogoChanger] -kopiointi epäonnistui"
 
 msgid "[BootlogoChanger] deleting old bootlogo files"
-msgstr ""
+msgstr "[BootlogoChanger] poistaa vanhoja bootlogo-tiedostoja"
 
 msgid "[BootlogoChanger] deleting previewPicture"
-msgstr ""
+msgstr "[BootlogoChanger] poistaa esikatselukuvan"
 
 msgid "[BootlogoChanger] ffmpeg not found"
-msgstr ""
+msgstr "[BootlogoChanger] ffmpeg ei löydy"
 
 msgid "[BootlogoChanger] found Bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] löysi Bootlogot"
 
 msgid "[BootlogoChanger] found ffmpeg"
-msgstr ""
+msgstr "[BootlogoChanger] löysi ffmpeg"
 
 msgid "[BootlogoChanger] no bootlogos for randomization selected"
-msgstr ""
+msgstr "[BootlogoChanger] Bootlogeja ei ole valittu satunnaistamista varten"
 
 msgid "[BootlogoChanger] previewPicture changed"
-msgstr ""
+msgstr "[BootlogoChanger] esikatseluKuva muutettu"
 
 msgid "[BootlogoChanger] randomization of bootlogos activated"
-msgstr ""
+msgstr "[BootlogoChanger] käynnistyslogojen satunnaistaminen aktivoitu"
 
 msgid "[BootlogoChanger] randomization of bootlogos deactivated"
-msgstr ""
+msgstr "[BootlogoChanger] käynnistyslogojen satunnaistaminen poistettu käytöstä"
 
 msgid "[BootlogoChanger] randomization: bootlogo found"
-msgstr ""
+msgstr "[BootlogoChanger] satunnaistaminen: bootlogo löytyi"
 
 msgid "[BootlogoChanger] selected bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] valitsi käynnistyslogot"
 
 msgid "deinstall"
-msgstr ""
+msgstr "poista asennus"
 
 msgid "found"
-msgstr ""
+msgstr "löytyi"
 
 msgid "install"
-msgstr ""
+msgstr "asentaa"
 
 msgid "missing"
-msgstr ""
+msgstr "puuttuu"
 
 msgid "off"
-msgstr ""
+msgstr "pois"
 
 msgid "on"
-msgstr ""
+msgstr "päällä"

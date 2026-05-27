@@ -15,187 +15,187 @@ msgstr ""
 # [lululla] <ekekaz@gmail.com>, 2025.
 #
 msgid "Activate the debug-output on console"
-msgstr ""
+msgstr "Ակտիվացրեք վրիպազերծման ելքը վահանակի վրա"
 
 msgid "Bootlogo is excluded from random selection"
-msgstr ""
+msgstr "Bootlogo-ն բացառված է պատահական ընտրությունից"
 
 msgid "Bootlogo is included in random selection"
-msgstr ""
+msgstr "Bootlogo-ն ներառված է պատահական ընտրության մեջ"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Չեղարկել"
 
 msgid "Choose random bootlogo at the start of the box"
-msgstr ""
+msgstr "Ընտրեք պատահական bootlogo վանդակի սկզբում"
 
 msgid "Copy logofiles failed"
-msgstr ""
+msgstr "Լոգոֆայլերի պատճենումը ձախողվեց"
 
 msgid "Current bootlogo"
-msgstr ""
+msgstr "Ընթացիկ bootlogo"
 
 msgid "Debugmode"
-msgstr ""
+msgstr "Վրիպազերծման ռեժիմ"
 
 msgid "Deinstallation of FFmpeg failed"
-msgstr ""
+msgstr "FFmpeg-ի ապատեղադրումը ձախողվեց"
 
 msgid "Delete current mvi-files before changing bootlogo"
-msgstr ""
+msgstr "Ջնջեք ընթացիկ mvi-ֆայլերը նախքան bootlogo-ն փոխելը"
 
 msgid "Directory with bootlogo folders"
-msgstr ""
+msgstr "Գրացուցակ bootlogo թղթապանակներով"
 
 msgid "Display duration of the status messages (sec)"
-msgstr ""
+msgstr "Ցուցադրել կարգավիճակի հաղորդագրությունների տևողությունը (վրկ)"
 
 msgid "Easily switch between different bootlogos"
-msgstr ""
+msgstr "Հեշտությամբ անցեք տարբեր bootlogos-ի միջև"
 
 msgid "Exclude"
-msgstr ""
+msgstr "Բացառել"
 
 msgid "Exit plugin without saving"
-msgstr ""
+msgstr "Դուրս եկեք հավելվածից՝ առանց պահելու"
 
 msgid "FFmpeg is needed to generate thumbnails from the mvi files"
-msgstr ""
+msgstr "FFmpeg-ն անհրաժեշտ է mvi ֆայլերից մանրապատկերներ ստեղծելու համար"
 
 msgid "FFmpeg ist missing, no preview pictures available - there is an option to install it in the stettings"
-msgstr ""
+msgstr "FFmpeg-ը բացակայում է, նախադիտման նկարներ չկան. այն տեղադրելու տարբերակ կա կարգավորումներում"
 
 msgid "FFmpeg removed successfully"
-msgstr ""
+msgstr "FFmpeg-ը հաջողությամբ հեռացվեց"
 
 msgid "FFmpeg successfully installed"
-msgstr ""
+msgstr "FFmpeg-ը հաջողությամբ տեղադրվեց"
 
 msgid "First delete the mvi-files of the current bootlogo then copy the files of the new one"
-msgstr ""
+msgstr "Նախ ջնջեք ընթացիկ bootlogo-ի mvi-ֆայլերը, ապա պատճենեք նորի ֆայլերը"
 
 msgid "Found bootlogos"
-msgstr ""
+msgstr "Գտնվել են bootlogos"
 
 msgid "Full screen view the selected bootlogo"
-msgstr ""
+msgstr "Ամբողջ էկրանով դիտեք ընտրված bootlogo-ն"
 
 msgid "Hide directories without 'mvi'-files"
-msgstr ""
+msgstr "Թաքցնել դիրեկտորիաներն առանց «mvi» ֆայլերի"
 
 msgid "Hide empty directories"
-msgstr ""
+msgstr "Թաքցնել դատարկ գրացուցակները"
 
 msgid "How many seconds should status messages be displayed (1-60 sec)"
-msgstr ""
+msgstr "Քանի՞ վայրկյան պետք է ցուցադրվեն կարգավիճակի հաղորդագրությունները (1-60 վրկ)"
 
 msgid "Include"
-msgstr ""
+msgstr "Ներառել"
 
 msgid "Include or exlude logo in random choice"
-msgstr ""
+msgstr "Ներառել կամ բացառել պատկերանշանը պատահական ընտրության մեջ"
 
 msgid "Included Screens"
-msgstr ""
+msgstr "Ներառված էկրաններ"
 
 msgid "Install/deinstall ffmpeg"
-msgstr ""
+msgstr "Տեղադրեք/տեղահանեք ffmpeg"
 
 msgid "Installation of FFmpeg failed"
-msgstr ""
+msgstr "FFmpeg-ի տեղադրումը ձախողվեց"
 
 msgid "No bootlogos found in directory"
-msgstr ""
+msgstr "Գրացուցակում ոչ մի bootlogo չի գտնվել"
 
 msgid "OK"
-msgstr ""
+msgstr "Լավ"
 
 msgid "Open settings"
-msgstr ""
+msgstr "Բացեք կարգավորումները"
 
 msgid "Preview Logo"
-msgstr ""
+msgstr "Նախադիտել լոգոն"
 
 msgid "Preview picture"
-msgstr ""
+msgstr "Նախադիտել նկարը"
 
 msgid "Random mode"
-msgstr ""
+msgstr "Պատահական ռեժիմ"
 
 msgid "Random selection at startup disabled"
-msgstr ""
+msgstr "Գործարկման ժամանակ պատահական ընտրությունն անջատված է"
 
 msgid "Random selection at startup enabled"
-msgstr ""
+msgstr "Գործարկման ժամանակ պատահական ընտրությունը միացված է"
 
 msgid "Save Changes and exit plugin"
-msgstr ""
+msgstr "Պահպանել փոփոխությունները և դուրս գալ հավելվածից"
 
 msgid "Search for folders with boot logos in this directory"
-msgstr ""
+msgstr "Այս գրացուցակում փնտրեք բեռնման լոգոներով թղթապանակներ"
 
 msgid "Which bootlogos should be displayed?"
-msgstr ""
+msgstr "Ո՞ր բոտլոգոները պետք է ցուցադրվեն:"
 
 msgid "Which logo should be displayed as a preview picture?"
-msgstr ""
+msgstr "Ո՞ր լոգոն պետք է ցուցադրվի որպես նախադիտման նկար:"
 
 msgid "[BootlogoChanger] activated new bootlogo"
-msgstr ""
+msgstr "[BootlogoChanger]-ն ակտիվացրել է նոր bootlogo"
 
 msgid "[BootlogoChanger] activating new bootlogo failed"
-msgstr ""
+msgstr "[BootlogoChanger] նոր bootlogo-ի ակտիվացումը ձախողվեց"
 
 msgid "[BootlogoChanger] copy failed"
-msgstr ""
+msgstr "[BootlogoChanger] պատճենումը ձախողվեց"
 
 msgid "[BootlogoChanger] deleting old bootlogo files"
-msgstr ""
+msgstr "[BootlogoChanger] ջնջում է հին bootlogo ֆայլերը"
 
 msgid "[BootlogoChanger] deleting previewPicture"
-msgstr ""
+msgstr "[BootlogoChanger] ջնջում է նախադիտման պատկերը"
 
 msgid "[BootlogoChanger] ffmpeg not found"
-msgstr ""
+msgstr "[BootlogoChanger] ffmpeg չի գտնվել"
 
 msgid "[BootlogoChanger] found Bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger]-ը գտել է Bootlogos-ը"
 
 msgid "[BootlogoChanger] found ffmpeg"
-msgstr ""
+msgstr "[BootlogoChanger]-ը գտել է ffmpeg"
 
 msgid "[BootlogoChanger] no bootlogos for randomization selected"
-msgstr ""
+msgstr "[BootlogoChanger] պատահականության համար ընտրված բոտլոգներ չկան"
 
 msgid "[BootlogoChanger] previewPicture changed"
-msgstr ""
+msgstr "[BootlogoChanger] նախադիտում Պատկերը փոխվել է"
 
 msgid "[BootlogoChanger] randomization of bootlogos activated"
-msgstr ""
+msgstr "[BootlogoChanger] ակտիվացված է bootlogos-ի պատահականացում"
 
 msgid "[BootlogoChanger] randomization of bootlogos deactivated"
-msgstr ""
+msgstr "[BootlogoChanger] bootlogos-ի պատահականացումն ապաակտիվացված է"
 
 msgid "[BootlogoChanger] randomization: bootlogo found"
-msgstr ""
+msgstr "[BootlogoChanger] պատահականացում. bootlogo-ն գտնվեց"
 
 msgid "[BootlogoChanger] selected bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] ընտրված bootlogos"
 
 msgid "deinstall"
-msgstr ""
+msgstr "տեղահանել"
 
 msgid "found"
-msgstr ""
+msgstr "հայտնաբերվել է"
 
 msgid "install"
-msgstr ""
+msgstr "տեղադրել"
 
 msgid "missing"
-msgstr ""
+msgstr "անհայտ կորած"
 
 msgid "off"
-msgstr ""
+msgstr "անջատված է"
 
 msgid "on"
-msgstr ""
+msgstr "վրա"

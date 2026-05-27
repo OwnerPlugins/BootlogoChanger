@@ -15,187 +15,187 @@ msgstr ""
 # [lululla] <ekekaz@gmail.com>, 2025.
 #
 msgid "Activate the debug-output on console"
-msgstr ""
+msgstr "Консольдегі отладтау шығысын іске қосыңыз"
 
 msgid "Bootlogo is excluded from random selection"
-msgstr ""
+msgstr "Bootlogo кездейсоқ таңдаудан шығарылады"
 
 msgid "Bootlogo is included in random selection"
-msgstr ""
+msgstr "Bootlogo кездейсоқ таңдауға кіреді"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Бас тарту"
 
 msgid "Choose random bootlogo at the start of the box"
-msgstr ""
+msgstr "Қораптың басында кездейсоқ жүктеу логотипін таңдаңыз"
 
 msgid "Copy logofiles failed"
-msgstr ""
+msgstr "Логофилдерді көшіру сәтсіз аяқталды"
 
 msgid "Current bootlogo"
-msgstr ""
+msgstr "Ағымдағы жүктеу логотипі"
 
 msgid "Debugmode"
-msgstr ""
+msgstr "Түзету режимі"
 
 msgid "Deinstallation of FFmpeg failed"
-msgstr ""
+msgstr "FFmpeg орнату сәтсіз аяқталды"
 
 msgid "Delete current mvi-files before changing bootlogo"
-msgstr ""
+msgstr "Жүктеу логотипін өзгерту алдында ағымдағы mvi-файлдарды жойыңыз"
 
 msgid "Directory with bootlogo folders"
-msgstr ""
+msgstr "Bootlogo қалталары бар каталог"
 
 msgid "Display duration of the status messages (sec)"
-msgstr ""
+msgstr "Күй хабарларының ұзақтығын көрсету (сек)"
 
 msgid "Easily switch between different bootlogos"
-msgstr ""
+msgstr "Әртүрлі жүктеу логотиптері арасында оңай ауысыңыз"
 
 msgid "Exclude"
-msgstr ""
+msgstr "Алып тастау"
 
 msgid "Exit plugin without saving"
-msgstr ""
+msgstr "Плагинді сақтамай шығыңыз"
 
 msgid "FFmpeg is needed to generate thumbnails from the mvi files"
-msgstr ""
+msgstr "FFmpeg mvi файлдарынан нобайларды жасау үшін қажет"
 
 msgid "FFmpeg ist missing, no preview pictures available - there is an option to install it in the stettings"
-msgstr ""
+msgstr "FFmpeg жоқ, алдын ала қарау суреттері жоқ - оны параметрлерде орнату мүмкіндігі бар"
 
 msgid "FFmpeg removed successfully"
-msgstr ""
+msgstr "FFmpeg сәтті жойылды"
 
 msgid "FFmpeg successfully installed"
-msgstr ""
+msgstr "FFmpeg сәтті орнатылды"
 
 msgid "First delete the mvi-files of the current bootlogo then copy the files of the new one"
-msgstr ""
+msgstr "Алдымен ағымдағы жүктеу логотипінің mvi-файлдарын жойыңыз, содан кейін жаңасының файлдарын көшіріңіз"
 
 msgid "Found bootlogos"
-msgstr ""
+msgstr "Жүктеу логотиптері табылды"
 
 msgid "Full screen view the selected bootlogo"
-msgstr ""
+msgstr "Таңдалған жүктеу логотипін толық экранда көру"
 
 msgid "Hide directories without 'mvi'-files"
-msgstr ""
+msgstr "'mvi'-файлдары жоқ каталогтарды жасыру"
 
 msgid "Hide empty directories"
-msgstr ""
+msgstr "Бос каталогтарды жасыру"
 
 msgid "How many seconds should status messages be displayed (1-60 sec)"
-msgstr ""
+msgstr "Күй туралы хабарлар қанша секундта көрсетілуі керек (1-60 сек)"
 
 msgid "Include"
-msgstr ""
+msgstr "Қосу"
 
 msgid "Include or exlude logo in random choice"
-msgstr ""
+msgstr "Кездейсоқ таңдауда логотипті қосу немесе алып тастау"
 
 msgid "Included Screens"
-msgstr ""
+msgstr "Қосылған экрандар"
 
 msgid "Install/deinstall ffmpeg"
-msgstr ""
+msgstr "ffmpeg орнату/жою"
 
 msgid "Installation of FFmpeg failed"
-msgstr ""
+msgstr "FFmpeg орнату сәтсіз аяқталды"
 
 msgid "No bootlogos found in directory"
-msgstr ""
+msgstr "Каталогта ешқандай bootlogos табылмады"
 
 msgid "OK"
-msgstr ""
+msgstr "Жарайды"
 
 msgid "Open settings"
-msgstr ""
+msgstr "Параметрлерді ашыңыз"
 
 msgid "Preview Logo"
-msgstr ""
+msgstr "Логотипті алдын ала қарау"
 
 msgid "Preview picture"
-msgstr ""
+msgstr "Суретті алдын ала қарау"
 
 msgid "Random mode"
-msgstr ""
+msgstr "Кездейсоқ режим"
 
 msgid "Random selection at startup disabled"
-msgstr ""
+msgstr "Іске қосу кезінде кездейсоқ таңдау өшірілген"
 
 msgid "Random selection at startup enabled"
-msgstr ""
+msgstr "Іске қосу кезінде кездейсоқ таңдау қосулы"
 
 msgid "Save Changes and exit plugin"
-msgstr ""
+msgstr "Өзгерістерді сақтаңыз және плагиннен шығыңыз"
 
 msgid "Search for folders with boot logos in this directory"
-msgstr ""
+msgstr "Осы каталогтан жүктеу логотиптері бар қалталарды іздеңіз"
 
 msgid "Which bootlogos should be displayed?"
-msgstr ""
+msgstr "Қандай жүктеу логотиптерін көрсету керек?"
 
 msgid "Which logo should be displayed as a preview picture?"
-msgstr ""
+msgstr "Алдын ала қарау суреті ретінде қандай логотипті көрсету керек?"
 
 msgid "[BootlogoChanger] activated new bootlogo"
-msgstr ""
+msgstr "[BootlogoChanger] жаңа жүктеу логотипін белсендірді"
 
 msgid "[BootlogoChanger] activating new bootlogo failed"
-msgstr ""
+msgstr "[BootlogoChanger] жаңа жүктеу логотипін белсендіру сәтсіз аяқталды"
 
 msgid "[BootlogoChanger] copy failed"
-msgstr ""
+msgstr "[BootlogoChanger] көшірмесі орындалмады"
 
 msgid "[BootlogoChanger] deleting old bootlogo files"
-msgstr ""
+msgstr "[BootlogoChanger] ескі bootlogo файлдарын жою"
 
 msgid "[BootlogoChanger] deleting previewPicture"
-msgstr ""
+msgstr "[BootlogoChanger] алдын ала қарау суретін жою"
 
 msgid "[BootlogoChanger] ffmpeg not found"
-msgstr ""
+msgstr "[BootlogoChanger] ffmpeg табылмады"
 
 msgid "[BootlogoChanger] found Bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] Bootlogos тапты"
 
 msgid "[BootlogoChanger] found ffmpeg"
-msgstr ""
+msgstr "[BootlogoChanger] ffmpeg файлын тапты"
 
 msgid "[BootlogoChanger] no bootlogos for randomization selected"
-msgstr ""
+msgstr "[BootlogoChanger] рандомизацияға арналған жүктеу логотиптері таңдалмаған"
 
 msgid "[BootlogoChanger] previewPicture changed"
-msgstr ""
+msgstr "[BootlogoChanger] алдын ала қарауСурет өзгертілді"
 
 msgid "[BootlogoChanger] randomization of bootlogos activated"
-msgstr ""
+msgstr "[BootlogoChanger] жүктеу логотиптерінің рандомизациясы іске қосылды"
 
 msgid "[BootlogoChanger] randomization of bootlogos deactivated"
-msgstr ""
+msgstr "[BootlogoChanger] жүктеу логотиптерінің рандомизациясы өшірілді"
 
 msgid "[BootlogoChanger] randomization: bootlogo found"
-msgstr ""
+msgstr "[BootlogoChanger] рандомизациясы: жүктеу логотипі табылды"
 
 msgid "[BootlogoChanger] selected bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] таңдалған жүктеу логотиптері"
 
 msgid "deinstall"
-msgstr ""
+msgstr "жою"
 
 msgid "found"
-msgstr ""
+msgstr "табылды"
 
 msgid "install"
-msgstr ""
+msgstr "орнату"
 
 msgid "missing"
-msgstr ""
+msgstr "жоқ"
 
 msgid "off"
-msgstr ""
+msgstr "өшірулі"
 
 msgid "on"
-msgstr ""
+msgstr "қосулы"

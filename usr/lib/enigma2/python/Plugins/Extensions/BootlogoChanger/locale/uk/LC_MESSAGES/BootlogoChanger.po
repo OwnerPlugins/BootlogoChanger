@@ -16,112 +16,112 @@ msgstr ""
 # [lululla] <ekekaz@gmail.com>, 2025.
 #
 msgid "Activate the debug-output on console"
-msgstr ""
+msgstr "Активуйте вихід налагодження на консолі"
 
 msgid "Bootlogo is excluded from random selection"
-msgstr ""
+msgstr "Bootlogo виключено з випадкового вибору"
 
 msgid "Bootlogo is included in random selection"
-msgstr ""
+msgstr "Bootlogo включено у випадковий вибір"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
 
 msgid "Choose random bootlogo at the start of the box"
-msgstr ""
+msgstr "Виберіть випадковий логотип завантаження на початку вікна"
 
 msgid "Copy logofiles failed"
-msgstr ""
+msgstr "Не вдалося скопіювати файли логотипів"
 
 msgid "Current bootlogo"
-msgstr ""
+msgstr "Поточний bootlogo"
 
 msgid "Debugmode"
-msgstr ""
+msgstr "Режим налагодження"
 
 msgid "Deinstallation of FFmpeg failed"
-msgstr ""
+msgstr "Помилка деінсталяції FFmpeg"
 
 msgid "Delete current mvi-files before changing bootlogo"
-msgstr ""
+msgstr "Видаліть поточні mvi-файли перед зміною bootlogo"
 
 msgid "Directory with bootlogo folders"
-msgstr ""
+msgstr "Каталог з папками bootlogo"
 
 msgid "Display duration of the status messages (sec)"
-msgstr ""
+msgstr "Тривалість відображення повідомлень про статус (сек)"
 
 msgid "Easily switch between different bootlogos"
-msgstr ""
+msgstr "Легко перемикайтеся між різними логотипами завантаження"
 
 msgid "Exclude"
-msgstr ""
+msgstr "Виключити"
 
 msgid "Exit plugin without saving"
-msgstr ""
+msgstr "Вийти з плагіна без збереження"
 
 msgid "FFmpeg is needed to generate thumbnails from the mvi files"
-msgstr ""
+msgstr "FFmpeg потрібен для створення мініатюр із файлів mvi"
 
 msgid "FFmpeg ist missing, no preview pictures available - there is an option to install it in the stettings"
-msgstr ""
+msgstr "FFmpeg відсутній, зображення для попереднього перегляду недоступні - є можливість встановити його в налаштуваннях"
 
 msgid "FFmpeg removed successfully"
-msgstr ""
+msgstr "FFmpeg успішно видалено"
 
 msgid "FFmpeg successfully installed"
-msgstr ""
+msgstr "FFmpeg успішно встановлено"
 
 msgid "First delete the mvi-files of the current bootlogo then copy the files of the new one"
-msgstr ""
+msgstr "Спочатку видаліть mvi-файли поточного bootlogo, а потім скопіюйте файли нового"
 
 msgid "Found bootlogos"
-msgstr ""
+msgstr "Знайдено bootlogos"
 
 msgid "Full screen view the selected bootlogo"
-msgstr ""
+msgstr "Повноекранний перегляд вибраного bootlogo"
 
 msgid "Hide directories without 'mvi'-files"
-msgstr ""
+msgstr "Приховати каталоги без 'mvi'-файлів"
 
 msgid "Hide empty directories"
-msgstr ""
+msgstr "Приховати порожні каталоги"
 
 msgid "How many seconds should status messages be displayed (1-60 sec)"
-msgstr ""
+msgstr "Скільки секунд мають відображатися повідомлення про стан (1-60 секунд)"
 
 msgid "Include"
-msgstr ""
+msgstr "Включати"
 
 msgid "Include or exlude logo in random choice"
-msgstr ""
+msgstr "Включати або виключати логотип у випадковому виборі"
 
 msgid "Included Screens"
-msgstr ""
+msgstr "Включені екрани"
 
 msgid "Install/deinstall ffmpeg"
-msgstr ""
+msgstr "Встановити/видалити ffmpeg"
 
 msgid "Installation of FFmpeg failed"
-msgstr ""
+msgstr "Помилка встановлення FFmpeg"
 
 msgid "No bootlogos found in directory"
-msgstr ""
+msgstr "У каталозі не знайдено логотипів завантаження"
 
 msgid "OK"
-msgstr ""
+msgstr "добре"
 
 msgid "Open settings"
-msgstr ""
+msgstr "Відкрийте налаштування"
 
 msgid "Preview Logo"
-msgstr ""
+msgstr "Попередній перегляд логотипу"
 
 msgid "Preview picture"
-msgstr ""
+msgstr "Попередній перегляд зображення"
 
 msgid "Random mode"
-msgstr ""
+msgstr "Випадковий режим"
 
 msgid "Random selection at startup disabled"
 msgstr ""
@@ -130,73 +130,73 @@ msgid "Random selection at startup enabled"
 msgstr ""
 
 msgid "Save Changes and exit plugin"
-msgstr ""
+msgstr "Зберегти зміни та вийти з плагіна"
 
 msgid "Search for folders with boot logos in this directory"
-msgstr ""
+msgstr "Шукайте папки з логотипами завантаження в цьому каталозі"
 
 msgid "Which bootlogos should be displayed?"
-msgstr ""
+msgstr "Які завантажувальні логотипи мають відображатися?"
 
 msgid "Which logo should be displayed as a preview picture?"
-msgstr ""
+msgstr "Який логотип має відображатися як зображення попереднього перегляду?"
 
 msgid "[BootlogoChanger] activated new bootlogo"
-msgstr ""
+msgstr "[BootlogoChanger] активував новий логотип завантаження"
 
 msgid "[BootlogoChanger] activating new bootlogo failed"
-msgstr ""
+msgstr "[BootlogoChanger] не вдалося активувати новий логотип завантаження"
 
 msgid "[BootlogoChanger] copy failed"
-msgstr ""
+msgstr "Помилка копіювання [BootlogoChanger]."
 
 msgid "[BootlogoChanger] deleting old bootlogo files"
-msgstr ""
+msgstr "[BootlogoChanger] видалення старих файлів bootlogo"
 
 msgid "[BootlogoChanger] deleting previewPicture"
-msgstr ""
+msgstr "[BootlogoChanger] видалення попереднього перегляду зображення"
 
 msgid "[BootlogoChanger] ffmpeg not found"
-msgstr ""
+msgstr "[BootlogoChanger] ffmpeg не знайдено"
 
 msgid "[BootlogoChanger] found Bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] знайдено Bootlogos"
 
 msgid "[BootlogoChanger] found ffmpeg"
-msgstr ""
+msgstr "[BootlogoChanger] знайдено ffmpeg"
 
 msgid "[BootlogoChanger] no bootlogos for randomization selected"
-msgstr ""
+msgstr "[BootlogoChanger] не вибрано логотипи завантаження для рандомізації"
 
 msgid "[BootlogoChanger] previewPicture changed"
-msgstr ""
+msgstr "Попередній перегляд [BootlogoChanger]Зображення змінено"
 
 msgid "[BootlogoChanger] randomization of bootlogos activated"
-msgstr ""
+msgstr "[BootlogoChanger] рандомізація bootlogos активована"
 
 msgid "[BootlogoChanger] randomization of bootlogos deactivated"
-msgstr ""
+msgstr "[BootlogoChanger] рандомізацію bootlogos вимкнено"
 
 msgid "[BootlogoChanger] randomization: bootlogo found"
-msgstr ""
+msgstr "[BootlogoChanger] рандомізація: bootlogo знайдено"
 
 msgid "[BootlogoChanger] selected bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] вибрані логотипи завантаження"
 
 msgid "deinstall"
-msgstr ""
+msgstr "видалити"
 
 msgid "found"
-msgstr ""
+msgstr "знайдено"
 
 msgid "install"
-msgstr ""
+msgstr "встановити"
 
 msgid "missing"
-msgstr ""
+msgstr "відсутній"
 
 msgid "off"
-msgstr ""
+msgstr "вимкнено"
 
 msgid "on"
-msgstr ""
+msgstr "на"

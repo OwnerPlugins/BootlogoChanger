@@ -16,187 +16,187 @@ msgstr ""
 # [lululla] <ekekaz@gmail.com>, 2025.
 #
 msgid "Activate the debug-output on console"
-msgstr ""
+msgstr "Aktivujte výstup ladění na konzole"
 
 msgid "Bootlogo is excluded from random selection"
-msgstr ""
+msgstr "Bootlogo je vyloučeno z náhodného výběru"
 
 msgid "Bootlogo is included in random selection"
-msgstr ""
+msgstr "Bootlogo je zahrnuto do náhodného výběru"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Zrušit"
 
 msgid "Choose random bootlogo at the start of the box"
-msgstr ""
+msgstr "Vyberte náhodné bootlogo na začátku pole"
 
 msgid "Copy logofiles failed"
-msgstr ""
+msgstr "Kopírování souborů loga se nezdařilo"
 
 msgid "Current bootlogo"
-msgstr ""
+msgstr "Aktuální bootlogo"
 
 msgid "Debugmode"
-msgstr ""
+msgstr "Režim ladění"
 
 msgid "Deinstallation of FFmpeg failed"
-msgstr ""
+msgstr "Deinstalace FFmpeg se nezdařila"
 
 msgid "Delete current mvi-files before changing bootlogo"
-msgstr ""
+msgstr "Před změnou bootloga smažte aktuální mvi-soubory"
 
 msgid "Directory with bootlogo folders"
-msgstr ""
+msgstr "Adresář se složkami bootlogo"
 
 msgid "Display duration of the status messages (sec)"
-msgstr ""
+msgstr "Zobrazení doby trvání stavových zpráv (s)"
 
 msgid "Easily switch between different bootlogos"
-msgstr ""
+msgstr "Snadno přepínejte mezi různými bootlogy"
 
 msgid "Exclude"
-msgstr ""
+msgstr "Vyloučit"
 
 msgid "Exit plugin without saving"
-msgstr ""
+msgstr "Ukončit plugin bez uložení"
 
 msgid "FFmpeg is needed to generate thumbnails from the mvi files"
-msgstr ""
+msgstr "FFmpeg je potřeba pro generování náhledů ze souborů mvi"
 
 msgid "FFmpeg ist missing, no preview pictures available - there is an option to install it in the stettings"
-msgstr ""
+msgstr "Chybí FFmpeg, nejsou k dispozici žádné náhledové obrázky - v nastavení je možnost jej nainstalovat"
 
 msgid "FFmpeg removed successfully"
-msgstr ""
+msgstr "FFmpeg úspěšně odstraněn"
 
 msgid "FFmpeg successfully installed"
-msgstr ""
+msgstr "FFmpeg úspěšně nainstalován"
 
 msgid "First delete the mvi-files of the current bootlogo then copy the files of the new one"
-msgstr ""
+msgstr "Nejprve odstraňte soubory mvi aktuálního bootloga a poté zkopírujte soubory nového"
 
 msgid "Found bootlogos"
-msgstr ""
+msgstr "Nalezena bootloga"
 
 msgid "Full screen view the selected bootlogo"
-msgstr ""
+msgstr "Zobrazení vybraného bootloga na celé obrazovce"
 
 msgid "Hide directories without 'mvi'-files"
-msgstr ""
+msgstr "Skrýt adresáře bez souborů 'mvi'"
 
 msgid "Hide empty directories"
-msgstr ""
+msgstr "Skrýt prázdné adresáře"
 
 msgid "How many seconds should status messages be displayed (1-60 sec)"
-msgstr ""
+msgstr "Kolik sekund by se měly zobrazovat stavové zprávy (1-60 sekund)"
 
 msgid "Include"
-msgstr ""
+msgstr "Zahrnout"
 
 msgid "Include or exlude logo in random choice"
-msgstr ""
+msgstr "Zahrnout nebo vyloučit logo v náhodném výběru"
 
 msgid "Included Screens"
-msgstr ""
+msgstr "Zahrnuté obrazovky"
 
 msgid "Install/deinstall ffmpeg"
-msgstr ""
+msgstr "Nainstalujte/odinstalujte ffmpeg"
 
 msgid "Installation of FFmpeg failed"
-msgstr ""
+msgstr "Instalace FFmpeg se nezdařila"
 
 msgid "No bootlogos found in directory"
-msgstr ""
+msgstr "V adresáři nebyla nalezena žádná bootloga"
 
 msgid "OK"
 msgstr ""
 
 msgid "Open settings"
-msgstr ""
+msgstr "Otevřete nastavení"
 
 msgid "Preview Logo"
-msgstr ""
+msgstr "Náhled loga"
 
 msgid "Preview picture"
-msgstr ""
+msgstr "Náhledový obrázek"
 
 msgid "Random mode"
-msgstr ""
+msgstr "Náhodný režim"
 
 msgid "Random selection at startup disabled"
-msgstr ""
+msgstr "Náhodný výběr při spuštění zakázán"
 
 msgid "Random selection at startup enabled"
-msgstr ""
+msgstr "Náhodný výběr při spuštění povolen"
 
 msgid "Save Changes and exit plugin"
-msgstr ""
+msgstr "Uložte změny a ukončete plugin"
 
 msgid "Search for folders with boot logos in this directory"
-msgstr ""
+msgstr "Vyhledejte v tomto adresáři složky se zaváděcími logy"
 
 msgid "Which bootlogos should be displayed?"
-msgstr ""
+msgstr "Která bootloga by se měla zobrazovat?"
 
 msgid "Which logo should be displayed as a preview picture?"
-msgstr ""
+msgstr "Které logo by se mělo zobrazit jako náhledový obrázek?"
 
 msgid "[BootlogoChanger] activated new bootlogo"
-msgstr ""
+msgstr "[BootlogoChanger] aktivoval nové bootlogo"
 
 msgid "[BootlogoChanger] activating new bootlogo failed"
-msgstr ""
+msgstr "[BootlogoChanger] aktivace nového bootloga se nezdařila"
 
 msgid "[BootlogoChanger] copy failed"
-msgstr ""
+msgstr "Kopírování [BootlogoChanger] se nezdařilo"
 
 msgid "[BootlogoChanger] deleting old bootlogo files"
-msgstr ""
+msgstr "[BootlogoChanger] smazání starých souborů s bootlogem"
 
 msgid "[BootlogoChanger] deleting previewPicture"
-msgstr ""
+msgstr "[BootlogoChanger] smazání previewPicture"
 
 msgid "[BootlogoChanger] ffmpeg not found"
-msgstr ""
+msgstr "[BootlogoChanger] ffmpeg nenalezen"
 
 msgid "[BootlogoChanger] found Bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] našel Bootlogos"
 
 msgid "[BootlogoChanger] found ffmpeg"
-msgstr ""
+msgstr "[BootlogoChanger] nalezen ffmpeg"
 
 msgid "[BootlogoChanger] no bootlogos for randomization selected"
-msgstr ""
+msgstr "[BootlogoChanger] nebyla vybrána žádná bootloga pro randomizaci"
 
 msgid "[BootlogoChanger] previewPicture changed"
-msgstr ""
+msgstr "[BootlogoChanger] previewPicture změněn"
 
 msgid "[BootlogoChanger] randomization of bootlogos activated"
-msgstr ""
+msgstr "[BootlogoChanger] randomizace bootloga aktivována"
 
 msgid "[BootlogoChanger] randomization of bootlogos deactivated"
-msgstr ""
+msgstr "[BootlogoChanger] randomizace bootlog deaktivována"
 
 msgid "[BootlogoChanger] randomization: bootlogo found"
-msgstr ""
+msgstr "[BootlogoChanger] randomizace: bootlogo nalezeno"
 
 msgid "[BootlogoChanger] selected bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] vybraná bootloga"
 
 msgid "deinstall"
-msgstr ""
+msgstr "odinstalovat"
 
 msgid "found"
-msgstr ""
+msgstr "nalezeno"
 
 msgid "install"
-msgstr ""
+msgstr "instalovat"
 
 msgid "missing"
-msgstr ""
+msgstr "chybějící"
 
 msgid "off"
-msgstr ""
+msgstr "vypnuto"
 
 msgid "on"
-msgstr ""
+msgstr "na"

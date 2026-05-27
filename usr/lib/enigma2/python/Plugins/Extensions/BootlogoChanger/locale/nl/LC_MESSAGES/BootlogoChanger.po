@@ -16,187 +16,187 @@ msgstr ""
 # [lululla] <ekekaz@gmail.com>, 2025.
 #
 msgid "Activate the debug-output on console"
-msgstr ""
+msgstr "Activeer de debug-uitvoer op de console"
 
 msgid "Bootlogo is excluded from random selection"
-msgstr ""
+msgstr "Bootlogo is uitgesloten van willekeurige selectie"
 
 msgid "Bootlogo is included in random selection"
-msgstr ""
+msgstr "Bootlogo is opgenomen in willekeurige selectie"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Annuleren"
 
 msgid "Choose random bootlogo at the start of the box"
-msgstr ""
+msgstr "Kies een willekeurig bootlogo aan het begin van het vak"
 
 msgid "Copy logofiles failed"
-msgstr ""
+msgstr "Het kopiëren van logobestanden is mislukt"
 
 msgid "Current bootlogo"
-msgstr ""
+msgstr "Huidig ​​bootlogo"
 
 msgid "Debugmode"
-msgstr ""
+msgstr "Debug-modus"
 
 msgid "Deinstallation of FFmpeg failed"
-msgstr ""
+msgstr "Het verwijderen van FFmpeg is mislukt"
 
 msgid "Delete current mvi-files before changing bootlogo"
-msgstr ""
+msgstr "Verwijder de huidige mvi-bestanden voordat u het bootlogo wijzigt"
 
 msgid "Directory with bootlogo folders"
-msgstr ""
+msgstr "Directory met bootlogo-mappen"
 
 msgid "Display duration of the status messages (sec)"
-msgstr ""
+msgstr "Weergaveduur van de statusmeldingen (sec)"
 
 msgid "Easily switch between different bootlogos"
-msgstr ""
+msgstr "Schakel eenvoudig tussen verschillende bootlogo's"
 
 msgid "Exclude"
-msgstr ""
+msgstr "Uitsluiten"
 
 msgid "Exit plugin without saving"
-msgstr ""
+msgstr "Sluit de plug-in af zonder op te slaan"
 
 msgid "FFmpeg is needed to generate thumbnails from the mvi files"
-msgstr ""
+msgstr "FFmpeg is nodig om miniaturen van de mvi-bestanden te genereren"
 
 msgid "FFmpeg ist missing, no preview pictures available - there is an option to install it in the stettings"
-msgstr ""
+msgstr "FFmpeg ontbreekt, er zijn geen voorbeeldafbeeldingen beschikbaar - er is een optie om het in de instellingen te installeren"
 
 msgid "FFmpeg removed successfully"
-msgstr ""
+msgstr "FFmpeg is succesvol verwijderd"
 
 msgid "FFmpeg successfully installed"
-msgstr ""
+msgstr "FFmpeg succesvol geïnstalleerd"
 
 msgid "First delete the mvi-files of the current bootlogo then copy the files of the new one"
-msgstr ""
+msgstr "Verwijder eerst de mvi-bestanden van het huidige bootlogo en kopieer vervolgens de bestanden van het nieuwe"
 
 msgid "Found bootlogos"
-msgstr ""
+msgstr "Bootlogo's gevonden"
 
 msgid "Full screen view the selected bootlogo"
-msgstr ""
+msgstr "Bekijk het geselecteerde opstartlogo op volledig scherm"
 
 msgid "Hide directories without 'mvi'-files"
-msgstr ""
+msgstr "Verberg mappen zonder 'mvi'-bestanden"
 
 msgid "Hide empty directories"
-msgstr ""
+msgstr "Verberg lege mappen"
 
 msgid "How many seconds should status messages be displayed (1-60 sec)"
-msgstr ""
+msgstr "Hoeveel seconden moeten statusberichten worden weergegeven (1-60 sec)"
 
 msgid "Include"
-msgstr ""
+msgstr "Erbij betrekken"
 
 msgid "Include or exlude logo in random choice"
-msgstr ""
+msgstr "Logo in willekeurige keuze opnemen of uitsluiten"
 
 msgid "Included Screens"
-msgstr ""
+msgstr "Inclusief schermen"
 
 msgid "Install/deinstall ffmpeg"
-msgstr ""
+msgstr "Installeer/verwijder ffmpeg"
 
 msgid "Installation of FFmpeg failed"
-msgstr ""
+msgstr "Installatie van FFmpeg is mislukt"
 
 msgid "No bootlogos found in directory"
-msgstr ""
+msgstr "Geen bootlogo's gevonden in de directory"
 
 msgid "OK"
 msgstr ""
 
 msgid "Open settings"
-msgstr ""
+msgstr "Instellingen openen"
 
 msgid "Preview Logo"
-msgstr ""
+msgstr "Voorbeeldlogo"
 
 msgid "Preview picture"
-msgstr ""
+msgstr "Voorbeeldafbeelding"
 
 msgid "Random mode"
-msgstr ""
+msgstr "Willekeurige modus"
 
 msgid "Random selection at startup disabled"
-msgstr ""
+msgstr "Willekeurige selectie bij opstarten uitgeschakeld"
 
 msgid "Random selection at startup enabled"
-msgstr ""
+msgstr "Willekeurige selectie bij opstarten ingeschakeld"
 
 msgid "Save Changes and exit plugin"
-msgstr ""
+msgstr "Wijzigingen opslaan en plug-in afsluiten"
 
 msgid "Search for folders with boot logos in this directory"
-msgstr ""
+msgstr "Zoek naar mappen met opstartlogo's in deze map"
 
 msgid "Which bootlogos should be displayed?"
-msgstr ""
+msgstr "Welke bootlogo's moeten worden weergegeven?"
 
 msgid "Which logo should be displayed as a preview picture?"
-msgstr ""
+msgstr "Welk logo moet als voorbeeldafbeelding worden weergegeven?"
 
 msgid "[BootlogoChanger] activated new bootlogo"
-msgstr ""
+msgstr "[BootlogoChanger] heeft een nieuw bootlogo geactiveerd"
 
 msgid "[BootlogoChanger] activating new bootlogo failed"
-msgstr ""
+msgstr "[BootlogoChanger] activeren van nieuw bootlogo mislukt"
 
 msgid "[BootlogoChanger] copy failed"
-msgstr ""
+msgstr "Het kopiëren van [BootlogoChanger] is mislukt"
 
 msgid "[BootlogoChanger] deleting old bootlogo files"
-msgstr ""
+msgstr "[BootlogoChanger] verwijdert oude bootlogo-bestanden"
 
 msgid "[BootlogoChanger] deleting previewPicture"
-msgstr ""
+msgstr "[BootlogoChanger] previewPicture verwijderen"
 
 msgid "[BootlogoChanger] ffmpeg not found"
-msgstr ""
+msgstr "[BootlogoChanger] ffmpeg niet gevonden"
 
 msgid "[BootlogoChanger] found Bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] heeft Bootlogo's gevonden"
 
 msgid "[BootlogoChanger] found ffmpeg"
-msgstr ""
+msgstr "[BootlogoChanger] heeft ffmpeg gevonden"
 
 msgid "[BootlogoChanger] no bootlogos for randomization selected"
-msgstr ""
+msgstr "[BootlogoChanger] geen bootlogo's voor randomisatie geselecteerd"
 
 msgid "[BootlogoChanger] previewPicture changed"
-msgstr ""
+msgstr "[BootlogoChanger] previewAfbeelding gewijzigd"
 
 msgid "[BootlogoChanger] randomization of bootlogos activated"
-msgstr ""
+msgstr "[BootlogoChanger] randomisatie van bootlogo's geactiveerd"
 
 msgid "[BootlogoChanger] randomization of bootlogos deactivated"
-msgstr ""
+msgstr "[BootlogoChanger] randomisatie van bootlogo's gedeactiveerd"
 
 msgid "[BootlogoChanger] randomization: bootlogo found"
-msgstr ""
+msgstr "[BootlogoChanger] randomisatie: bootlogo gevonden"
 
 msgid "[BootlogoChanger] selected bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] geselecteerde bootlogo's"
 
 msgid "deinstall"
-msgstr ""
+msgstr "verwijderen"
 
 msgid "found"
-msgstr ""
+msgstr "gevonden"
 
 msgid "install"
-msgstr ""
+msgstr "installeren"
 
 msgid "missing"
-msgstr ""
+msgstr "ontbreekt"
 
 msgid "off"
-msgstr ""
+msgstr "uit"
 
 msgid "on"
-msgstr ""
+msgstr "op"

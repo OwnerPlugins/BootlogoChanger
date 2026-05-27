@@ -15,187 +15,187 @@ msgstr ""
 # [lululla] <ekekaz@gmail.com>, 2025.
 #
 msgid "Activate the debug-output on console"
-msgstr ""
+msgstr "Aktifkan output debug di konsol"
 
 msgid "Bootlogo is excluded from random selection"
-msgstr ""
+msgstr "Bootlogo dikecualikan dari pemilihan acak"
 
 msgid "Bootlogo is included in random selection"
-msgstr ""
+msgstr "Bootlogo disertakan dalam pemilihan acak"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Membatalkan"
 
 msgid "Choose random bootlogo at the start of the box"
-msgstr ""
+msgstr "Pilih bootlogo acak di awal kotak"
 
 msgid "Copy logofiles failed"
-msgstr ""
+msgstr "Gagal menyalin file logo"
 
 msgid "Current bootlogo"
-msgstr ""
+msgstr "Bootlogo saat ini"
 
 msgid "Debugmode"
-msgstr ""
+msgstr "Modus debug"
 
 msgid "Deinstallation of FFmpeg failed"
-msgstr ""
+msgstr "Penghapusan instalasi FFmpeg gagal"
 
 msgid "Delete current mvi-files before changing bootlogo"
-msgstr ""
+msgstr "Hapus file mvi saat ini sebelum mengubah bootlogo"
 
 msgid "Directory with bootlogo folders"
-msgstr ""
+msgstr "Direktori dengan folder bootlogo"
 
 msgid "Display duration of the status messages (sec)"
-msgstr ""
+msgstr "Menampilkan durasi pesan status (detik)"
 
 msgid "Easily switch between different bootlogos"
-msgstr ""
+msgstr "Beralih dengan mudah di antara bootlogo yang berbeda"
 
 msgid "Exclude"
-msgstr ""
+msgstr "Mengecualikan"
 
 msgid "Exit plugin without saving"
-msgstr ""
+msgstr "Keluar dari plugin tanpa menyimpan"
 
 msgid "FFmpeg is needed to generate thumbnails from the mvi files"
-msgstr ""
+msgstr "FFmpeg diperlukan untuk menghasilkan thumbnail dari file mvi"
 
 msgid "FFmpeg ist missing, no preview pictures available - there is an option to install it in the stettings"
-msgstr ""
+msgstr "FFmpeg tidak ada, tidak ada gambar pratinjau yang tersedia - ada opsi untuk menginstalnya di pengaturan"
 
 msgid "FFmpeg removed successfully"
-msgstr ""
+msgstr "FFmpeg berhasil dihapus"
 
 msgid "FFmpeg successfully installed"
-msgstr ""
+msgstr "FFmpeg berhasil diinstal"
 
 msgid "First delete the mvi-files of the current bootlogo then copy the files of the new one"
-msgstr ""
+msgstr "Pertama-tama hapus file mvi dari bootlogo saat ini, lalu salin file yang baru"
 
 msgid "Found bootlogos"
-msgstr ""
+msgstr "Ditemukan bootlogo"
 
 msgid "Full screen view the selected bootlogo"
-msgstr ""
+msgstr "Tampilan layar penuh bootlogo yang dipilih"
 
 msgid "Hide directories without 'mvi'-files"
-msgstr ""
+msgstr "Sembunyikan direktori tanpa file 'mvi'"
 
 msgid "Hide empty directories"
-msgstr ""
+msgstr "Sembunyikan direktori kosong"
 
 msgid "How many seconds should status messages be displayed (1-60 sec)"
-msgstr ""
+msgstr "Berapa detik pesan status harus ditampilkan (1-60 detik)"
 
 msgid "Include"
-msgstr ""
+msgstr "Termasuk"
 
 msgid "Include or exlude logo in random choice"
-msgstr ""
+msgstr "Sertakan atau kecualikan logo dalam pilihan acak"
 
 msgid "Included Screens"
-msgstr ""
+msgstr "Layar yang Disertakan"
 
 msgid "Install/deinstall ffmpeg"
-msgstr ""
+msgstr "Instal/copot pemasangan ffmpeg"
 
 msgid "Installation of FFmpeg failed"
-msgstr ""
+msgstr "Instalasi FFmpeg gagal"
 
 msgid "No bootlogos found in directory"
-msgstr ""
+msgstr "Tidak ada bootlogo yang ditemukan di direktori"
 
 msgid "OK"
-msgstr ""
+msgstr "OKE"
 
 msgid "Open settings"
-msgstr ""
+msgstr "Buka pengaturan"
 
 msgid "Preview Logo"
-msgstr ""
+msgstr "Pratinjau Logo"
 
 msgid "Preview picture"
-msgstr ""
+msgstr "Pratinjau gambar"
 
 msgid "Random mode"
-msgstr ""
+msgstr "Modus acak"
 
 msgid "Random selection at startup disabled"
-msgstr ""
+msgstr "Pilihan acak saat startup dinonaktifkan"
 
 msgid "Random selection at startup enabled"
-msgstr ""
+msgstr "Pilihan acak saat startup diaktifkan"
 
 msgid "Save Changes and exit plugin"
-msgstr ""
+msgstr "Simpan Perubahan dan keluar dari plugin"
 
 msgid "Search for folders with boot logos in this directory"
-msgstr ""
+msgstr "Cari folder dengan logo boot di direktori ini"
 
 msgid "Which bootlogos should be displayed?"
-msgstr ""
+msgstr "Bootlogo mana yang harus ditampilkan?"
 
 msgid "Which logo should be displayed as a preview picture?"
-msgstr ""
+msgstr "Logo mana yang harus ditampilkan sebagai gambar pratinjau?"
 
 msgid "[BootlogoChanger] activated new bootlogo"
-msgstr ""
+msgstr "[BootlogoChanger] mengaktifkan bootlogo baru"
 
 msgid "[BootlogoChanger] activating new bootlogo failed"
-msgstr ""
+msgstr "[BootlogoChanger] gagal mengaktifkan bootlogo baru"
 
 msgid "[BootlogoChanger] copy failed"
-msgstr ""
+msgstr "Penyalinan [BootlogoChanger] gagal"
 
 msgid "[BootlogoChanger] deleting old bootlogo files"
-msgstr ""
+msgstr "[BootlogoChanger] menghapus file bootlogo lama"
 
 msgid "[BootlogoChanger] deleting previewPicture"
-msgstr ""
+msgstr "[BootlogoChanger] menghapus previewPicture"
 
 msgid "[BootlogoChanger] ffmpeg not found"
-msgstr ""
+msgstr "[BootlogoChanger] ffmpeg tidak ditemukan"
 
 msgid "[BootlogoChanger] found Bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] menemukan Bootlogo"
 
 msgid "[BootlogoChanger] found ffmpeg"
-msgstr ""
+msgstr "[BootlogoChanger] menemukan ffmpeg"
 
 msgid "[BootlogoChanger] no bootlogos for randomization selected"
-msgstr ""
+msgstr "[BootlogoChanger] tidak ada bootlogo untuk pengacakan yang dipilih"
 
 msgid "[BootlogoChanger] previewPicture changed"
-msgstr ""
+msgstr "[BootlogoChanger] pratinjauGambar berubah"
 
 msgid "[BootlogoChanger] randomization of bootlogos activated"
-msgstr ""
+msgstr "[BootlogoChanger] pengacakan bootlogo diaktifkan"
 
 msgid "[BootlogoChanger] randomization of bootlogos deactivated"
-msgstr ""
+msgstr "[BootlogoChanger] pengacakan bootlogo dinonaktifkan"
 
 msgid "[BootlogoChanger] randomization: bootlogo found"
-msgstr ""
+msgstr "Pengacakan [BootlogoChanger]: bootlogo ditemukan"
 
 msgid "[BootlogoChanger] selected bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] bootlogo yang dipilih"
 
 msgid "deinstall"
-msgstr ""
+msgstr "hapus instalan"
 
 msgid "found"
-msgstr ""
+msgstr "ditemukan"
 
 msgid "install"
-msgstr ""
+msgstr "memasang"
 
 msgid "missing"
-msgstr ""
+msgstr "hilang"
 
 msgid "off"
-msgstr ""
+msgstr "mati"
 
 msgid "on"
-msgstr ""
+msgstr "pada"

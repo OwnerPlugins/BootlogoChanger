@@ -16,187 +16,187 @@ msgstr ""
 # [lululla] <ekekaz@gmail.com>, 2025.
 #
 msgid "Activate the debug-output on console"
-msgstr ""
+msgstr "Aktiválja a hibakeresési kimenetet a konzolon"
 
 msgid "Bootlogo is excluded from random selection"
-msgstr ""
+msgstr "A Bootlogo ki van zárva a véletlenszerű kiválasztásból"
 
 msgid "Bootlogo is included in random selection"
-msgstr ""
+msgstr "A Bootlogo szerepel a véletlenszerű kiválasztásban"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Mégsem"
 
 msgid "Choose random bootlogo at the start of the box"
-msgstr ""
+msgstr "Válassza ki a véletlenszerű bootlogót a doboz elején"
 
 msgid "Copy logofiles failed"
-msgstr ""
+msgstr "A logófájlok másolása nem sikerült"
 
 msgid "Current bootlogo"
-msgstr ""
+msgstr "Jelenlegi bootlogó"
 
 msgid "Debugmode"
-msgstr ""
+msgstr "Hibakeresési mód"
 
 msgid "Deinstallation of FFmpeg failed"
-msgstr ""
+msgstr "Az FFmpeg eltávolítása nem sikerült"
 
 msgid "Delete current mvi-files before changing bootlogo"
-msgstr ""
+msgstr "A bootlogo megváltoztatása előtt törölje az aktuális mvi-fájlokat"
 
 msgid "Directory with bootlogo folders"
-msgstr ""
+msgstr "Könyvtár bootlogo mappákkal"
 
 msgid "Display duration of the status messages (sec)"
-msgstr ""
+msgstr "Az állapotüzenetek megjelenítési időtartama (mp)"
 
 msgid "Easily switch between different bootlogos"
-msgstr ""
+msgstr "Könnyen válthat a különböző bootlogók között"
 
 msgid "Exclude"
-msgstr ""
+msgstr "Kizárás"
 
 msgid "Exit plugin without saving"
-msgstr ""
+msgstr "Mentés nélkül lépjen ki a bővítményből"
 
 msgid "FFmpeg is needed to generate thumbnails from the mvi files"
-msgstr ""
+msgstr "Az FFmpeg szükséges a miniatűrök létrehozásához az mvi fájlokból"
 
 msgid "FFmpeg ist missing, no preview pictures available - there is an option to install it in the stettings"
-msgstr ""
+msgstr "Az FFmpeg hiányzik, nincs előnézeti kép - lehetőség van a telepítésre a beállításokban"
 
 msgid "FFmpeg removed successfully"
-msgstr ""
+msgstr "Az FFmpeg sikeresen eltávolítva"
 
 msgid "FFmpeg successfully installed"
-msgstr ""
+msgstr "Az FFmpeg sikeresen telepítve"
 
 msgid "First delete the mvi-files of the current bootlogo then copy the files of the new one"
-msgstr ""
+msgstr "Először törölje az aktuális bootlogó mvi-fájljait, majd másolja az új fájljait"
 
 msgid "Found bootlogos"
-msgstr ""
+msgstr "Bootlogókat találtam"
 
 msgid "Full screen view the selected bootlogo"
-msgstr ""
+msgstr "A kiválasztott rendszerindító logó teljes képernyős megtekintése"
 
 msgid "Hide directories without 'mvi'-files"
-msgstr ""
+msgstr "Könyvtárak elrejtése 'mvi'-fájlok nélkül"
 
 msgid "Hide empty directories"
-msgstr ""
+msgstr "Üres könyvtárak elrejtése"
 
 msgid "How many seconds should status messages be displayed (1-60 sec)"
-msgstr ""
+msgstr "Hány másodpercig jelenjenek meg az állapotüzenetek (1-60 mp)"
 
 msgid "Include"
-msgstr ""
+msgstr "Tartalmazza"
 
 msgid "Include or exlude logo in random choice"
-msgstr ""
+msgstr "A logó felvétele vagy kizárása véletlenszerű választásnál"
 
 msgid "Included Screens"
-msgstr ""
+msgstr "Mellékelt képernyők"
 
 msgid "Install/deinstall ffmpeg"
-msgstr ""
+msgstr "Az ffmpeg telepítése/eltávolítása"
 
 msgid "Installation of FFmpeg failed"
-msgstr ""
+msgstr "Az FFmpeg telepítése nem sikerült"
 
 msgid "No bootlogos found in directory"
-msgstr ""
+msgstr "Nem található bootlogos a könyvtárban"
 
 msgid "OK"
-msgstr ""
+msgstr "RENDBEN"
 
 msgid "Open settings"
-msgstr ""
+msgstr "Nyissa meg a beállításokat"
 
 msgid "Preview Logo"
-msgstr ""
+msgstr "Embléma előnézete"
 
 msgid "Preview picture"
-msgstr ""
+msgstr "Előnézeti kép"
 
 msgid "Random mode"
-msgstr ""
+msgstr "Véletlenszerű mód"
 
 msgid "Random selection at startup disabled"
-msgstr ""
+msgstr "Véletlenszerű kiválasztás indításkor letiltva"
 
 msgid "Random selection at startup enabled"
-msgstr ""
+msgstr "Véletlenszerű kiválasztás indításkor engedélyezve"
 
 msgid "Save Changes and exit plugin"
-msgstr ""
+msgstr "Mentse a változtatásokat, és lépjen ki a beépülő modulból"
 
 msgid "Search for folders with boot logos in this directory"
-msgstr ""
+msgstr "Keresse meg a rendszerindító logókat tartalmazó mappákat ebben a könyvtárban"
 
 msgid "Which bootlogos should be displayed?"
-msgstr ""
+msgstr "Milyen bootlogókat kell megjeleníteni?"
 
 msgid "Which logo should be displayed as a preview picture?"
-msgstr ""
+msgstr "Melyik logót kell megjeleníteni előnézeti képként?"
 
 msgid "[BootlogoChanger] activated new bootlogo"
-msgstr ""
+msgstr "[BootlogoChanger] aktiválta az új bootlogót"
 
 msgid "[BootlogoChanger] activating new bootlogo failed"
-msgstr ""
+msgstr "[BootlogoChanger] az új bootlogo aktiválása nem sikerült"
 
 msgid "[BootlogoChanger] copy failed"
-msgstr ""
+msgstr "A [BootlogoChanger] másolása nem sikerült"
 
 msgid "[BootlogoChanger] deleting old bootlogo files"
-msgstr ""
+msgstr "[BootlogoChanger] a régi bootlogo fájlok törlése"
 
 msgid "[BootlogoChanger] deleting previewPicture"
-msgstr ""
+msgstr "[BootlogoChanger] previewPicture törlése"
 
 msgid "[BootlogoChanger] ffmpeg not found"
-msgstr ""
+msgstr "[BootlogoChanger] ffmpeg nem található"
 
 msgid "[BootlogoChanger] found Bootlogos"
-msgstr ""
+msgstr "A [BootlogoChanger] Bootlogos-t talált"
 
 msgid "[BootlogoChanger] found ffmpeg"
-msgstr ""
+msgstr "[BootlogoChanger] talált ffmpeg"
 
 msgid "[BootlogoChanger] no bootlogos for randomization selected"
-msgstr ""
+msgstr "[BootlogoChanger] nincs kiválasztva véletlenszerű rendszerindítási logó"
 
 msgid "[BootlogoChanger] previewPicture changed"
-msgstr ""
+msgstr "[BootlogoChanger] előnézet A kép megváltozott"
 
 msgid "[BootlogoChanger] randomization of bootlogos activated"
-msgstr ""
+msgstr "[BootlogoChanger] a bootlogók véletlenszerűsítése aktiválva"
 
 msgid "[BootlogoChanger] randomization of bootlogos deactivated"
-msgstr ""
+msgstr "[BootlogoChanger] A rendszerindító logók véletlenszerűsítése deaktiválva"
 
 msgid "[BootlogoChanger] randomization: bootlogo found"
-msgstr ""
+msgstr "[BootlogoChanger] randomizálás: bootlogo található"
 
 msgid "[BootlogoChanger] selected bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] kiválasztott rendszerindító logókat"
 
 msgid "deinstall"
-msgstr ""
+msgstr "távolítsa el"
 
 msgid "found"
-msgstr ""
+msgstr "talált"
 
 msgid "install"
-msgstr ""
+msgstr "telepíteni"
 
 msgid "missing"
-msgstr ""
+msgstr "hiányzó"
 
 msgid "off"
-msgstr ""
+msgstr "le"
 
 msgid "on"
-msgstr ""
+msgstr "-on"

@@ -15,187 +15,187 @@ msgstr ""
 # [lululla] <ekekaz@gmail.com>, 2025.
 #
 msgid "Activate the debug-output on console"
-msgstr ""
+msgstr "激活控制台上的调试输出"
 
 msgid "Bootlogo is excluded from random selection"
-msgstr ""
+msgstr "Bootlogo 被排除在随机选择之外"
 
 msgid "Bootlogo is included in random selection"
-msgstr ""
+msgstr "Bootlogo 包含在随机选择中"
 
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 msgid "Choose random bootlogo at the start of the box"
-msgstr ""
+msgstr "在盒子的开头选择随机的引导标志"
 
 msgid "Copy logofiles failed"
-msgstr ""
+msgstr "复制徽标文件失败"
 
 msgid "Current bootlogo"
-msgstr ""
+msgstr "当前引导标志"
 
 msgid "Debugmode"
-msgstr ""
+msgstr "调试模式"
 
 msgid "Deinstallation of FFmpeg failed"
-msgstr ""
+msgstr "FFmpeg卸载失败"
 
 msgid "Delete current mvi-files before changing bootlogo"
-msgstr ""
+msgstr "在更改 bootlogo 之前删除当前的 mvi 文件"
 
 msgid "Directory with bootlogo folders"
-msgstr ""
+msgstr "带有 bootlogo 文件夹的目录"
 
 msgid "Display duration of the status messages (sec)"
-msgstr ""
+msgstr "状态消息的显示持续时间（秒）"
 
 msgid "Easily switch between different bootlogos"
-msgstr ""
+msgstr "轻松切换不同的启动徽标"
 
 msgid "Exclude"
-msgstr ""
+msgstr "排除"
 
 msgid "Exit plugin without saving"
-msgstr ""
+msgstr "退出插件而不保存"
 
 msgid "FFmpeg is needed to generate thumbnails from the mvi files"
-msgstr ""
+msgstr "需要 FFmpeg 从 mvi 文件生成缩略图"
 
 msgid "FFmpeg ist missing, no preview pictures available - there is an option to install it in the stettings"
-msgstr ""
+msgstr "FFmpeg 缺失，没有可用的预览图片 - 设置中有一个安装它的选项"
 
 msgid "FFmpeg removed successfully"
-msgstr ""
+msgstr "FFmpeg 删除成功"
 
 msgid "FFmpeg successfully installed"
-msgstr ""
+msgstr "FFmpeg安装成功"
 
 msgid "First delete the mvi-files of the current bootlogo then copy the files of the new one"
-msgstr ""
+msgstr "首先删除当前bootlogo的mvi文件，然后复制新的文件"
 
 msgid "Found bootlogos"
-msgstr ""
+msgstr "找到引导标志"
 
 msgid "Full screen view the selected bootlogo"
-msgstr ""
+msgstr "全屏查看所选的启动标志"
 
 msgid "Hide directories without 'mvi'-files"
-msgstr ""
+msgstr "隐藏没有“mvi”文件的目录"
 
 msgid "Hide empty directories"
-msgstr ""
+msgstr "隐藏空目录"
 
 msgid "How many seconds should status messages be displayed (1-60 sec)"
-msgstr ""
+msgstr "状态消息应显示多少秒（1-60 秒）"
 
 msgid "Include"
-msgstr ""
+msgstr "包括"
 
 msgid "Include or exlude logo in random choice"
-msgstr ""
+msgstr "在随机选择中包含或排除徽标"
 
 msgid "Included Screens"
-msgstr ""
+msgstr "包含的屏幕"
 
 msgid "Install/deinstall ffmpeg"
-msgstr ""
+msgstr "安装/卸载 ffmpeg"
 
 msgid "Installation of FFmpeg failed"
-msgstr ""
+msgstr "FFmpeg安装失败"
 
 msgid "No bootlogos found in directory"
-msgstr ""
+msgstr "在目录中找不到 bootlogos"
 
 msgid "OK"
-msgstr ""
+msgstr "好的"
 
 msgid "Open settings"
-msgstr ""
+msgstr "打开设置"
 
 msgid "Preview Logo"
-msgstr ""
+msgstr "预览标志"
 
 msgid "Preview picture"
-msgstr ""
+msgstr "预览图片"
 
 msgid "Random mode"
-msgstr ""
+msgstr "随机模式"
 
 msgid "Random selection at startup disabled"
-msgstr ""
+msgstr "启动时随机选择已禁用"
 
 msgid "Random selection at startup enabled"
-msgstr ""
+msgstr "启用启动时随机选择"
 
 msgid "Save Changes and exit plugin"
-msgstr ""
+msgstr "保存更改并退出插件"
 
 msgid "Search for folders with boot logos in this directory"
-msgstr ""
+msgstr "在此目录下搜索有开机标志的文件夹"
 
 msgid "Which bootlogos should be displayed?"
-msgstr ""
+msgstr "应该显示哪些引导标志？"
 
 msgid "Which logo should be displayed as a preview picture?"
-msgstr ""
+msgstr "哪个标志应该显示为预览图片？"
 
 msgid "[BootlogoChanger] activated new bootlogo"
-msgstr ""
+msgstr "[BootlogoChanger] 激活新的 bootlogo"
 
 msgid "[BootlogoChanger] activating new bootlogo failed"
-msgstr ""
+msgstr "[BootlogoChanger] 激活新的 bootlogo 失败"
 
 msgid "[BootlogoChanger] copy failed"
-msgstr ""
+msgstr "[BootlogoChanger] 复制失败"
 
 msgid "[BootlogoChanger] deleting old bootlogo files"
-msgstr ""
+msgstr "[BootlogoChanger] 删除旧的 bo​​otlogo 文件"
 
 msgid "[BootlogoChanger] deleting previewPicture"
-msgstr ""
+msgstr "[BootlogoChanger] 删除预览图片"
 
 msgid "[BootlogoChanger] ffmpeg not found"
-msgstr ""
+msgstr "[BootlogoChanger] 未找到 ffmpeg"
 
 msgid "[BootlogoChanger] found Bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] 找到 Bootlogos"
 
 msgid "[BootlogoChanger] found ffmpeg"
-msgstr ""
+msgstr "[BootlogoChanger] 找到 ffmpeg"
 
 msgid "[BootlogoChanger] no bootlogos for randomization selected"
-msgstr ""
+msgstr "[BootlogoChanger] 没有选择随机化的启动徽标"
 
 msgid "[BootlogoChanger] previewPicture changed"
-msgstr ""
+msgstr "[BootlogoChanger] 预览图片已更改"
 
 msgid "[BootlogoChanger] randomization of bootlogos activated"
-msgstr ""
+msgstr "[BootlogoChanger] 启动启动徽标随机化"
 
 msgid "[BootlogoChanger] randomization of bootlogos deactivated"
-msgstr ""
+msgstr "[BootlogoChanger] bootlogos 的随机化已停用"
 
 msgid "[BootlogoChanger] randomization: bootlogo found"
-msgstr ""
+msgstr "[BootlogoChanger] 随机化：找到 bootlogo"
 
 msgid "[BootlogoChanger] selected bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] 选择的启动徽标"
 
 msgid "deinstall"
-msgstr ""
+msgstr "卸载"
 
 msgid "found"
-msgstr ""
+msgstr "成立"
 
 msgid "install"
-msgstr ""
+msgstr "安装"
 
 msgid "missing"
-msgstr ""
+msgstr "丢失的"
 
 msgid "off"
-msgstr ""
+msgstr "离开"
 
 msgid "on"
-msgstr ""
+msgstr "在"

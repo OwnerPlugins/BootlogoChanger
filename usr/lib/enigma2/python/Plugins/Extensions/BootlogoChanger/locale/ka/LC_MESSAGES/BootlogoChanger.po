@@ -15,187 +15,187 @@ msgstr ""
 # [lululla] <ekekaz@gmail.com>, 2025.
 #
 msgid "Activate the debug-output on console"
-msgstr ""
+msgstr "გაააქტიურეთ გამართვის გამომავალი კონსოლზე"
 
 msgid "Bootlogo is excluded from random selection"
-msgstr ""
+msgstr "Bootlogo გამორიცხულია შემთხვევითი შერჩევისგან"
 
 msgid "Bootlogo is included in random selection"
-msgstr ""
+msgstr "Bootlogo შედის შემთხვევით შერჩევაში"
 
 msgid "Cancel"
-msgstr ""
+msgstr "გაუქმება"
 
 msgid "Choose random bootlogo at the start of the box"
-msgstr ""
+msgstr "აირჩიეთ შემთხვევითი bootlogo ყუთის დასაწყისში"
 
 msgid "Copy logofiles failed"
-msgstr ""
+msgstr "ლოგოფაილების კოპირება ვერ მოხერხდა"
 
 msgid "Current bootlogo"
-msgstr ""
+msgstr "მიმდინარე bootlogo"
 
 msgid "Debugmode"
-msgstr ""
+msgstr "გამართვის რეჟიმი"
 
 msgid "Deinstallation of FFmpeg failed"
-msgstr ""
+msgstr "FFmpeg-ის დეინსტალაცია ვერ მოხერხდა"
 
 msgid "Delete current mvi-files before changing bootlogo"
-msgstr ""
+msgstr "წაშალეთ მიმდინარე mvi ფაილები bootlogo-ს შეცვლამდე"
 
 msgid "Directory with bootlogo folders"
-msgstr ""
+msgstr "დირექტორია bootlogo საქაღალდეებით"
 
 msgid "Display duration of the status messages (sec)"
-msgstr ""
+msgstr "სტატუსის შეტყობინებების ხანგრძლივობის ჩვენება (წმ)"
 
 msgid "Easily switch between different bootlogos"
-msgstr ""
+msgstr "მარტივად გადართეთ სხვადასხვა ბუტლოგოს შორის"
 
 msgid "Exclude"
-msgstr ""
+msgstr "გამორიცხეთ"
 
 msgid "Exit plugin without saving"
-msgstr ""
+msgstr "მოდულიდან გასვლა შენახვის გარეშე"
 
 msgid "FFmpeg is needed to generate thumbnails from the mvi files"
-msgstr ""
+msgstr "FFmpeg საჭიროა mvi ფაილებიდან მინიატურების გენერირებისთვის"
 
 msgid "FFmpeg ist missing, no preview pictures available - there is an option to install it in the stettings"
-msgstr ""
+msgstr "FFmpeg აკლია, წინასწარი გადახედვის სურათები არ არის ხელმისაწვდომი - არის პარამეტრებში მისი ინსტალაციის ვარიანტი"
 
 msgid "FFmpeg removed successfully"
-msgstr ""
+msgstr "FFmpeg წარმატებით წაიშალა"
 
 msgid "FFmpeg successfully installed"
-msgstr ""
+msgstr "FFmpeg წარმატებით დაინსტალირდა"
 
 msgid "First delete the mvi-files of the current bootlogo then copy the files of the new one"
-msgstr ""
+msgstr "ჯერ წაშალეთ მიმდინარე bootlogo-ის mvi-ფაილები, შემდეგ დააკოპირეთ ახალი ფაილები"
 
 msgid "Found bootlogos"
-msgstr ""
+msgstr "ნაპოვნია ბუტლოგოები"
 
 msgid "Full screen view the selected bootlogo"
-msgstr ""
+msgstr "სრული ეკრანის ნახვა არჩეული bootlogo"
 
 msgid "Hide directories without 'mvi'-files"
-msgstr ""
+msgstr "დამალე დირექტორიები 'mvi'-ფაილების გარეშე"
 
 msgid "Hide empty directories"
-msgstr ""
+msgstr "ცარიელი დირექტორიების დამალვა"
 
 msgid "How many seconds should status messages be displayed (1-60 sec)"
-msgstr ""
+msgstr "რამდენი წამი უნდა იყოს ნაჩვენები სტატუსის შეტყობინებები (1-60 წმ)"
 
 msgid "Include"
-msgstr ""
+msgstr "ჩართეთ"
 
 msgid "Include or exlude logo in random choice"
-msgstr ""
+msgstr "ლოგოს ჩართვა ან გამორიცხვა შემთხვევით არჩევანში"
 
 msgid "Included Screens"
-msgstr ""
+msgstr "მოყვება ეკრანები"
 
 msgid "Install/deinstall ffmpeg"
-msgstr ""
+msgstr "დააინსტალირეთ/წაშალეთ ffmpeg"
 
 msgid "Installation of FFmpeg failed"
-msgstr ""
+msgstr "FFmpeg-ის ინსტალაცია ვერ მოხერხდა"
 
 msgid "No bootlogos found in directory"
-msgstr ""
+msgstr "დირექტორიაში არ მოიძებნა bootlogos"
 
 msgid "OK"
 msgstr ""
 
 msgid "Open settings"
-msgstr ""
+msgstr "გახსენით პარამეტრები"
 
 msgid "Preview Logo"
-msgstr ""
+msgstr "ლოგოს გადახედვა"
 
 msgid "Preview picture"
-msgstr ""
+msgstr "სურათის გადახედვა"
 
 msgid "Random mode"
-msgstr ""
+msgstr "შემთხვევითი რეჟიმი"
 
 msgid "Random selection at startup disabled"
-msgstr ""
+msgstr "გაშვებისას შემთხვევითი შერჩევა გამორთულია"
 
 msgid "Random selection at startup enabled"
-msgstr ""
+msgstr "გაშვებისას შემთხვევითი შერჩევა ჩართულია"
 
 msgid "Save Changes and exit plugin"
-msgstr ""
+msgstr "შეინახეთ ცვლილებები და გამოდით დანამატიდან"
 
 msgid "Search for folders with boot logos in this directory"
-msgstr ""
+msgstr "მოძებნეთ საქაღალდეები ჩატვირთვის ლოგოებით ამ დირექტორიაში"
 
 msgid "Which bootlogos should be displayed?"
-msgstr ""
+msgstr "რომელი bootlogos უნდა იყოს ნაჩვენები?"
 
 msgid "Which logo should be displayed as a preview picture?"
-msgstr ""
+msgstr "რომელი ლოგო უნდა იყოს ნაჩვენები წინასწარი სურათის სახით?"
 
 msgid "[BootlogoChanger] activated new bootlogo"
-msgstr ""
+msgstr "[BootlogoChanger]-მა გააქტიურა ახალი ჩატვირთვის ლოგო"
 
 msgid "[BootlogoChanger] activating new bootlogo failed"
-msgstr ""
+msgstr "[BootlogoChanger]-ის ახალი ჩატვირთვის გააქტიურება ვერ მოხერხდა"
 
 msgid "[BootlogoChanger] copy failed"
-msgstr ""
+msgstr "[BootlogoChanger] კოპირება ვერ მოხერხდა"
 
 msgid "[BootlogoChanger] deleting old bootlogo files"
-msgstr ""
+msgstr "[BootlogoChanger] ძველი bootlogo ფაილების წაშლა"
 
 msgid "[BootlogoChanger] deleting previewPicture"
-msgstr ""
+msgstr "[BootlogoChanger] იშლება გადახედვის სურათი"
 
 msgid "[BootlogoChanger] ffmpeg not found"
-msgstr ""
+msgstr "[BootlogoChanger] ffmpeg ვერ მოიძებნა"
 
 msgid "[BootlogoChanger] found Bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] იპოვა Bootlogos"
 
 msgid "[BootlogoChanger] found ffmpeg"
-msgstr ""
+msgstr "[BootlogoChanger] ნაპოვნია ffmpeg"
 
 msgid "[BootlogoChanger] no bootlogos for randomization selected"
-msgstr ""
+msgstr "[BootlogoChanger] არ არის არჩეული რანდომიზაციისთვის ბუტლოგოები"
 
 msgid "[BootlogoChanger] previewPicture changed"
-msgstr ""
+msgstr "[BootlogoChanger] previewსურათი შეიცვალა"
 
 msgid "[BootlogoChanger] randomization of bootlogos activated"
-msgstr ""
+msgstr "[BootlogoChanger] გააქტიურებულია bootlogos-ის რანდომიზაცია"
 
 msgid "[BootlogoChanger] randomization of bootlogos deactivated"
-msgstr ""
+msgstr "[BootlogoChanger] bootlogos-ის რანდომიზაცია გამორთულია"
 
 msgid "[BootlogoChanger] randomization: bootlogo found"
-msgstr ""
+msgstr "[BootlogoChanger] რანდომიზაცია: ნაპოვნია bootlogo"
 
 msgid "[BootlogoChanger] selected bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] არჩეული bootlogos"
 
 msgid "deinstall"
-msgstr ""
+msgstr "დეინსტალაცია"
 
 msgid "found"
-msgstr ""
+msgstr "ნაპოვნია"
 
 msgid "install"
-msgstr ""
+msgstr "დააინსტალირეთ"
 
 msgid "missing"
-msgstr ""
+msgstr "დაკარგული"
 
 msgid "off"
-msgstr ""
+msgstr "გამორთულია"
 
 msgid "on"
 msgstr ""

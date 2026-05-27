@@ -15,187 +15,187 @@ msgstr ""
 # [lululla] <ekekaz@gmail.com>, 2025.
 #
 msgid "Activate the debug-output on console"
-msgstr ""
+msgstr "បើកដំណើរការលទ្ធផលបំបាត់កំហុសនៅលើកុងសូល។"
 
 msgid "Bootlogo is excluded from random selection"
-msgstr ""
+msgstr "Bootlogo ត្រូវបានដកចេញពីការជ្រើសរើសចៃដន្យ"
 
 msgid "Bootlogo is included in random selection"
-msgstr ""
+msgstr "Bootlogo ត្រូវបានរួមបញ្ចូលក្នុងការជ្រើសរើសដោយចៃដន្យ"
 
 msgid "Cancel"
-msgstr ""
+msgstr "បោះបង់"
 
 msgid "Choose random bootlogo at the start of the box"
-msgstr ""
+msgstr "ជ្រើសរើស bootlogo ចៃដន្យនៅដើមប្រអប់"
 
 msgid "Copy logofiles failed"
-msgstr ""
+msgstr "ការចម្លងឯកសារឡូហ្គោបានបរាជ័យ"
 
 msgid "Current bootlogo"
-msgstr ""
+msgstr "bootlogo បច្ចុប្បន្ន"
 
 msgid "Debugmode"
-msgstr ""
+msgstr "របៀបបំបាត់កំហុស"
 
 msgid "Deinstallation of FFmpeg failed"
-msgstr ""
+msgstr "ការដំឡើង FFmpeg បានបរាជ័យ"
 
 msgid "Delete current mvi-files before changing bootlogo"
-msgstr ""
+msgstr "លុបឯកសារ mvi-បច្ចុប្បន្ន មុនពេលផ្លាស់ប្តូរ bootlogo"
 
 msgid "Directory with bootlogo folders"
-msgstr ""
+msgstr "ថតឯកសារដែលមាន bootlogo"
 
 msgid "Display duration of the status messages (sec)"
-msgstr ""
+msgstr "បង្ហាញរយៈពេលនៃសារស្ថានភាព (វិនាទី)"
 
 msgid "Easily switch between different bootlogos"
-msgstr ""
+msgstr "ងាយស្រួលប្តូររវាង bootlogos ផ្សេងៗគ្នា"
 
 msgid "Exclude"
-msgstr ""
+msgstr "មិនរាប់បញ្ចូល"
 
 msgid "Exit plugin without saving"
-msgstr ""
+msgstr "ចេញពីកម្មវិធីជំនួយដោយមិនរក្សាទុក"
 
 msgid "FFmpeg is needed to generate thumbnails from the mvi files"
-msgstr ""
+msgstr "FFmpeg គឺចាំបាច់ដើម្បីបង្កើតរូបភាពតូចៗពីឯកសារ mvi"
 
 msgid "FFmpeg ist missing, no preview pictures available - there is an option to install it in the stettings"
-msgstr ""
+msgstr "បាត់ FFmpeg មិនមានរូបភាពមើលជាមុនទេ - មានជម្រើសដើម្បីដំឡើងវានៅក្នុងការកំណត់"
 
 msgid "FFmpeg removed successfully"
-msgstr ""
+msgstr "FFmpeg ត្រូវបានដកចេញដោយជោគជ័យ"
 
 msgid "FFmpeg successfully installed"
-msgstr ""
+msgstr "FFmpeg បានដំឡើងដោយជោគជ័យ"
 
 msgid "First delete the mvi-files of the current bootlogo then copy the files of the new one"
-msgstr ""
+msgstr "ដំបូងលុបឯកសារ mvi នៃ bootlogo បច្ចុប្បន្ន បន្ទាប់មកចម្លងឯកសារថ្មី។"
 
 msgid "Found bootlogos"
-msgstr ""
+msgstr "បានរកឃើញ bootlogos"
 
 msgid "Full screen view the selected bootlogo"
-msgstr ""
+msgstr "មើលពេញអេក្រង់ bootlogo ដែលបានជ្រើសរើស"
 
 msgid "Hide directories without 'mvi'-files"
-msgstr ""
+msgstr "លាក់ថតដោយគ្មានឯកសារ 'mvi'"
 
 msgid "Hide empty directories"
-msgstr ""
+msgstr "លាក់ថតទទេ"
 
 msgid "How many seconds should status messages be displayed (1-60 sec)"
-msgstr ""
+msgstr "តើត្រូវបង្ហាញសារស្ថានភាពប៉ុន្មានវិនាទី (1-60 វិ)"
 
 msgid "Include"
-msgstr ""
+msgstr "រួមបញ្ចូល"
 
 msgid "Include or exlude logo in random choice"
-msgstr ""
+msgstr "រួមបញ្ចូល ឬដករូបសញ្ញាជាជម្រើសចៃដន្យ"
 
 msgid "Included Screens"
-msgstr ""
+msgstr "អេក្រង់រួមបញ្ចូល"
 
 msgid "Install/deinstall ffmpeg"
-msgstr ""
+msgstr "ដំឡើង/លុប ffmpeg"
 
 msgid "Installation of FFmpeg failed"
-msgstr ""
+msgstr "ការដំឡើង FFmpeg បានបរាជ័យ"
 
 msgid "No bootlogos found in directory"
-msgstr ""
+msgstr "រកមិនឃើញ bootlogos នៅក្នុងថតឯកសារទេ។"
 
 msgid "OK"
-msgstr ""
+msgstr "យល់ព្រម"
 
 msgid "Open settings"
-msgstr ""
+msgstr "បើកការកំណត់"
 
 msgid "Preview Logo"
-msgstr ""
+msgstr "មើលរូបសញ្ញាជាមុន"
 
 msgid "Preview picture"
-msgstr ""
+msgstr "មើលរូបភាពជាមុន"
 
 msgid "Random mode"
-msgstr ""
+msgstr "របៀបចៃដន្យ"
 
 msgid "Random selection at startup disabled"
-msgstr ""
+msgstr "ការជ្រើសរើសចៃដន្យនៅពេលចាប់ផ្តើមត្រូវបានបិទ"
 
 msgid "Random selection at startup enabled"
-msgstr ""
+msgstr "ការជ្រើសរើសចៃដន្យនៅពេលចាប់ផ្តើមត្រូវបានបើក"
 
 msgid "Save Changes and exit plugin"
-msgstr ""
+msgstr "រក្សាទុកការផ្លាស់ប្តូរ ហើយចេញពីកម្មវិធីជំនួយ"
 
 msgid "Search for folders with boot logos in this directory"
-msgstr ""
+msgstr "ស្វែងរកថតដែលមានឡូហ្គោចាប់ផ្ដើមនៅក្នុងថតនេះ។"
 
 msgid "Which bootlogos should be displayed?"
-msgstr ""
+msgstr "តើ bootlogos មួយណាគួរបង្ហាញ?"
 
 msgid "Which logo should be displayed as a preview picture?"
-msgstr ""
+msgstr "តើរូបសញ្ញាមួយណាគួរបង្ហាញជារូបភាពមើលជាមុន?"
 
 msgid "[BootlogoChanger] activated new bootlogo"
-msgstr ""
+msgstr "[BootlogoChanger] បានធ្វើឱ្យសកម្ម bootlogo ថ្មី។"
 
 msgid "[BootlogoChanger] activating new bootlogo failed"
-msgstr ""
+msgstr "[BootlogoChanger] ការធ្វើឱ្យសកម្ម bootlogo ថ្មីបានបរាជ័យ"
 
 msgid "[BootlogoChanger] copy failed"
-msgstr ""
+msgstr "ការចម្លង [BootlogoChanger] បានបរាជ័យ"
 
 msgid "[BootlogoChanger] deleting old bootlogo files"
-msgstr ""
+msgstr "[BootlogoChanger] ការលុបឯកសារ bootlogo ចាស់"
 
 msgid "[BootlogoChanger] deleting previewPicture"
-msgstr ""
+msgstr "[BootlogoChanger] ការលុបរូបភាពមើលជាមុន"
 
 msgid "[BootlogoChanger] ffmpeg not found"
-msgstr ""
+msgstr "[BootlogoChanger] ffmpeg រកមិនឃើញទេ។"
 
 msgid "[BootlogoChanger] found Bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] បានរកឃើញ Bootlogos"
 
 msgid "[BootlogoChanger] found ffmpeg"
-msgstr ""
+msgstr "[BootlogoChanger] បានរកឃើញ ffmpeg"
 
 msgid "[BootlogoChanger] no bootlogos for randomization selected"
-msgstr ""
+msgstr "[BootlogoChanger] គ្មាន bootlogos សម្រាប់ចៃដន្យដែលបានជ្រើសរើសទេ។"
 
 msgid "[BootlogoChanger] previewPicture changed"
-msgstr ""
+msgstr "[BootlogoChanger] ការមើលជាមុនរូបភាពបានផ្លាស់ប្តូរ"
 
 msgid "[BootlogoChanger] randomization of bootlogos activated"
-msgstr ""
+msgstr "[BootlogoChanger] ការចៃដន្យនៃ bootlogos ត្រូវបានធ្វើឱ្យសកម្ម"
 
 msgid "[BootlogoChanger] randomization of bootlogos deactivated"
-msgstr ""
+msgstr "[BootlogoChanger] ការចៃដន្យនៃ bootlogos ត្រូវបានធ្វើឱ្យអសកម្ម"
 
 msgid "[BootlogoChanger] randomization: bootlogo found"
-msgstr ""
+msgstr "[BootlogoChanger] ចៃដន្យ៖ បានរកឃើញ bootlogo"
 
 msgid "[BootlogoChanger] selected bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] បានជ្រើសរើស bootlogos"
 
 msgid "deinstall"
-msgstr ""
+msgstr "លុប"
 
 msgid "found"
-msgstr ""
+msgstr "បានរកឃើញ"
 
 msgid "install"
-msgstr ""
+msgstr "ដំឡើង"
 
 msgid "missing"
-msgstr ""
+msgstr "បាត់"
 
 msgid "off"
-msgstr ""
+msgstr "បិទ"
 
 msgid "on"
-msgstr ""
+msgstr "នៅលើ"

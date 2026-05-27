@@ -15,184 +15,184 @@ msgstr ""
 # [lululla] <ekekaz@gmail.com>, 2025.
 #
 msgid "Activate the debug-output on console"
-msgstr ""
+msgstr "ကွန်ဆိုးလ်တွင် အမှားရှာအထွက်အားကို အသက်သွင်းပါ။"
 
 msgid "Bootlogo is excluded from random selection"
-msgstr ""
+msgstr "Bootlogo ကို ကျပန်းရွေးချယ်မှုမှ ဖယ်ထုတ်ထားသည်။"
 
 msgid "Bootlogo is included in random selection"
-msgstr ""
+msgstr "Bootlogo ကို ကျပန်းရွေးချယ်မှုတွင် ထည့်သွင်းထားသည်။"
 
 msgid "Cancel"
-msgstr ""
+msgstr "မလုပ်တော့"
 
 msgid "Choose random bootlogo at the start of the box"
-msgstr ""
+msgstr "အကွက်၏အစတွင် ကျပန်း Bootlogo ကို ရွေးပါ။"
 
 msgid "Copy logofiles failed"
-msgstr ""
+msgstr "လိုဂိုဖိုင်များကို ကူးယူခြင်း မအောင်မြင်ပါ။"
 
 msgid "Current bootlogo"
-msgstr ""
+msgstr "လက်ရှိ bootlogo"
 
 msgid "Debugmode"
-msgstr ""
+msgstr "အမှားရှာမုဒ်"
 
 msgid "Deinstallation of FFmpeg failed"
-msgstr ""
+msgstr "FFmpeg ကို ဖယ်ရှားခြင်း မအောင်မြင်ပါ။"
 
 msgid "Delete current mvi-files before changing bootlogo"
-msgstr ""
+msgstr "Bootlogo မပြောင်းမီ လက်ရှိ mvi-ဖိုင်များကို ဖျက်ပါ။"
 
 msgid "Directory with bootlogo folders"
-msgstr ""
+msgstr "bootlogo ဖိုင်တွဲများဖြင့် လမ်းညွှန်"
 
 msgid "Display duration of the status messages (sec)"
-msgstr ""
+msgstr "အခြေအနေ မက်ဆေ့ချ်များ ပြသသည့် ကြာချိန် (စက္ကန့်)"
 
 msgid "Easily switch between different bootlogos"
-msgstr ""
+msgstr "မတူညီသော bootlogos များကြား လွယ်ကူစွာပြောင်းပါ။"
 
 msgid "Exclude"
-msgstr ""
+msgstr "ဖယ်ထုတ်ပါ။"
 
 msgid "Exit plugin without saving"
-msgstr ""
+msgstr "ပလပ်အင်ကို မသိမ်းဘဲ ထွက်လိုက်ပါ။"
 
 msgid "FFmpeg is needed to generate thumbnails from the mvi files"
-msgstr ""
+msgstr "mvi ဖိုင်များမှ ပုံသေးများကို ဖန်တီးရန် FFmpeg လိုအပ်သည်။"
 
 msgid "FFmpeg ist missing, no preview pictures available - there is an option to install it in the stettings"
-msgstr ""
+msgstr "FFmpeg ပျောက်နေသည်၊ အစမ်းကြည့်ပုံများ မရရှိနိုင်ပါ - ၎င်းကို stettings တွင် ထည့်သွင်းရန် ရွေးချယ်ခွင့်ရှိပါသည်။"
 
 msgid "FFmpeg removed successfully"
-msgstr ""
+msgstr "FFmpeg ကို အောင်မြင်စွာ ဖယ်ရှားခဲ့သည်။"
 
 msgid "FFmpeg successfully installed"
-msgstr ""
+msgstr "FFmpeg ကို အောင်မြင်စွာ ထည့်သွင်းပြီးပါပြီ။"
 
 msgid "First delete the mvi-files of the current bootlogo then copy the files of the new one"
-msgstr ""
+msgstr "ပထမဦးစွာ လက်ရှိ bootlogo ၏ mvi-ဖိုင်များကို ဖျက်ပြီးနောက် အသစ်၏ဖိုင်များကို ကော်ပီကူးပါ။"
 
 msgid "Found bootlogos"
-msgstr ""
+msgstr "bootlogo တွေတွေ့တယ်။"
 
 msgid "Full screen view the selected bootlogo"
-msgstr ""
+msgstr "ရွေးချယ်ထားသော bootlogo ကို မျက်နှာပြင်အပြည့်ကြည့်ရှုပါ။"
 
 msgid "Hide directories without 'mvi'-files"
-msgstr ""
+msgstr "'mvi'-ဖိုင်များမပါဘဲ လမ်းညွှန်များကို ဝှက်ထားပါ။"
 
 msgid "Hide empty directories"
-msgstr ""
+msgstr "ဗလာလမ်းညွှန်များကို ဝှက်ထားပါ။"
 
 msgid "How many seconds should status messages be displayed (1-60 sec)"
-msgstr ""
+msgstr "အခြေအနေ မက်ဆေ့ချ်များကို စက္ကန့်မည်မျှ ပြသသင့်သည် (1-60 စက္ကန့်)"
 
 msgid "Include"
-msgstr ""
+msgstr "ပါဝင်ပါတယ်။"
 
 msgid "Include or exlude logo in random choice"
-msgstr ""
+msgstr "ကျပန်းရွေးချယ်မှုတွင် လိုဂိုကို ထည့်ပါ သို့မဟုတ် ဖယ်ထုတ်ပါ။"
 
 msgid "Included Screens"
-msgstr ""
+msgstr "မျက်နှာပြင်များ ပါဝင်သည်။"
 
 msgid "Install/deinstall ffmpeg"
-msgstr ""
+msgstr "ffmpeg ကို install/uninstall လုပ်ပါ။"
 
 msgid "Installation of FFmpeg failed"
-msgstr ""
+msgstr "FFmpeg ကို ထည့်သွင်းခြင်း မအောင်မြင်ပါ။"
 
 msgid "No bootlogos found in directory"
-msgstr ""
+msgstr "လမ်းညွှန်တွင် bootlogo မတွေ့ပါ။"
 
 msgid "OK"
-msgstr ""
+msgstr "အိုကေ"
 
 msgid "Open settings"
-msgstr ""
+msgstr "ဆက်တင်များကိုဖွင့်ပါ။"
 
 msgid "Preview Logo"
-msgstr ""
+msgstr "လိုဂိုကို အစမ်းကြည့်ပါ။"
 
 msgid "Preview picture"
-msgstr ""
+msgstr "ပုံကို အစမ်းကြည့်ပါ။"
 
 msgid "Random mode"
-msgstr ""
+msgstr "ကျပန်းမုဒ်"
 
 msgid "Random selection at startup disabled"
-msgstr ""
+msgstr "စတင်ချိန်တွင် ကျပန်းရွေးချယ်မှုကို ပိတ်ထားသည်။"
 
 msgid "Random selection at startup enabled"
-msgstr ""
+msgstr "စတင်ချိန်တွင် ကျပန်းရွေးချယ်မှုကို ဖွင့်ထားသည်။"
 
 msgid "Save Changes and exit plugin"
-msgstr ""
+msgstr "အပြောင်းအလဲများကို သိမ်းဆည်းပြီး ပလပ်အင်မှ ထွက်ပါ။"
 
 msgid "Search for folders with boot logos in this directory"
-msgstr ""
+msgstr "ဤလမ်းညွှန်တွင် boot လိုဂိုပါသည့် ဖိုင်တွဲများကို ရှာဖွေပါ။"
 
 msgid "Which bootlogos should be displayed?"
-msgstr ""
+msgstr "မည်သည့် Bootlogo များကို ပြသသင့်သနည်း။"
 
 msgid "Which logo should be displayed as a preview picture?"
-msgstr ""
+msgstr "မည်သည့်လိုဂိုကို အစမ်းကြည့်ပုံအဖြစ် ပြသသင့်သနည်း။"
 
 msgid "[BootlogoChanger] activated new bootlogo"
-msgstr ""
+msgstr "[BootlogoChanger] သည် bootlogo အသစ်ကို အသက်သွင်းခဲ့သည်။"
 
 msgid "[BootlogoChanger] activating new bootlogo failed"
-msgstr ""
+msgstr "[BootlogoChanger] bootlogo အသစ်ကို အသက်သွင်းခြင်း မအောင်မြင်ပါ။"
 
 msgid "[BootlogoChanger] copy failed"
-msgstr ""
+msgstr "[BootlogoChanger] မိတ္တူမအောင်မြင်ပါ။"
 
 msgid "[BootlogoChanger] deleting old bootlogo files"
-msgstr ""
+msgstr "[BootlogoChanger] bootlogo ဖိုင်ဟောင်းများကို ဖျက်ခြင်း။"
 
 msgid "[BootlogoChanger] deleting previewPicture"
-msgstr ""
+msgstr "[BootlogoChanger] previewPicture ကိုဖျက်ခြင်း။"
 
 msgid "[BootlogoChanger] ffmpeg not found"
-msgstr ""
+msgstr "[BootlogoChanger] ffmpeg ကို ရှာမတွေ့ပါ။"
 
 msgid "[BootlogoChanger] found Bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] Bootlogos ကို တွေ့ရှိခဲ့သည်။"
 
 msgid "[BootlogoChanger] found ffmpeg"
-msgstr ""
+msgstr "[BootlogoChanger] ffmpeg ကို တွေ့ရှိခဲ့သည်။"
 
 msgid "[BootlogoChanger] no bootlogos for randomization selected"
-msgstr ""
+msgstr "[BootlogoChanger] ကျပန်းပြုလုပ်ရန်အတွက် ရွေးချယ်ထားသည့် bootlogo မရှိပါ။"
 
 msgid "[BootlogoChanger] previewPicture changed"
-msgstr ""
+msgstr "[BootlogoChanger] အကြိုကြည့်ရှုမှု ပုံပြောင်းသွားသည်။"
 
 msgid "[BootlogoChanger] randomization of bootlogos activated"
-msgstr ""
+msgstr "[BootlogoChanger] bootlogos ၏ ကျပန်းပြုလုပ်ခြင်းကို အသက်သွင်းခဲ့သည်။"
 
 msgid "[BootlogoChanger] randomization of bootlogos deactivated"
-msgstr ""
+msgstr "[BootlogoChanger] bootlogos ၏ ကျပန်းပြုလုပ်ခြင်းကို ပိတ်ထားသည်။"
 
 msgid "[BootlogoChanger] randomization: bootlogo found"
-msgstr ""
+msgstr "[BootlogoChanger] ကျပန်းပြုလုပ်ခြင်း- bootlogo ကို တွေ့ရှိခဲ့သည်။"
 
 msgid "[BootlogoChanger] selected bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] ရွေးထားသော bootlogos"
 
 msgid "deinstall"
-msgstr ""
+msgstr "ဖြုတ်ပါ။"
 
 msgid "found"
-msgstr ""
+msgstr "တွေ့တယ်။"
 
 msgid "install"
-msgstr ""
+msgstr "install လုပ်ပါ။"
 
 msgid "missing"
-msgstr ""
+msgstr "ပျောက်ဆုံး"
 
 msgid "off"
 msgstr ""

@@ -16,187 +16,187 @@ msgstr ""
 # [lululla] <ekekaz@gmail.com>, 2025.
 #
 msgid "Activate the debug-output on console"
-msgstr ""
+msgstr "Aktivera debug-utgången på konsolen"
 
 msgid "Bootlogo is excluded from random selection"
-msgstr ""
+msgstr "Bootlogo är utesluten från slumpmässigt urval"
 
 msgid "Bootlogo is included in random selection"
-msgstr ""
+msgstr "Bootlogo ingår i slumpmässigt urval"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Avboka"
 
 msgid "Choose random bootlogo at the start of the box"
-msgstr ""
+msgstr "Välj slumpmässig bootlogo i början av rutan"
 
 msgid "Copy logofiles failed"
-msgstr ""
+msgstr "Det gick inte att kopiera logofiler"
 
 msgid "Current bootlogo"
-msgstr ""
+msgstr "Aktuell bootlogo"
 
 msgid "Debugmode"
-msgstr ""
+msgstr "Felsökningsläge"
 
 msgid "Deinstallation of FFmpeg failed"
-msgstr ""
+msgstr "Avinstallationen av FFmpeg misslyckades"
 
 msgid "Delete current mvi-files before changing bootlogo"
-msgstr ""
+msgstr "Ta bort aktuella mvi-filer innan du ändrar bootlogotypen"
 
 msgid "Directory with bootlogo folders"
-msgstr ""
+msgstr "Katalog med bootlogo-mappar"
 
 msgid "Display duration of the status messages (sec)"
-msgstr ""
+msgstr "Visa varaktighet för statusmeddelanden (sek)"
 
 msgid "Easily switch between different bootlogos"
-msgstr ""
+msgstr "Växla enkelt mellan olika bootlogotyper"
 
 msgid "Exclude"
-msgstr ""
+msgstr "Utesluta"
 
 msgid "Exit plugin without saving"
-msgstr ""
+msgstr "Avsluta plugin utan att spara"
 
 msgid "FFmpeg is needed to generate thumbnails from the mvi files"
-msgstr ""
+msgstr "FFmpeg behövs för att generera miniatyrer från mvi-filerna"
 
 msgid "FFmpeg ist missing, no preview pictures available - there is an option to install it in the stettings"
-msgstr ""
+msgstr "FFmpeg saknas, inga förhandsvisningsbilder tillgängliga - det finns ett alternativ att installera det i inställningarna"
 
 msgid "FFmpeg removed successfully"
-msgstr ""
+msgstr "FFmpeg har tagits bort"
 
 msgid "FFmpeg successfully installed"
-msgstr ""
+msgstr "FFmpeg har installerats"
 
 msgid "First delete the mvi-files of the current bootlogo then copy the files of the new one"
-msgstr ""
+msgstr "Ta först bort mvi-filerna för den aktuella bootlogotypen och kopiera sedan filerna till den nya"
 
 msgid "Found bootlogos"
-msgstr ""
+msgstr "Hittade bootlogotyper"
 
 msgid "Full screen view the selected bootlogo"
-msgstr ""
+msgstr "Se den valda bootlogotypen i helskärm"
 
 msgid "Hide directories without 'mvi'-files"
-msgstr ""
+msgstr "Göm kataloger utan 'mvi'-filer"
 
 msgid "Hide empty directories"
-msgstr ""
+msgstr "Göm tomma kataloger"
 
 msgid "How many seconds should status messages be displayed (1-60 sec)"
-msgstr ""
+msgstr "Hur många sekunder ska statusmeddelanden visas (1-60 sek)"
 
 msgid "Include"
-msgstr ""
+msgstr "Omfatta"
 
 msgid "Include or exlude logo in random choice"
-msgstr ""
+msgstr "Inkludera eller exkludera logotyp i slumpmässigt val"
 
 msgid "Included Screens"
-msgstr ""
+msgstr "Inkluderade skärmar"
 
 msgid "Install/deinstall ffmpeg"
-msgstr ""
+msgstr "Installera/avinstallera ffmpeg"
 
 msgid "Installation of FFmpeg failed"
-msgstr ""
+msgstr "Installationen av FFmpeg misslyckades"
 
 msgid "No bootlogos found in directory"
-msgstr ""
+msgstr "Inga bootlogotyper hittades i katalogen"
 
 msgid "OK"
 msgstr ""
 
 msgid "Open settings"
-msgstr ""
+msgstr "Öppna inställningar"
 
 msgid "Preview Logo"
-msgstr ""
+msgstr "Förhandsgranska logotyp"
 
 msgid "Preview picture"
-msgstr ""
+msgstr "Förhandsgranska bilden"
 
 msgid "Random mode"
-msgstr ""
+msgstr "Slumpmässigt läge"
 
 msgid "Random selection at startup disabled"
-msgstr ""
+msgstr "Slumpmässigt urval vid start inaktiverat"
 
 msgid "Random selection at startup enabled"
-msgstr ""
+msgstr "Slumpmässigt urval vid start aktiverat"
 
 msgid "Save Changes and exit plugin"
-msgstr ""
+msgstr "Spara ändringar och avsluta plugin"
 
 msgid "Search for folders with boot logos in this directory"
-msgstr ""
+msgstr "Sök efter mappar med startlogotyper i den här katalogen"
 
 msgid "Which bootlogos should be displayed?"
-msgstr ""
+msgstr "Vilka bootlogotyper ska visas?"
 
 msgid "Which logo should be displayed as a preview picture?"
-msgstr ""
+msgstr "Vilken logotyp ska visas som en förhandsbild?"
 
 msgid "[BootlogoChanger] activated new bootlogo"
-msgstr ""
+msgstr "[BootlogoChanger] aktiverade ny bootlogo"
 
 msgid "[BootlogoChanger] activating new bootlogo failed"
-msgstr ""
+msgstr "[BootlogoChanger] aktivering av ny bootlogo misslyckades"
 
 msgid "[BootlogoChanger] copy failed"
-msgstr ""
+msgstr "Kopiering av [BootlogoChanger] misslyckades"
 
 msgid "[BootlogoChanger] deleting old bootlogo files"
-msgstr ""
+msgstr "[BootlogoChanger] tar bort gamla bootlogofiler"
 
 msgid "[BootlogoChanger] deleting previewPicture"
-msgstr ""
+msgstr "[BootlogoChanger] tar bort previewPicture"
 
 msgid "[BootlogoChanger] ffmpeg not found"
-msgstr ""
+msgstr "[BootlogoChanger] ffmpeg hittades inte"
 
 msgid "[BootlogoChanger] found Bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] hittade Bootlogos"
 
 msgid "[BootlogoChanger] found ffmpeg"
-msgstr ""
+msgstr "[BootlogoChanger] hittade ffmpeg"
 
 msgid "[BootlogoChanger] no bootlogos for randomization selected"
-msgstr ""
+msgstr "[BootlogoChanger] inga bootlogotyper för randomisering har valts"
 
 msgid "[BootlogoChanger] previewPicture changed"
-msgstr ""
+msgstr "[BootlogoChanger] förhandsgranskning Bild ändrad"
 
 msgid "[BootlogoChanger] randomization of bootlogos activated"
-msgstr ""
+msgstr "[BootlogoChanger] randomisering av bootlogotyper aktiverad"
 
 msgid "[BootlogoChanger] randomization of bootlogos deactivated"
-msgstr ""
+msgstr "[BootlogoChanger] randomisering av bootlogotyper avaktiverad"
 
 msgid "[BootlogoChanger] randomization: bootlogo found"
-msgstr ""
+msgstr "[BootlogoChanger] randomisering: bootlogo hittades"
 
 msgid "[BootlogoChanger] selected bootlogos"
-msgstr ""
+msgstr "[BootlogoChanger] valda bootlogotyper"
 
 msgid "deinstall"
-msgstr ""
+msgstr "avinstallera"
 
 msgid "found"
-msgstr ""
+msgstr "hittade"
 
 msgid "install"
-msgstr ""
+msgstr "installera"
 
 msgid "missing"
-msgstr ""
+msgstr "saknad"
 
 msgid "off"
-msgstr ""
+msgstr "av"
 
 msgid "on"
-msgstr ""
+msgstr "på"
