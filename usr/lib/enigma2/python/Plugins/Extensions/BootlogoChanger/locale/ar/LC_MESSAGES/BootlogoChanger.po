@@ -81,7 +81,7 @@ msgid "Full screen view the selected bootlogo"
 msgstr "عرض ملء الشاشة لشعار التمهيد المحدد"
 
 msgid "Hide directories without 'mvi'-files"
-msgstr "إخفاء الدلائل التي لا تحتوي على ملفات "mvi"."
+msgstr "إخفاء الدلائل التي لا تحتوي على ملفات \\\\\\\"mvi\\\\\\\"."
 
 msgid "Hide empty directories"
 msgstr "إخفاء الدلائل الفارغة"
