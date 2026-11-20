@@ -20,17 +20,6 @@
   </a>
 </p>
 
-Oppure puoi mettere tutti i badge in un unico <p>, così saranno su una sola riga (andando a capo automaticamente se lo spazio non basta):
-
-<p align="center">
-  ...tutti i badge...
-  ...Visitors...
-  ...Ko-fi...
-  ...PayPal...
-</p>
-
-Questo è il metodo più usato nei README GitHub ed è quello che ti consiglio per tutti i tuoi plugin.
-
 <p align="center">
   <img src="https://github.com/OwnerPlugins/BootlogoChanger/blob/main/usr/lib/enigma2/python/Plugins/Extensions/BootlogoChanger/plugin.png?raw=true" height="120">
 </p>
